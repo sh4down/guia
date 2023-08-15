@@ -21,22 +21,6 @@
   <channel id="tntsports1">
     <display-name lang="en">tntsports1</display-name>
   </channel>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -61,21 +45,21 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -101,21 +85,21 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -141,21 +125,21 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -181,21 +165,21 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -221,21 +205,21 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -261,21 +245,21 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230811000000 -0300" stop="20230811235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230812000000 -0300" stop="20230812235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230813000000 -0300" stop="20230813235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230814000000 -0300" stop="20230814235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20230815000000 -0300" stop="20230815235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -298,6 +282,22 @@
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
   <programme start="20230820000000 -0300" stop="20230820235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230821000000 -0300" stop="20230821235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230822000000 -0300" stop="20230822235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230823000000 -0300" stop="20230823235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230824000000 -0300" stop="20230824235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
