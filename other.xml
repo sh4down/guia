@@ -27,14 +27,6 @@
     <icon src="https://i.meuguia.tv/logos/new/135.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -67,13 +59,13 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -107,13 +99,13 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -147,13 +139,13 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -187,13 +179,13 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -227,13 +219,13 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -267,13 +259,13 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230914000000 -0300" stop="20230914235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230915000000 -0300" stop="20230915235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20230916000000 -0300" stop="20230916235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -307,173 +299,52 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20230914200000 -0300" stop="20230914230000 -0300" channel="Combate">
+  <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230925000000 -0300" stop="20230925235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230916000000 -0300" stop="20230916030000 -0300" channel="Combate">
+    <title lang="pt">PFL 2023 (?)</title>
+  </programme>
+  <programme start="20230916030000 -0300" stop="20230916060000 -0300" channel="Combate">
     <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
   </programme>
-  <programme start="20230914230000 -0300" stop="20230915020000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230915020000 -0300" stop="20230915031500 -0300" channel="Combate">
-    <title lang="pt">Bellator 215: Mitrione x Kharitonov (?)</title>
-  </programme>
-  <programme start="20230915031500 -0300" stop="20230915040500 -0300" channel="Combate">
+  <programme start="20230916060000 -0300" stop="20230916063000 -0300" channel="Combate">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20230915040500 -0300" stop="20230915070500 -0300" channel="Combate">
-    <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
-  </programme>
-  <programme start="20230915070500 -0300" stop="20230915093000 -0300" channel="Combate">
-    <title lang="pt">Boxe: Navarette x Valdez (?)</title>
-  </programme>
-  <programme start="20230915093000 -0300" stop="20230915133000 -0300" channel="Combate">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20230915133000 -0300" stop="20230915142000 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230915142000 -0300" stop="20230915153500 -0300" channel="Combate">
-    <title lang="pt">Bellator 215: Mitrione x Kharitonov (?)</title>
-  </programme>
-  <programme start="20230915153500 -0300" stop="20230915193000 -0300" channel="Combate">
-    <title lang="pt">Bellator 298: Storley x Ward (?)</title>
-  </programme>
-  <programme start="20230915193000 -0300" stop="20230915194000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20230915194000 -0300" stop="20230915195000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20230915195000 -0300" stop="20230915200000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20230915200000 -0300" stop="20230915230000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230915230000 -0300" stop="20230916010000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230916010000 -0300" stop="20230916040000 -0300" channel="Combate">
-    <title lang="pt">Jungle Fight 118 (?)</title>
-  </programme>
-  <programme start="20230916040000 -0300" stop="20230916045500 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230916045500 -0300" stop="20230916050000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital: Perfil Usman Nurmagomedov (?)</title>
-  </programme>
-  <programme start="20230916050000 -0300" stop="20230916075000 -0300" channel="Combate">
-    <title lang="pt">Boxe: Whindersson Nunes x King Kenny (?)</title>
-  </programme>
-  <programme start="20230916075000 -0300" stop="20230916080000 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: Dias de Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230916080000 -0300" stop="20230916110000 -0300" channel="Combate">
-    <title lang="pt">WNO 19: Meregali x Duarte (?)</title>
-  </programme>
-  <programme start="20230916110000 -0300" stop="20230916140000 -0300" channel="Combate">
-    <title lang="pt">Jungle Fight 118 (?)</title>
-  </programme>
-  <programme start="20230916140000 -0300" stop="20230916165000 -0300" channel="Combate">
-    <title lang="pt">Boxe: Whindersson Nunes x King Kenny (?)</title>
-  </programme>
-  <programme start="20230916165000 -0300" stop="20230916185500 -0300" channel="Combate">
-    <title lang="pt">Boxe: Navarette x Valdez (?)</title>
-  </programme>
-  <programme start="20230916185500 -0300" stop="20230916190000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital: Perfil Usman Nurmagomedov (?)</title>
-  </programme>
-  <programme start="20230916190000 -0300" stop="20230916193000 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-  </programme>
-  <programme start="20230916193000 -0300" stop="20230916200000 -0300" channel="Combate">
+  <programme start="20230916063000 -0300" stop="20230916070000 -0300" channel="Combate">
     <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20230916200000 -0300" stop="20230916223000 -0300" channel="Combate">
-    <title lang="pt">Glory 85: Heavyweight Tournament (?)</title>
-  </programme>
-  <programme start="20230916223000 -0300" stop="20230917000000 -0300" channel="Combate">
-    <title lang="pt">Glory 86: Petch x Chikh Mousa (?)</title>
-  </programme>
-  <programme start="20230917000000 -0300" stop="20230917030000 -0300" channel="Combate">
-    <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
-  </programme>
-  <programme start="20230917030000 -0300" stop="20230917035000 -0300" channel="Combate">
-    <title lang="pt">Flograppling WNO (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230917035000 -0300" stop="20230917040000 -0300" channel="Combate">
-    <title lang="pt">Faixa Digital (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230917040000 -0300" stop="20230917070000 -0300" channel="Combate">
+  <programme start="20230916070000 -0300" stop="20230916100000 -0300" channel="Combate">
     <title lang="pt">PFL 2023 (?)</title>
   </programme>
-  <programme start="20230917070000 -0300" stop="20230917095500 -0300" channel="Combate">
+  <programme start="20230916100000 -0300" stop="20230916130000 -0300" channel="Combate">
     <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
   </programme>
-  <programme start="20230917095500 -0300" stop="20230917115500 -0300" channel="Combate">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-  </programme>
-  <programme start="20230917115500 -0300" stop="20230917140000 -0300" channel="Combate">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20230917140000 -0300" stop="20230917170000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230917170000 -0300" stop="20230917200000 -0300" channel="Combate">
-    <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
-  </programme>
-  <programme start="20230917200000 -0300" stop="20230917220000 -0300" channel="Combate">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-  </programme>
-  <programme start="20230917220000 -0300" stop="20230918000000 -0300" channel="Combate">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-  </programme>
-  <programme start="20230918000000 -0300" stop="20230918030000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230918030000 -0300" stop="20230918060000 -0300" channel="Combate">
-    <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
-  </programme>
-  <programme start="20230918060000 -0300" stop="20230918063000 -0300" channel="Combate">
+  <programme start="20230916130000 -0300" stop="20230916133000 -0300" channel="Combate">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20230918063000 -0300" stop="20230918070000 -0300" channel="Combate">
+  <programme start="20230916133000 -0300" stop="20230916140000 -0300" channel="Combate">
     <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20230918070000 -0300" stop="20230918100000 -0300" channel="Combate">
-    <title lang="pt">PFL 2023 (?)</title>
-  </programme>
-  <programme start="20230918100000 -0300" stop="20230918130000 -0300" channel="Combate">
-    <title lang="pt">KSW 85: Parnasse x Ruchala (?)</title>
-  </programme>
-  <programme start="20230918130000 -0300" stop="20230918133000 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230918133000 -0300" stop="20230918140000 -0300" channel="Combate">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20230918140000 -0300" stop="20230918142500 -0300" channel="Combate">
+  <programme start="20230916140000 -0300" stop="20230916142500 -0300" channel="Combate">
     <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
   </programme>
-  <programme start="20230918142500 -0300" stop="20230918163000 -0300" channel="Combate">
+  <programme start="20230916142500 -0300" stop="20230916163000 -0300" channel="Combate">
     <title lang="pt">Boxe: Navarette x Valdez (?)</title>
   </programme>
-  <programme start="20230918163000 -0300" stop="20230918193000 -0300" channel="Combate">
+  <programme start="20230916163000 -0300" stop="20230916193000 -0300" channel="Combate">
     <title lang="pt">PFL 2023 (?)</title>
   </programme>
-  <programme start="20230918193000 -0300" stop="20230918200000 -0300" channel="Combate">
+  <programme start="20230916193000 -0300" stop="20230916200000 -0300" channel="Combate">
     <title lang="pt">Sessão Combate (?)</title>
   </programme>
 </tv>
