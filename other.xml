@@ -24,15 +24,14 @@
   <channel id="tntsports1">
     <display-name lang="en">tntsports1</display-name>
   </channel>
-  <channel id="Combate">
-    <display-name lang="pt">Combate</display-name>
-    <icon src="https://i.meuguia.tv/logos/new/135.png" />
-    <url>http://www.meuguia.tv</url>
+  <channel id="COMBATE">
+    <display-name lang="pt">COMBATE</display-name>
+    <url>http://www.sky.com.br</url>
   </channel>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
+  <channel id="COMBA HD">
+    <display-name lang="pt">COMBA HD</display-name>
+    <url>http://www.sky.com.br</url>
+  </channel>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -69,9 +68,9 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -109,9 +108,9 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -149,9 +148,9 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -189,9 +188,9 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -229,9 +228,9 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="afazenda15">
     <title lang="en">A Fazenda 15 24HRS.</title>
@@ -269,9 +268,9 @@
     <title lang="en">A Fazenda 15 24HRS.</title>
     <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -309,9 +308,9 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20230923000000 -0300" stop="20230923235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20230924000000 -0300" stop="20230924235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -348,5 +347,493 @@
   <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20230924163000 +0000" stop="20230924193000 +0000" channel="COMBATE">
+    <title lang="pt">WGP Studio 2 - Nicolás Vega x Facu Suarez - VT</title>
+    <desc lang="pt">Evento de kickboxing tem combate entre os argentinos Niko \.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230924193000 +0000" stop="20230924220000 +0000" channel="COMBATE">
+    <title lang="pt">Grand Slam de Judô - VT</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Toda a disputa da grande decisão da competição de judô, com sua etapa em Baku, no Azerbaijão. Circuito Mundial da Federação Internacional de Judô que tem etapas em diversas cidades ao redor do mundo. Tradicional competição que vale pontos para o ranking mundial e conta com a presença de judocas medalhistas olímpicos.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/545159/p545159_b_v5_v1_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230924220000 +0000" stop="20230925020000 +0000" channel="COMBATE">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925020000 +0000" stop="20230925050000 +0000" channel="COMBATE">
+    <title lang="pt">WGP Studio 2 - Nicolás Vega x Facu Suarez - VT</title>
+    <desc lang="pt">Evento de kickboxing tem combate entre os argentinos Niko \.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925050000 +0000" stop="20230925090000 +0000" channel="COMBATE">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925090000 +0000" stop="20230925093000 +0000" channel="COMBATE">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925093000 +0000" stop="20230925103000 +0000" channel="COMBATE">
+    <title lang="pt">ONE Vault</title>
+    <sub-title lang="pt">Volume 32</sub-title>
+    <desc lang="pt">Todos os melhores momentos e informações a respeito do ONE Championship, organização de MMA.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925103000 +0000" stop="20230925130000 +0000" channel="COMBATE">
+    <title lang="pt">Grand Slam de Judô - VT</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Toda a disputa da grande decisão da competição de judô, com sua etapa em Baku, no Azerbaijão. Circuito Mundial da Federação Internacional de Judô que tem etapas em diversas cidades ao redor do mundo. Tradicional competição que vale pontos para o ranking mundial e conta com a presença de judocas medalhistas olímpicos.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/545159/p545159_b_v5_v1_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925130000 +0000" stop="20230925170000 +0000" channel="COMBATE">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925170000 +0000" stop="20230925173000 +0000" channel="COMBATE">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925173000 +0000" stop="20230925190000 +0000" channel="COMBATE">
+    <title lang="pt">Abu Dhabi Grand Slam Jiu-Jitsu World Tour 2022-2023 - VT</title>
+    <sub-title lang="pt">Etapa de Miami</sub-title>
+    <desc lang="pt">Grandes nomes do jiu-jitsu mundial se reúnem na região metropolitana de Miami para a última etapa do Abu Dhabi Grand Slam Jiu-Jitsu World Tour em 2023. Do Watsco Center, em Coral Gables, Estados Unidos. Fique por dentro de toda a etapa do maior torneio de jiu-jitsu do mundo.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925190000 +0000" stop="20230925193000 +0000" channel="COMBATE">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925193000 +0000" stop="20230925200000 +0000" channel="COMBATE">
+    <title lang="pt">Experiência de Mestre</title>
+    <sub-title lang="pt">Rômulo Arantes Neto</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência. O ex-lutador de MMA Demian Maia recebe personalidades de diversas áreas para trocar experiências.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925200000 +0000" stop="20230926000000 +0000" channel="COMBATE">
+    <title lang="pt">Rizin FF 44 - VT</title>
+    <desc lang="pt">Brasileiro faz luta principal de evento de MMA na Saitama Super Arena, em Saitama, Japão.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926000000 +0000" stop="20230926032000 +0000" channel="COMBATE">
+    <title lang="pt">Bellator 285: Henderson x Queally - VT</title>
+    <desc lang="pt">Toda a disputa do card principal do evento de MMA, disputando em Dublin, na Irlanda.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926032000 +0000" stop="20230926033000 +0000" channel="COMBATE">
+    <title lang="pt">Faixa Digital</title>
+    <sub-title lang="pt">Top Nocautes e Finalizações Femininas</sub-title>
+    <desc lang="pt">Todos os mais impressionantes nocautes e submissões vitoriosas na categoria feminina, no MMA. Fique por dentro de tudo o que acontece no mundo das artes marciais mistas.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926033000 +0000" stop="20230926040000 +0000" channel="COMBATE">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230926040000 +0000" stop="20230926043000 +0000" channel="COMBATE">
+    <title lang="pt">Experiência de Mestre</title>
+    <sub-title lang="pt">Rômulo Arantes Neto</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência. O ex-lutador de MMA Demian Maia recebe personalidades de diversas áreas para trocar experiências.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926043000 +0000" stop="20230926080000 +0000" channel="COMBATE">
+    <title lang="pt">Bellator 285: Henderson x Queally - VT</title>
+    <desc lang="pt">Toda a disputa do card principal do evento de MMA, disputando em Dublin, na Irlanda.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230924163000 +0000" stop="20230924193000 +0000" channel="COMBA HD">
+    <title lang="pt">WGP Studio 2 - Nicolás Vega x Facu Suarez - VT</title>
+    <desc lang="pt">Evento de kickboxing tem combate entre os argentinos Niko \.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230924193000 +0000" stop="20230924220000 +0000" channel="COMBA HD">
+    <title lang="pt">Grand Slam de Judô - VT</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Toda a disputa da grande decisão da competição de judô, com sua etapa em Baku, no Azerbaijão. Circuito Mundial da Federação Internacional de Judô que tem etapas em diversas cidades ao redor do mundo. Tradicional competição que vale pontos para o ranking mundial e conta com a presença de judocas medalhistas olímpicos.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/545159/p545159_b_v5_v1_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230924220000 +0000" stop="20230925020000 +0000" channel="COMBA HD">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925020000 +0000" stop="20230925050000 +0000" channel="COMBA HD">
+    <title lang="pt">WGP Studio 2 - Nicolás Vega x Facu Suarez - VT</title>
+    <desc lang="pt">Evento de kickboxing tem combate entre os argentinos Niko \.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925050000 +0000" stop="20230925090000 +0000" channel="COMBA HD">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925090000 +0000" stop="20230925093000 +0000" channel="COMBA HD">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925093000 +0000" stop="20230925103000 +0000" channel="COMBA HD">
+    <title lang="pt">ONE Vault</title>
+    <sub-title lang="pt">Volume 32</sub-title>
+    <desc lang="pt">Todos os melhores momentos e informações a respeito do ONE Championship, organização de MMA.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925103000 +0000" stop="20230925130000 +0000" channel="COMBA HD">
+    <title lang="pt">Grand Slam de Judô - VT</title>
+    <sub-title lang="pt">Finais</sub-title>
+    <desc lang="pt">Toda a disputa da grande decisão da competição de judô, com sua etapa em Baku, no Azerbaijão. Circuito Mundial da Federação Internacional de Judô que tem etapas em diversas cidades ao redor do mundo. Tradicional competição que vale pontos para o ranking mundial e conta com a presença de judocas medalhistas olímpicos.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/545159/p545159_b_v5_v1_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925130000 +0000" stop="20230925170000 +0000" channel="COMBA HD">
+    <title lang="pt">Bellator - VT</title>
+    <sub-title lang="pt">Eblen x Edwards</sub-title>
+    <desc lang="pt">Evento de artes marciais mistas promovido pelo Bellator, com duelo entre o estadunidense Johnny Eblen e o inglês Fabian Edwards, pelo cinturão dos pesos-médios da organização, como o combate principal do card. Da 3Arena, em Dublin, Irlanda. Fundado em 2008, o Bellator é umas das maiores organizações de MMA do mundo e conta com grandes talentos, que disputam os cinturões nas divisões dos Penas até a dos Pesados.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://d3sctmde48b6y2.cloudfront.net/akamai/programacao/showcards/AllMADPhotos/1654269/p1654269_b_v5_v8_p.jpg" />
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925170000 +0000" stop="20230925173000 +0000" channel="COMBA HD">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925173000 +0000" stop="20230925190000 +0000" channel="COMBA HD">
+    <title lang="pt">Abu Dhabi Grand Slam Jiu-Jitsu World Tour 2022-2023 - VT</title>
+    <sub-title lang="pt">Etapa de Miami</sub-title>
+    <desc lang="pt">Grandes nomes do jiu-jitsu mundial se reúnem na região metropolitana de Miami para a última etapa do Abu Dhabi Grand Slam Jiu-Jitsu World Tour em 2023. Do Watsco Center, em Coral Gables, Estados Unidos. Fique por dentro de toda a etapa do maior torneio de jiu-jitsu do mundo.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925190000 +0000" stop="20230925193000 +0000" channel="COMBA HD">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230925193000 +0000" stop="20230925200000 +0000" channel="COMBA HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <sub-title lang="pt">Rômulo Arantes Neto</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência. O ex-lutador de MMA Demian Maia recebe personalidades de diversas áreas para trocar experiências.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230925200000 +0000" stop="20230926000000 +0000" channel="COMBA HD">
+    <title lang="pt">Rizin FF 44 - VT</title>
+    <desc lang="pt">Brasileiro faz luta principal de evento de MMA na Saitama Super Arena, em Saitama, Japão.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926000000 +0000" stop="20230926032000 +0000" channel="COMBA HD">
+    <title lang="pt">Bellator 285: Henderson x Queally - VT</title>
+    <desc lang="pt">Toda a disputa do card principal do evento de MMA, disputando em Dublin, na Irlanda.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926032000 +0000" stop="20230926033000 +0000" channel="COMBA HD">
+    <title lang="pt">Faixa Digital</title>
+    <sub-title lang="pt">Top Nocautes e Finalizações Femininas</sub-title>
+    <desc lang="pt">Todos os mais impressionantes nocautes e submissões vitoriosas na categoria feminina, no MMA. Fique por dentro de tudo o que acontece no mundo das artes marciais mistas.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926033000 +0000" stop="20230926040000 +0000" channel="COMBA HD">
+    <title lang="pt">Dos Samurais ao MMA - 500 Anos de Luta</title>
+    <sub-title lang="pt">1ª Temp. Ep.5</sub-title>
+    <desc lang="pt">Uma imersão na origem e evolução do jiu jitsu, desde os samurais do Japão feudal, passando pelos irmãos Carlos e Hélio Gracie, e chegando na criação das organizações de artes marciais mistas, ou MMA, e na explosão mundial do jiu-jitsu esportivo.</desc>
+    <category lang="pt">Interesses</category>
+    <category lang="pt">Séries</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>14+</value>
+    </rating>
+  </programme>
+  <programme start="20230926040000 +0000" stop="20230926043000 +0000" channel="COMBA HD">
+    <title lang="pt">Experiência de Mestre</title>
+    <sub-title lang="pt">Rômulo Arantes Neto</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência. O ex-lutador de MMA Demian Maia recebe personalidades de diversas áreas para trocar experiências.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
+  </programme>
+  <programme start="20230926043000 +0000" stop="20230926080000 +0000" channel="COMBA HD">
+    <title lang="pt">Bellator 285: Henderson x Queally - VT</title>
+    <desc lang="pt">Toda a disputa do card principal do evento de MMA, disputando em Dublin, na Irlanda.</desc>
+    <category lang="pt">Séries</category>
+    <video>
+      <quality>SD</quality>
+    </video>
+    <rating system="BR">
+      <value>L+</value>
+    </rating>
   </programme>
 </tv>
