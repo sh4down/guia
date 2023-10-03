@@ -348,38 +348,6 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231002040000 -0300" stop="20231002070000 -0300" channel="Combate HD">
-    <title lang="pt">Professional Fighters League Europe - Playoffs : Playoffs</title>
-    <sub-title lang="pt">Playoffs</sub-title>
-    <desc lang="pt">Evento de artes marciais mistas com um extenso card que inclui as semifinais de várias categorias de peso diferentes do PFL Europe. Do Zénith Paris - La Villette, em Paris, França.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/53/15538684_69043178BB78FD1A.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231002070000 -0300" stop="20231002080000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 34</title>
-    <sub-title lang="pt">Volume 34</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231002080000 -0300" stop="20231002120000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14 - Stamp x Ham</title>
-    <desc lang="pt">Evento de MMA, muay thai e grappling. Do Estádio Indoor de Singapura, em Kallang, Singapura.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/96/16962156_72E3092DC5F47D2F.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
   <programme start="20231002120000 -0300" stop="20231002150000 -0300" channel="Combate HD">
     <title lang="pt">Jungle Fight 120 - Silva x Costa</title>
     <desc lang="pt">Maior evento de artes marciais mistas da América Latina, o Jungle Fight completa 20 anos de existência em 2023 e chega à sua edição de número 120. Card tem disputa de cinturão dos médios e outras 11 lutas. Do Ginásio do Tartarugão, em Vila Velha, ES.</desc>
@@ -1097,6 +1065,74 @@
     <date>2023</date>
     <category lang="pt">Especial</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/95/15958073_062F042C7D06CD1F.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006231000 -0300" stop="20231006232500 -0300" channel="Combate HD">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006232500 -0300" stop="20231006233500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital</title>
+    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006233500 -0300" stop="20231006234500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital</title>
+    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006234500 -0300" stop="20231006235500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital</title>
+    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006235500 -0300" stop="20231007000000 -0300" channel="Combate HD">
+    <title lang="pt">Aquecimento Combate</title>
+    <desc lang="pt">Acompanhe um "esquenta" com tudo que antecede os principais eventos do mundo das artes marciais.</desc>
+    <date>2019</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12984289_28404082D5292069.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007000000 -0300" stop="20231007050000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Tawanchai x Superbon</title>
+    <desc lang="pt">Toda a disputa pelo cinturão dos pesos penas. Do Estádio de Boxe de Lumpinee, na Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007050000 -0300" stop="20231007080000 -0300" channel="Combate HD">
+    <title lang="pt">PFL : Regular Season #3 - Pesos Leves e Médios</title>
+    <sub-title lang="pt">Regular Season #3 - Pesos Leves e Médios</sub-title>
+    <desc lang="pt">Atletas de MMA de todo o planeta se enfrentam em competição com temporada regular, playoffs e final.</desc>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/58/15587519_71A2E3B456051556.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
