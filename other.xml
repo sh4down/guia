@@ -28,18 +28,6 @@
     <display-name lang="pt">Combate HD</display-name>
     <url>http://www.vivo.com.br</url>
   </channel>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -68,17 +56,17 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -108,17 +96,17 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -148,17 +136,17 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -188,17 +176,17 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -228,17 +216,17 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="afazenda15">
     <title lang="en">A Fazenda 15 24HRS.</title>
@@ -268,17 +256,17 @@
     <title lang="en">A Fazenda 15 24HRS.</title>
     <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -308,17 +296,17 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231002000000 -0300" stop="20231002235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231003000000 -0300" stop="20231003235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231004000000 -0300" stop="20231004235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20231005000000 -0300" stop="20231005235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -348,476 +336,17 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231002120000 -0300" stop="20231002150000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 120 - Silva x Costa</title>
-    <desc lang="pt">Maior evento de artes marciais mistas da América Latina, o Jungle Fight completa 20 anos de existência em 2023 e chega à sua edição de número 120. Card tem disputa de cinturão dos médios e outras 11 lutas. Do Ginásio do Tartarugão, em Vila Velha, ES.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/06/17067997_13656FFC0E215107.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
+  <programme start="20231012000000 -0300" stop="20231012235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231002150000 -0300" stop="20231002180000 -0300" channel="Combate HD">
-    <title lang="pt">Professional Fighters League Europe - Playoffs : Playoffs</title>
-    <sub-title lang="pt">Playoffs</sub-title>
-    <desc lang="pt">Evento de artes marciais mistas com um extenso card que inclui as semifinais de várias categorias de peso diferentes do PFL Europe. Do Zénith Paris - La Villette, em Paris, França.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/53/15538684_69043178BB78FD1A.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
+  <programme start="20231013000000 -0300" stop="20231013235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231002180000 -0300" stop="20231002220000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14 - Stamp x Ham</title>
-    <desc lang="pt">Evento de MMA, muay thai e grappling. Do Estádio Indoor de Singapura, em Kallang, Singapura.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/96/16962156_72E3092DC5F47D2F.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231002220000 -0300" stop="20231002223000 -0300" channel="Combate HD">
-    <title lang="pt">Experiência de Mestre : T1 EP1 - Rômulo Arantes Neto</title>
-    <sub-title lang="pt">T1 EP1 - Rômulo Arantes Neto</sub-title>
-    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência.</desc>
-    <credits>
-      <director>Daniel Billio</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231002223000 -0300" stop="20231002230000 -0300" channel="Combate HD">
-    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
-    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
-    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
-    <credits>
-      <director>Daniel Billio</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231002230000 -0300" stop="20231003030000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF Landmark 6</title>
-    <desc lang="pt">Evento tem card com 15 lutas de MMA ou kickboxing. Da Dolphins Arena, em Nagoia, Japão.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/06/17068015_03B66381109EAF6C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003030000 -0300" stop="20231003053500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator - 292: Nurmagomedov x Henderson : 292: Nurmagomedov x Henderson</title>
-    <sub-title lang="pt">292: Nurmagomedov x Henderson</sub-title>
-    <desc lang="pt">Acompanhe as emoções do evento de artes marciais mistas realizado no SAP Center, em San Jose, EUA. Na luta principal do card, o russo Usman Nurmagomedov defende o cinturão dos pesos-leves da organização contra o estadunidense Benson Henderson.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/31/15319549_FC2E716984155C5B.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003053500 -0300" stop="20231003055000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</title>
-    <sub-title lang="pt">Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</sub-title>
-    <desc lang="pt">Acompanhe a análise dos eventos, com lutas de boxe, kickboxing, muay thai e artes marciais mistas.</desc>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003055000 -0300" stop="20231003060000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Perfil Robson Conceição</title>
-    <sub-title lang="pt">Perfil Robson Conceição</sub-title>
-    <desc lang="pt">Acompanhe todas as informações do pugilista brasileiro, que briga por título internacional.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003060000 -0300" stop="20231003063000 -0300" channel="Combate HD">
-    <title lang="pt">Experiência de Mestre : T1 EP1 - Rômulo Arantes Neto</title>
-    <sub-title lang="pt">T1 EP1 - Rômulo Arantes Neto</sub-title>
-    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência.</desc>
-    <credits>
-      <director>Daniel Billio</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003063000 -0300" stop="20231003070000 -0300" channel="Combate HD">
-    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
-    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
-    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
-    <credits>
-      <director>Daniel Billio</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003070000 -0300" stop="20231003093500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator - 292: Nurmagomedov x Henderson : 292: Nurmagomedov x Henderson</title>
-    <sub-title lang="pt">292: Nurmagomedov x Henderson</sub-title>
-    <desc lang="pt">Acompanhe as emoções do evento de artes marciais mistas realizado no SAP Center, em San Jose, EUA. Na luta principal do card, o russo Usman Nurmagomedov defende o cinturão dos pesos-leves da organização contra o estadunidense Benson Henderson.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/31/15319549_FC2E716984155C5B.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003093500 -0300" stop="20231003100000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Top 5 - Celebridades na Luta</title>
-    <sub-title lang="pt">Top 5 - Celebridades na Luta</sub-title>
-    <desc lang="pt">Acompanhe todos os cinco maiores figurões que já se envolveram no mundo dos esportes de combate.</desc>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003100000 -0300" stop="20231003140000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF Landmark 6</title>
-    <desc lang="pt">Evento tem card com 15 lutas de MMA ou kickboxing. Da Dolphins Arena, em Nagoia, Japão.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/06/17068015_03B66381109EAF6C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003140000 -0300" stop="20231003153000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi Grand Slam Jiu-Jitsu World Tour - Etapa de Miami : Etapa de Miami</title>
-    <sub-title lang="pt">Etapa de Miami</sub-title>
-    <desc lang="pt">Grandes nomes do jiu-jitsu mundial se reúnem na região metropolitana de Miami para a última etapa do Abu Dhabi Grand Slam Jiu-Jitsu World Tour em 2023. Do Watsco Center, em Coral Gables, Estados Unidos.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/40/12400174_01D2C5CDAB3BADF4.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003153000 -0300" stop="20231003175000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Slam de Judô - Azerbaijão - Finais : Azerbaijão - Finais</title>
-    <sub-title lang="pt">Azerbaijão - Finais</sub-title>
-    <desc lang="pt">Toda a disputa da grande decisão da competição de judô, com sua etapa em Baku, no Azerbaijão.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/84/11845919_66EE2FC591697ADD.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003175000 -0300" stop="20231003180000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Perfil Robson Conceição</title>
-    <sub-title lang="pt">Perfil Robson Conceição</sub-title>
-    <desc lang="pt">Acompanhe todas as informações do pugilista brasileiro, que briga por título internacional.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003180000 -0300" stop="20231003220000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF Landmark 6</title>
-    <desc lang="pt">Evento tem card com 15 lutas de MMA ou kickboxing. Da Dolphins Arena, em Nagoia, Japão.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/06/17068015_03B66381109EAF6C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003220000 -0300" stop="20231003230000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 35</title>
-    <sub-title lang="pt">Volume 35</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231003230000 -0300" stop="20231004015000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe : EP539 - Whindersson Nunes x King Kenny</title>
-    <sub-title lang="pt">EP539 - Whindersson Nunes x King Kenny</sub-title>
-    <desc lang="pt">Toda a disputa do combate de boxe entre o comediante brasileiro e o britânico.</desc>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15657987_89D64977EFAE27C8.jpg" />
-    <episode-num system="onscreen">E539</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004015000 -0300" stop="20231004020000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Perfil Robson Conceição</title>
-    <sub-title lang="pt">Perfil Robson Conceição</sub-title>
-    <desc lang="pt">Acompanhe todas as informações do pugilista brasileiro, que briga por título internacional.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004020000 -0300" stop="20231004032500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator : EP1 - 238: Budd x Cyborg</title>
-    <sub-title lang="pt">EP1 - 238: Budd x Cyborg</sub-title>
-    <desc lang="pt">Relembre o evento realizado em 25 de janeiro de 2020 no The Forum, em Inglewood, EUA.</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/56/15566888_B246C2053716B35C.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004032500 -0300" stop="20231004064500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator : EP163 - 288</title>
-    <sub-title lang="pt">EP163 - 288</sub-title>
-    <desc lang="pt">Luta valendo cinturão dos supermédios encerra evento de MMA na Wintrust Arena, em Chicago, EUA.</desc>
-    <date>2022</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663944_1889B6DDFA1E093D.jpg" />
-    <episode-num system="onscreen">E163</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004064500 -0300" stop="20231004070000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital : Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</title>
-    <sub-title lang="pt">Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</sub-title>
-    <desc lang="pt">Acompanhe a análise dos eventos, com lutas de boxe, kickboxing, muay thai e artes marciais mistas.</desc>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004070000 -0300" stop="20231004073000 -0300" channel="Combate HD">
-    <title lang="pt">Experiência de Mestre : T1 EP1 - Rômulo Arantes Neto</title>
-    <sub-title lang="pt">T1 EP1 - Rômulo Arantes Neto</sub-title>
-    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência.</desc>
-    <credits>
-      <director>Daniel Billio</director>
-    </credits>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004073000 -0300" stop="20231004102000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe : EP539 - Whindersson Nunes x King Kenny</title>
-    <sub-title lang="pt">EP539 - Whindersson Nunes x King Kenny</sub-title>
-    <desc lang="pt">Toda a disputa do combate de boxe entre o comediante brasileiro e o britânico.</desc>
-    <date>2023</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/65/15657987_89D64977EFAE27C8.jpg" />
-    <episode-num system="onscreen">E539</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004102000 -0300" stop="20231004103000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
-    <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004103000 -0300" stop="20231004135000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator : EP163 - 288</title>
-    <sub-title lang="pt">EP163 - 288</sub-title>
-    <desc lang="pt">Luta valendo cinturão dos supermédios encerra evento de MMA na Wintrust Arena, em Chicago, EUA.</desc>
-    <date>2022</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663944_1889B6DDFA1E093D.jpg" />
-    <episode-num system="onscreen">E163</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004135000 -0300" stop="20231004163000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
-    <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004163000 -0300" stop="20231004180000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator : EP1 - 238: Budd x Cyborg</title>
-    <sub-title lang="pt">EP1 - 238: Budd x Cyborg</sub-title>
-    <desc lang="pt">Relembre o evento realizado em 25 de janeiro de 2020 no The Forum, em Inglewood, EUA.</desc>
-    <date>2020</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/56/15566888_B246C2053716B35C.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004180000 -0300" stop="20231004212000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator : EP163 - 288</title>
-    <sub-title lang="pt">EP163 - 288</sub-title>
-    <desc lang="pt">Luta valendo cinturão dos supermédios encerra evento de MMA na Wintrust Arena, em Chicago, EUA.</desc>
-    <date>2022</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/66/15663944_1889B6DDFA1E093D.jpg" />
-    <episode-num system="onscreen">E163</episode-num>
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004212000 -0300" stop="20231004220000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
-    <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004220000 -0300" stop="20231004223000 -0300" channel="Combate HD">
-    <title lang="pt">Nocautes Jungle</title>
-    <desc lang="pt">Os lutadores de MMA, reconhecidos como os gladiadores do terceiro milênio, estão cada vez mais competitivos e reconhecidos como os grandes atletas que são. Trata-se de um programa que aborda o cotidiano dos lutadores.</desc>
-    <date>2022</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11829271_476ECCEB01664935.jpg" />
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20231004223000 -0300" stop="20231004230000 -0300" channel="Combate HD">
-    <title lang="pt">Finalizações Jungle</title>
-    <desc lang="pt">Fique por dentro das maiores finalizações da história do Jungle Fight.</desc>
-    <date>2022</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/47/12470485_1E59301EC0DD11F9.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231004230000 -0300" stop="20231005010000 -0300" channel="Combate HD">
-    <title lang="pt">MMA</title>
-    <desc lang="pt">Acompanhe as melhores lutas da modalidade.</desc>
-    <date>2016</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928894_349652773D1711F5.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005010000 -0300" stop="20231005020000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 35</title>
-    <sub-title lang="pt">Volume 35</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005020000 -0300" stop="20231005052500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator - 294: Carmouche x Bennett 2 : 294: Carmouche x Bennett 2</title>
-    <sub-title lang="pt">294: Carmouche x Bennett 2</sub-title>
-    <desc lang="pt">Acompanhe todo o evento que promove a luta de Liz Carmouche e Deanna Bennette. Do Havaí, EUA.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/72/15722434_4E29CB06A70602B9.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005052500 -0300" stop="20231005060000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
-    <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005060000 -0300" stop="20231005063000 -0300" channel="Combate HD">
-    <title lang="pt">Nocautes Jungle</title>
-    <desc lang="pt">Os lutadores de MMA, reconhecidos como os gladiadores do terceiro milênio, estão cada vez mais competitivos e reconhecidos como os grandes atletas que são. Trata-se de um programa que aborda o cotidiano dos lutadores.</desc>
-    <date>2022</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/82/11829271_476ECCEB01664935.jpg" />
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20231005063000 -0300" stop="20231005070000 -0300" channel="Combate HD">
-    <title lang="pt">Finalizações Jungle</title>
-    <desc lang="pt">Fique por dentro das maiores finalizações da história do Jungle Fight.</desc>
-    <date>2022</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/47/12470485_1E59301EC0DD11F9.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005070000 -0300" stop="20231005080000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 35</title>
-    <sub-title lang="pt">Volume 35</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
-    <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005080000 -0300" stop="20231005100000 -0300" channel="Combate HD">
-    <title lang="pt">MMA</title>
-    <desc lang="pt">Acompanhe as melhores lutas da modalidade.</desc>
-    <date>2016</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928894_349652773D1711F5.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
+  <programme start="20231014000000 -0300" stop="20231014235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
   <programme start="20231005100000 -0300" stop="20231005132500 -0300" channel="Combate HD">
     <title lang="pt">Bellator - 294: Carmouche x Bennett 2 : 294: Carmouche x Bennett 2</title>
@@ -830,12 +359,24 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231005132500 -0300" stop="20231005150000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+  <programme start="20231005132500 -0300" stop="20231005145500 -0300" channel="Combate HD">
+    <title lang="pt">Abu Dhabi Grand Slam Jiu-Jitsu World Tour - Etapa de Miami : Etapa de Miami</title>
+    <sub-title lang="pt">Etapa de Miami</sub-title>
+    <desc lang="pt">Grandes nomes do jiu-jitsu mundial se reúnem na região metropolitana de Miami para a última etapa do Abu Dhabi Grand Slam Jiu-Jitsu World Tour em 2023. Do Watsco Center, em Coral Gables, Estados Unidos.</desc>
     <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/40/12400174_01D2C5CDAB3BADF4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231005145500 -0300" stop="20231005150000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital : Top Nocautes John Lineker</title>
+    <sub-title lang="pt">Top Nocautes John Lineker</sub-title>
+    <desc lang="pt">Fique por dentro de todos os mais impressionantes nocautes do atleta de MMA.</desc>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
@@ -860,42 +401,34 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231005160000 -0300" stop="20231005180000 -0300" channel="Combate HD">
-    <title lang="pt">MMA</title>
-    <desc lang="pt">Acompanhe as melhores lutas da modalidade.</desc>
-    <date>2016</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/92/12928894_349652773D1711F5.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005180000 -0300" stop="20231005190000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
-    <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231005190000 -0300" stop="20231005214000 -0300" channel="Combate HD">
-    <title lang="pt">WGP Studio 2 - Nicolás Vega x Facu Suarez</title>
-    <desc lang="pt">Evento de kickboxing tem combate entre os argentinos Niko "El Renegado" Vera e Facu Suarez, da categoria superleve, na luta principal. Do The Other Place, em Buenos Aires, Argentina.</desc>
+  <programme start="20231005160000 -0300" stop="20231005195000 -0300" channel="Combate HD">
+    <title lang="pt">WNO 20: Night of Champions</title>
+    <desc lang="pt">Card completo do evento de artes marciais realizado no Bayou Music Center, em Houston, EUA.</desc>
     <date>2023</date>
     <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/95/16959194_5438375D30C971B8.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17096648_B739E866B1A945B9.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231005214000 -0300" stop="20231005220000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+  <programme start="20231005195000 -0300" stop="20231005200500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital : Caminho do Milhão - Cara de Sapato</title>
+    <sub-title lang="pt">Caminho do Milhão - Cara de Sapato</sub-title>
+    <desc lang="pt">Toda a história de um dos lutadores mais famosos do Brasil na história recente do UFC.</desc>
     <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231005200500 -0300" stop="20231005220000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe - Luis Alberto Lopez x Joet Gonzalez : Luis Alberto Lopez x Joet Gonzalez</title>
+    <sub-title lang="pt">Luis Alberto Lopez x Joet Gonzalez</sub-title>
+    <desc lang="pt">Todo o combate de boxe, disputado no American Bank Center, em Corpus Christi, no Texas.</desc>
+    <date>2023</date>
+    <category lang="pt">Boxe</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/63/16632332_F1C07F70F6CBF7A7.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
@@ -933,11 +466,12 @@
     </rating>
   </programme>
   <programme start="20231006054000 -0300" stop="20231006060000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+    <title lang="pt">Faixa Digital : Top 5 - Celebridades na Luta</title>
+    <sub-title lang="pt">Top 5 - Celebridades na Luta</sub-title>
+    <desc lang="pt">Acompanhe todos os cinco maiores figurões que já se envolveram no mundo dos esportes de combate.</desc>
     <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
@@ -953,7 +487,7 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006070000 -0300" stop="20231006100000 -0300" channel="Combate HD">
+  <programme start="20231006070000 -0300" stop="20231006103000 -0300" channel="Combate HD">
     <title lang="pt">Rizin FF Landmark 6</title>
     <desc lang="pt">Evento tem card com 15 lutas de MMA ou kickboxing. Da Dolphins Arena, em Nagoia, Japão.</desc>
     <date>2023</date>
@@ -963,40 +497,39 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006100000 -0300" stop="20231006110000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 17</title>
-    <sub-title lang="pt">Volume 17</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
+  <programme start="20231006103000 -0300" stop="20231006110000 -0300" channel="Combate HD">
+    <title lang="pt">Experiência de Mestre : T1 EP1 - Rômulo Arantes Neto</title>
+    <sub-title lang="pt">T1 EP1 - Rômulo Arantes Neto</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Rômulo Arantes Neto para um bate-papo sobre lutas e paciência.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
     <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E1</episode-num>
     <rating>
       <value>AGE215</value>
     </rating>
   </programme>
   <programme start="20231006110000 -0300" stop="20231006113000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate</title>
-    <desc lang="pt">Acompanhe filmes e especiais sobre os lutadores e o MMA.</desc>
-    <date>2014</date>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/81/11817675_6AF7957A9558ACFB.jpg" />
-    <rating>
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20231006113000 -0300" stop="20231006123000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Vault : Volume 35</title>
-    <sub-title lang="pt">Volume 35</sub-title>
-    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
+    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
+    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
+    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
     <date>2023</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating>
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006123000 -0300" stop="20231006163000 -0300" channel="Combate HD">
+  <programme start="20231006113000 -0300" stop="20231006180000 -0300" channel="Combate HD">
     <title lang="pt">ONE Friday Fights 36</title>
+    <desc lang="pt">Toda a disputa da 36ª edição do evento de MMA. Do Estádio de Boxe Lumpinee, na Tailândia.</desc>
     <date>2023</date>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072764_8185D44C5553EDAF.jpg" />
@@ -1004,7 +537,7 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006163000 -0300" stop="20231006191000 -0300" channel="Combate HD">
+  <programme start="20231006180000 -0300" stop="20231006191000 -0300" channel="Combate HD">
     <title lang="pt">FMS 3 - Acelino "Popó" Freitas x Jr. Dublê</title>
     <desc lang="pt">Terceira edição do Fight Music Show tem o boxeador multicampeão Acelino "Popó" Freitas encarando Júnior Dublê e, em outra luta de destaque, Dynho Alves e MC Livinho disputando o cinturão dos influenciadores. Do Clube Hebraica, em São Paulo, SP.</desc>
     <date>2023</date>
@@ -1014,12 +547,28 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006191000 -0300" stop="20231006200000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+  <programme start="20231006191000 -0300" stop="20231006193000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital : Top 5 - Celebridades na Luta</title>
+    <sub-title lang="pt">Top 5 - Celebridades na Luta</sub-title>
+    <desc lang="pt">Acompanhe todos os cinco maiores figurões que já se envolveram no mundo dos esportes de combate.</desc>
     <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231006193000 -0300" stop="20231006200000 -0300" channel="Combate HD">
+    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
+    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
+    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
     <rating>
       <value>AGE215</value>
     </rating>
@@ -1035,11 +584,12 @@
     </rating>
   </programme>
   <programme start="20231006204500 -0300" stop="20231006210000 -0300" channel="Combate HD">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+    <title lang="pt">Faixa Digital : Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</title>
+    <sub-title lang="pt">Análise Combate: ONE Fight Night 8 + PFL Europe 1 + Boxe: José Ramírez x Richard Commey</sub-title>
+    <desc lang="pt">Acompanhe a análise dos eventos, com lutas de boxe, kickboxing, muay thai e artes marciais mistas.</desc>
     <date>2023</date>
-    <category lang="pt">Especial</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
@@ -1059,7 +609,7 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006213000 -0300" stop="20231006231000 -0300" channel="Combate HD">
+  <programme start="20231006213000 -0300" stop="20231006230000 -0300" channel="Combate HD">
     <title lang="pt">GLORY Rivals 5</title>
     <desc lang="pt">Evento com seis lutas de kickboxing realizado no Zamna Tulum, em Tulum, México. O peso-leve Bruno Gazani, o peso-médio Renan Altamiro e o meio-médio Jonas "Salsicha" Julio foram os representantes brasileiros no card.</desc>
     <date>2023</date>
@@ -1069,7 +619,38 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006231000 -0300" stop="20231006232500 -0300" channel="Combate HD">
+  <programme start="20231006230000 -0300" stop="20231007070000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007070000 -0300" stop="20231007080000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Vault : Volume 35</title>
+    <sub-title lang="pt">Volume 35</sub-title>
+    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007080000 -0300" stop="20231007104000 -0300" channel="Combate HD">
+    <title lang="pt">FMS 3 - Acelino "Popó" Freitas x Jr. Dublê</title>
+    <desc lang="pt">Terceira edição do Fight Music Show tem o boxeador multicampeão Acelino "Popó" Freitas encarando Júnior Dublê e, em outra luta de destaque, Dynho Alves e MC Livinho disputando o cinturão dos influenciadores. Do Clube Hebraica, em São Paulo, SP.</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/03/17038361_868853796FB51DA7.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007104000 -0300" stop="20231007113000 -0300" channel="Combate HD">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
     <date>2023</date>
@@ -1079,46 +660,9 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231006232500 -0300" stop="20231006233500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital</title>
-    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231006233500 -0300" stop="20231006234500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital</title>
-    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231006234500 -0300" stop="20231006235500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital</title>
-    <desc lang="pt">Fique por dentro de tudo o que acontece no mundo das artes marciais.</desc>
-    <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231006235500 -0300" stop="20231007000000 -0300" channel="Combate HD">
-    <title lang="pt">Aquecimento Combate</title>
-    <desc lang="pt">Acompanhe um "esquenta" com tudo que antecede os principais eventos do mundo das artes marciais.</desc>
-    <date>2019</date>
-    <category lang="pt">Esporte</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/12/98/12984289_28404082D5292069.jpg" />
-    <rating>
-      <value>AGE215</value>
-    </rating>
-  </programme>
-  <programme start="20231007000000 -0300" stop="20231007050000 -0300" channel="Combate HD">
-    <title lang="pt">ONE Fight Night 15: Tawanchai x Superbon</title>
-    <desc lang="pt">Toda a disputa pelo cinturão dos pesos penas. Do Estádio de Boxe de Lumpinee, na Tailândia.</desc>
+  <programme start="20231007113000 -0300" stop="20231007153000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
     <date>2023</date>
     <category lang="pt">Esporte</category>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
@@ -1126,13 +670,270 @@
       <value>AGE215</value>
     </rating>
   </programme>
-  <programme start="20231007050000 -0300" stop="20231007080000 -0300" channel="Combate HD">
-    <title lang="pt">PFL : Regular Season #3 - Pesos Leves e Médios</title>
-    <sub-title lang="pt">Regular Season #3 - Pesos Leves e Médios</sub-title>
-    <desc lang="pt">Atletas de MMA de todo o planeta se enfrentam em competição com temporada regular, playoffs e final.</desc>
+  <programme start="20231007153000 -0300" stop="20231007160000 -0300" channel="Combate HD">
+    <title lang="pt">Pesagem: Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Pesagem dos lutadores e lutadoras para o evento de MMA a ser realizado em San Diego, Estados Unidos.</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/04/17046278_447A6E2C3CB19D09.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007160000 -0300" stop="20231007163000 -0300" channel="Combate HD">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Acompanhe a programação do canal e todo o conteúdo voltado ao universo das lutas.</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/59/16596575_8210E04A43134C9C.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007163000 -0300" stop="20231007203000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007203000 -0300" stop="20231007205000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital : Top 5 - Celebridades na Luta</title>
+    <sub-title lang="pt">Top 5 - Celebridades na Luta</sub-title>
+    <desc lang="pt">Acompanhe todos os cinco maiores figurões que já se envolveram no mundo dos esportes de combate.</desc>
     <date>2023</date>
     <category lang="pt">Séries</category>
-    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/58/15587519_71A2E3B456051556.jpg" />
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007205000 -0300" stop="20231007213000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Vault : Volume 35</title>
+    <sub-title lang="pt">Volume 35</sub-title>
+    <desc lang="pt">Grandes momentos e destaques dos eventos de artes marciais organizados pela ONE Championship.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/91/16914204_67FB2FC724488DB4.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231007213000 -0300" stop="20231008073000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008073000 -0300" stop="20231008100000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008100000 -0300" stop="20231008140000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008140000 -0300" stop="20231008180000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008180000 -0300" stop="20231008183000 -0300" channel="Combate HD">
+    <title lang="pt">Pesagem: Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Pesagem dos lutadores e lutadoras para o evento de MMA a ser realizado em San Diego, Estados Unidos.</desc>
+    <date>2023</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/04/17046278_447A6E2C3CB19D09.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008183000 -0300" stop="20231008223000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008223000 -0300" stop="20231008230000 -0300" channel="Combate HD">
+    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
+    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
+    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231008230000 -0300" stop="20231009030000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009030000 -0300" stop="20231009070000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009070000 -0300" stop="20231009110000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009110000 -0300" stop="20231009140000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Friday Fights 36</title>
+    <desc lang="pt">Toda a disputa da 36ª edição do evento de MMA. Do Estádio de Boxe Lumpinee, na Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072764_8185D44C5553EDAF.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009140000 -0300" stop="20231009180000 -0300" channel="Combate HD">
+    <title lang="pt">ONE Fight Night 15: Le x Freymanov</title>
+    <desc lang="pt">Evento tem lutas de MMA, kickboxing e grappling. Do Estádio Lumpinee, em Bangkok, Tailândia.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/07/17072812_DBBC5B621D30859B.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009180000 -0300" stop="20231009220000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 300 - Nurmagomedov x Primus</title>
+    <desc lang="pt">Evento de artes marciais mistas tem três disputas de cinturão no card, com a lutadora brasileira Cris Cyborg em ação para defender seu título das pesos-penas contra a desafiante estadunidense Cat Zingano. Da Pechanga Arena, em San Diego, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17098884_BFA9F433FA9AB5D3.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009220000 -0300" stop="20231009223000 -0300" channel="Combate HD">
+    <title lang="pt">Experiência de Mestre : T1 EP2 - Bob Burnquist</title>
+    <sub-title lang="pt">T1 EP2 - Bob Burnquist</sub-title>
+    <desc lang="pt">Demian fala sobre criatividade com o skatista, artista plástico e empresário Bob Burnquist, que aproveita o mestre para duas sessões de treinos em que o que vale é o improviso e a invenção.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009223000 -0300" stop="20231009230000 -0300" channel="Combate HD">
+    <title lang="pt">Experiência de Mestre : T1 EP3 - Duda Nagle</title>
+    <sub-title lang="pt">T1 EP3 - Duda Nagle</sub-title>
+    <desc lang="pt">Demian Maia recebe o ator Duda Nagle para uma aula em que mostra como aperfeiçoou um conjunto de movimentos do jiu-jítsu esportivo para que fossem eficazes no MMA.</desc>
+    <credits>
+      <director>Daniel Billio</director>
+    </credits>
+    <date>2023</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/98/16983245_E02CAEB43F00823B.jpg" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231009230000 -0300" stop="20231010010000 -0300" channel="Combate HD">
+    <title lang="pt">Glory 89 - Hari x Jürjendal</title>
+    <desc lang="pt">Evento de kickboxing tem dois combates classificatórios para o Grand Prix 2023, incluindo o duelo principal da noite, entre o marroquino Badr Hari e o estoniano Uku Jürjendal, e luta valendo título dos penas. Da Arena Burgas, em Burgas, Bulgária.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/11/17113701_D36090D4F3201C60.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231010010000 -0300" stop="20231010045000 -0300" channel="Combate HD">
+    <title lang="pt">WNO 20: Night of Champions</title>
+    <desc lang="pt">Card completo do evento de artes marciais realizado no Bayou Music Center, em Houston, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17096648_B739E866B1A945B9.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231010045000 -0300" stop="20231010050000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital : Top Nocautes Jungle em 2022</title>
+    <sub-title lang="pt">Top Nocautes Jungle em 2022</sub-title>
+    <desc lang="pt">Acompanhe todos os principais nocautes da organização de MMA brasileira, no ano de 2022.</desc>
+    <date>2022</date>
+    <category lang="pt">Séries</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/98/11985414_561BBA68403BB939.jpg" />
+    <rating>
+      <value>AGE215</value>
+    </rating>
+  </programme>
+  <programme start="20231010050000 -0300" stop="20231010072000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator Newcastle: Freire x Scope</title>
+    <desc lang="pt">Patricky "Pitbull" Freire e Ryan Scope fazem o duelo principal da noite. De Newcastle, Inglaterra.</desc>
+    <date>2020</date>
+    <category lang="pt">Especial</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/85/11853328_5D2D069547612166.jpg" />
+    <rating>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20231010073000 -0300" stop="20231010112000 -0300" channel="Combate HD">
+    <title lang="pt">WNO 20: Night of Champions</title>
+    <desc lang="pt">Card completo do evento de artes marciais realizado no Bayou Music Center, em Houston, EUA.</desc>
+    <date>2023</date>
+    <category lang="pt">Esporte</category>
+    <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/09/17096648_B739E866B1A945B9.jpg" />
     <rating>
       <value>AGE215</value>
     </rating>
