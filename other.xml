@@ -30,34 +30,6 @@
     <icon src="https://i.meuguia.tv/logos/new/135.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -70,33 +42,33 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -110,33 +82,33 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -150,33 +122,33 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -190,33 +162,33 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -230,33 +202,33 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="afazenda15">
     <title lang="en">A Fazenda 15 24HRS.</title>
@@ -270,33 +242,33 @@
     <title lang="en">A Fazenda 15 24HRS.</title>
     <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -310,33 +282,33 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231020000000 -0300" stop="20231020235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231021000000 -0300" stop="20231021235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231022000000 -0300" stop="20231022235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231023000000 -0300" stop="20231023235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231024000000 -0300" stop="20231024235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231025000000 -0300" stop="20231025235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231026000000 -0300" stop="20231026235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20231027000000 -0300" stop="20231027235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -350,261 +322,33 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231020083000 -0300" stop="20231020093000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231020093000 -0300" stop="20231020133000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231020133000 -0300" stop="20231020170000 -0300" channel="Combate HD">
-    <title lang="pt">Fms 3: Popó x Jr. Dublê (?)</title>
-  </programme>
-  <programme start="20231020170000 -0300" stop="20231020180000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231020180000 -0300" stop="20231020183000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231020183000 -0300" stop="20231020202500 -0300" channel="Combate HD">
-    <title lang="pt">Glory Rivals 5: Vidales x Aguirre (?)</title>
-  </programme>
-  <programme start="20231020202500 -0300" stop="20231020203500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20231020203500 -0300" stop="20231020204500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20231020204500 -0300" stop="20231020205500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-  </programme>
-  <programme start="20231020205500 -0300" stop="20231020210000 -0300" channel="Combate HD">
-    <title lang="pt">Aquecimento UFC (?)</title>
-  </programme>
-  <programme start="20231020210000 -0300" stop="20231021020000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231021020000 -0300" stop="20231021050000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 35 (?)</title>
-  </programme>
-  <programme start="20231021050000 -0300" stop="20231021080000 -0300" channel="Combate HD">
-    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
-  </programme>
-  <programme start="20231021080000 -0300" stop="20231021120000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
-  </programme>
-  <programme start="20231021120000 -0300" stop="20231021123000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-  </programme>
-  <programme start="20231021123000 -0300" stop="20231021173000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231021173000 -0300" stop="20231021175500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231021175500 -0300" stop="20231021182500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231021182500 -0300" stop="20231021230000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231021230000 -0300" stop="20231022020000 -0300" channel="Combate HD">
-    <title lang="pt">PFL Europe: Playoffs (?)</title>
-  </programme>
-  <programme start="20231022020000 -0300" stop="20231022060000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
-  </programme>
-  <programme start="20231022060000 -0300" stop="20231022070000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231022070000 -0300" stop="20231022100000 -0300" channel="Combate HD">
-    <title lang="pt">PFL Europe: Playoffs (?)</title>
-  </programme>
-  <programme start="20231022100000 -0300" stop="20231022130000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 120 (?)</title>
-  </programme>
-  <programme start="20231022130000 -0300" stop="20231022170000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
-  </programme>
-  <programme start="20231022170000 -0300" stop="20231022200000 -0300" channel="Combate HD">
-    <title lang="pt">PFL Europe: Playoffs (?)</title>
-  </programme>
-  <programme start="20231022200000 -0300" stop="20231022220000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231022220000 -0300" stop="20231023010000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 120 (?)</title>
-  </programme>
-  <programme start="20231023010000 -0300" stop="20231023040000 -0300" channel="Combate HD">
-    <title lang="pt">PFL Europe: Playoffs (?)</title>
-  </programme>
-  <programme start="20231023040000 -0300" stop="20231023050000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231023050000 -0300" stop="20231023090000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
-  </programme>
-  <programme start="20231023090000 -0300" stop="20231023120000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 120 (?)</title>
-  </programme>
-  <programme start="20231023120000 -0300" stop="20231023150000 -0300" channel="Combate HD">
-    <title lang="pt">PFL Europe: Playoffs (?)</title>
-  </programme>
-  <programme start="20231023150000 -0300" stop="20231023190000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
-  </programme>
-  <programme start="20231023190000 -0300" stop="20231023193000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231023193000 -0300" stop="20231023200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231023200000 -0300" stop="20231024000000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF: Landmark Vol. 6 (?)</title>
-  </programme>
-  <programme start="20231024000000 -0300" stop="20231024023500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 292: Nurmagomedov x Henderson (?)</title>
-  </programme>
-  <programme start="20231024023500 -0300" stop="20231024025000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Análise Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231024025000 -0300" stop="20231024030000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Perfil Robson Conceição (?)</title>
-  </programme>
-  <programme start="20231024030000 -0300" stop="20231024033000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231024033000 -0300" stop="20231024040000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231024040000 -0300" stop="20231024063500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 292: Nurmagomedov x Henderson (?)</title>
-  </programme>
-  <programme start="20231024063500 -0300" stop="20231024080000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231024080000 -0300" stop="20231024110000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF: Landmark Vol. 6 (?)</title>
-  </programme>
-  <programme start="20231024110000 -0300" stop="20231024130000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi Grand Slam Jiu-jitsu World Tour 2023-2024 (?)</title>
-  </programme>
-  <programme start="20231024130000 -0300" stop="20231024133000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231024133000 -0300" stop="20231024140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231024140000 -0300" stop="20231024163000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Slam de Judô: Finais (?)</title>
-  </programme>
-  <programme start="20231024163000 -0300" stop="20231024193000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF: Landmark Vol. 6 (?)</title>
-  </programme>
-  <programme start="20231024193000 -0300" stop="20231024203000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231024203000 -0300" stop="20231024233000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Whindersson Nunes x King Kenny (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231024233000 -0300" stop="20231025010000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 238: Cyborg x Budd (?)</title>
-  </programme>
-  <programme start="20231025010000 -0300" stop="20231025043000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 288 (?)</title>
-  </programme>
-  <programme start="20231025043000 -0300" stop="20231025073000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Whindersson Nunes x King Kenny (?)</title>
-  </programme>
-  <programme start="20231025073000 -0300" stop="20231025133000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 288 (?)</title>
-  </programme>
-  <programme start="20231025133000 -0300" stop="20231025150000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 238: Cyborg x Budd (?)</title>
-  </programme>
-  <programme start="20231025150000 -0300" stop="20231025190000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 288 (?)</title>
-  </programme>
-  <programme start="20231025190000 -0300" stop="20231025193000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-  </programme>
-  <programme start="20231025193000 -0300" stop="20231025200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-  </programme>
-  <programme start="20231025200000 -0300" stop="20231025220000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231025220000 -0300" stop="20231025230000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231025230000 -0300" stop="20231026030000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 294: Carmouche x Bennett (?)</title>
-  </programme>
-  <programme start="20231026030000 -0300" stop="20231026033000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-  </programme>
-  <programme start="20231026033000 -0300" stop="20231026040000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-  </programme>
-  <programme start="20231026040000 -0300" stop="20231026050000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231026050000 -0300" stop="20231026070000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231026070000 -0300" stop="20231026120000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 294: Carmouche x Bennett (?)</title>
-  </programme>
-  <programme start="20231026120000 -0300" stop="20231026123000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-  </programme>
-  <programme start="20231026123000 -0300" stop="20231026130000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-  </programme>
-  <programme start="20231026130000 -0300" stop="20231026160000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-  </programme>
-  <programme start="20231026160000 -0300" stop="20231026190000 -0300" channel="Combate HD">
-    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
-  </programme>
-  <programme start="20231026190000 -0300" stop="20231026200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231026200000 -0300" stop="20231026230500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 279 (?)</title>
-  </programme>
-  <programme start="20231026230500 -0300" stop="20231027030000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 290: Bader x Fedor 2 (?)</title>
-  </programme>
-  <programme start="20231027030000 -0300" stop="20231027040000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231027040000 -0300" stop="20231027070000 -0300" channel="Combate HD">
-    <title lang="pt">Rizin FF: Landmark Vol. 6 (?)</title>
-  </programme>
-  <programme start="20231027070000 -0300" stop="20231027080000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231027080000 -0300" stop="20231027083000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
+  <programme start="20231030000000 -0300" stop="20231030235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231031000000 -0300" stop="20231031235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231101000000 -0300" stop="20231101235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231102000000 -0300" stop="20231102235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231103000000 -0300" stop="20231103235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231104000000 -0300" stop="20231104235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231105000000 -0300" stop="20231105235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
   <programme start="20231027083000 -0300" stop="20231027093000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
@@ -638,5 +382,86 @@
   </programme>
   <programme start="20231027205500 -0300" stop="20231027210000 -0300" channel="Combate HD">
     <title lang="pt">Aquecimento UFC (?)</title>
+  </programme>
+  <programme start="20231027210000 -0300" stop="20231028020000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231028020000 -0300" stop="20231028050000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 35 (?)</title>
+  </programme>
+  <programme start="20231028050000 -0300" stop="20231028080000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+  </programme>
+  <programme start="20231028080000 -0300" stop="20231028120000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
+  </programme>
+  <programme start="20231028120000 -0300" stop="20231028123000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+  </programme>
+  <programme start="20231028123000 -0300" stop="20231028173000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231028173000 -0300" stop="20231028175500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
+  </programme>
+  <programme start="20231028175500 -0300" stop="20231028182500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+  </programme>
+  <programme start="20231028182500 -0300" stop="20231028230000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231028230000 -0300" stop="20231029020000 -0300" channel="Combate HD">
+    <title lang="pt">PFL Europe: Playoffs (?)</title>
+  </programme>
+  <programme start="20231029020000 -0300" stop="20231029060000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
+  </programme>
+  <programme start="20231029060000 -0300" stop="20231029070000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231029070000 -0300" stop="20231029100000 -0300" channel="Combate HD">
+    <title lang="pt">PFL Europe: Playoffs (?)</title>
+  </programme>
+  <programme start="20231029100000 -0300" stop="20231029130000 -0300" channel="Combate HD">
+    <title lang="pt">Jungle Fight 120 (?)</title>
+  </programme>
+  <programme start="20231029130000 -0300" stop="20231029170000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
+  </programme>
+  <programme start="20231029170000 -0300" stop="20231029200000 -0300" channel="Combate HD">
+    <title lang="pt">PFL Europe: Playoffs (?)</title>
+  </programme>
+  <programme start="20231029200000 -0300" stop="20231029220000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231029220000 -0300" stop="20231030010000 -0300" channel="Combate HD">
+    <title lang="pt">Jungle Fight 120 (?)</title>
+  </programme>
+  <programme start="20231030010000 -0300" stop="20231030040000 -0300" channel="Combate HD">
+    <title lang="pt">PFL Europe: Playoffs (?)</title>
+  </programme>
+  <programme start="20231030040000 -0300" stop="20231030050000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231030050000 -0300" stop="20231030090000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
+  </programme>
+  <programme start="20231030090000 -0300" stop="20231030120000 -0300" channel="Combate HD">
+    <title lang="pt">Jungle Fight 120 (?)</title>
+  </programme>
+  <programme start="20231030120000 -0300" stop="20231030150000 -0300" channel="Combate HD">
+    <title lang="pt">PFL Europe: Playoffs (?)</title>
+  </programme>
+  <programme start="20231030150000 -0300" stop="20231030190000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 14: Stamp x Ham (?)</title>
+  </programme>
+  <programme start="20231030190000 -0300" stop="20231030193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
   </programme>
 </tv>
