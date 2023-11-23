@@ -30,30 +30,6 @@
     <icon src="https://i.meuguia.tv/logos/new/135.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -70,29 +46,29 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -110,29 +86,29 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -150,29 +126,29 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -190,29 +166,29 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -230,29 +206,29 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="afazenda15">
     <title lang="en">A Fazenda 15 24HRS.</title>
@@ -270,29 +246,29 @@
     <title lang="en">A Fazenda 15 24HRS.</title>
     <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -310,29 +286,29 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231116000000 -0300" stop="20231116235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231117000000 -0300" stop="20231117235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231118000000 -0300" stop="20231118235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231119000000 -0300" stop="20231119235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231120000000 -0300" stop="20231120235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231121000000 -0300" stop="20231121235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20231122000000 -0300" stop="20231122235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -350,316 +326,52 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231116090000 -0300" stop="20231116120000 -0300" channel="Combate HD">
-    <title lang="pt">Attack Fight 28 (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231126000000 -0300" stop="20231126235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231116120000 -0300" stop="20231116150000 -0300" channel="Combate HD">
-    <title lang="pt">Invicta FC 51: Tennant x Bernardo (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231127000000 -0300" stop="20231127235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231116150000 -0300" stop="20231116170000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231116170000 -0300" stop="20231116190000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231116190000 -0300" stop="20231116200000 -0300" channel="Combate HD">
+  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  </programme>
+  <programme start="20231122090000 -0300" stop="20231122100000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231116200000 -0300" stop="20231116211500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 215: Mitrione x Kharitonov (?)</title>
+  <programme start="20231122100000 -0300" stop="20231122120000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231116211500 -0300" stop="20231116213000 -0300" channel="Combate HD">
-    <title lang="pt">Aquecimento UFC (?)</title>
+  <programme start="20231122120000 -0300" stop="20231122150000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231116213000 -0300" stop="20231117003000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117003000 -0300" stop="20231117010000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117010000 -0300" stop="20231117040000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117040000 -0300" stop="20231117070000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117070000 -0300" stop="20231117090000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117090000 -0300" stop="20231117120000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117120000 -0300" stop="20231117150000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117150000 -0300" stop="20231117180000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117180000 -0300" stop="20231117190000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117190000 -0300" stop="20231117193000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117193000 -0300" stop="20231117200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117200000 -0300" stop="20231117220000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231117220000 -0300" stop="20231118020000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118020000 -0300" stop="20231118050000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118050000 -0300" stop="20231118070000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Efe Ajagba x Joe Goodall (?)</title>
+  <programme start="20231122150000 -0300" stop="20231122160000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Manny Pacquiao x Serikzhan Yeshmagambet (?)</title>
     <category lang="pt">Boxe</category>
   </programme>
-  <programme start="20231118070000 -0300" stop="20231118090000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118090000 -0300" stop="20231118120000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118120000 -0300" stop="20231118140000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118140000 -0300" stop="20231118143000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118143000 -0300" stop="20231118150000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118150000 -0300" stop="20231118200000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231118200000 -0300" stop="20231118230000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231118230000 -0300" stop="20231119020000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119020000 -0300" stop="20231119050000 -0300" channel="Combate HD">
-    <title lang="pt">Attack Fight 30 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119050000 -0300" stop="20231119070000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119070000 -0300" stop="20231119100000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119100000 -0300" stop="20231119130000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119130000 -0300" stop="20231119133000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119133000 -0300" stop="20231119140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119140000 -0300" stop="20231119170000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119170000 -0300" stop="20231119200000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119200000 -0300" stop="20231119230000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231119230000 -0300" stop="20231120010000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120010000 -0300" stop="20231120040000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120040000 -0300" stop="20231120070000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120070000 -0300" stop="20231120090000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120090000 -0300" stop="20231120120000 -0300" channel="Combate HD">
-    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120120000 -0300" stop="20231120150000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 40 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120150000 -0300" stop="20231120180000 -0300" channel="Combate HD">
-    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120180000 -0300" stop="20231120190000 -0300" channel="Combate HD">
+  <programme start="20231122160000 -0300" stop="20231122170000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231120190000 -0300" stop="20231120193000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120193000 -0300" stop="20231120200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120200000 -0300" stop="20231120220000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231120220000 -0300" stop="20231121003000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121003000 -0300" stop="20231121025000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121025000 -0300" stop="20231121030000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Dias de Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121030000 -0300" stop="20231121050000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121050000 -0300" stop="20231121073000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121073000 -0300" stop="20231121093000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121093000 -0300" stop="20231121120000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121120000 -0300" stop="20231121142000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121142000 -0300" stop="20231121162000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121162000 -0300" stop="20231121164000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121164000 -0300" stop="20231121190000 -0300" channel="Combate HD">
-    <title lang="pt">Grand Prix De Judô (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121190000 -0300" stop="20231121200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121200000 -0300" stop="20231121220000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121220000 -0300" stop="20231121232500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121232500 -0300" stop="20231121235000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Light Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231121235000 -0300" stop="20231122004500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122004500 -0300" stop="20231122024500 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122024500 -0300" stop="20231122041000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122041000 -0300" stop="20231122043500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Light Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122043500 -0300" stop="20231122050000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122050000 -0300" stop="20231122070000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122070000 -0300" stop="20231122082500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122082500 -0300" stop="20231122090000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Light Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122090000 -0300" stop="20231122110000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122110000 -0300" stop="20231122130000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122130000 -0300" stop="20231122142500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122142500 -0300" stop="20231122150000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Light Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231122150000 -0300" stop="20231122190000 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 16: Haggerty x Andrade (?)</title>
+  <programme start="20231122170000 -0300" stop="20231122190000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
     <category lang="pt">Luta</category>
   </programme>
   <programme start="20231122190000 -0300" stop="20231122193000 -0300" channel="Combate HD">
@@ -670,56 +382,388 @@
     <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231122200000 -0300" stop="20231122224000 -0300" channel="Combate HD">
-    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+  <programme start="20231122200000 -0300" stop="20231122220500 -0300" channel="Combate HD">
+    <title lang="pt">FMS FN 2 + WGP Studio 3: GP Meio-Médio (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231122224000 -0300" stop="20231123020000 -0300" channel="Combate HD">
+  <programme start="20231122220500 -0300" stop="20231123013000 -0300" channel="Combate HD">
+    <title lang="pt">Glory Collision 3: Rico Verhoeven x Jamal Bem Saddik (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231123013000 -0300" stop="20231123043000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 41 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231123043000 -0300" stop="20231123063000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231123063000 -0300" stop="20231123092500 -0300" channel="Combate HD">
     <title lang="pt">Attack Fight 28 (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123020000 -0300" stop="20231123040000 -0300" channel="Combate HD">
-    <title lang="pt">Invicta FC 51: Tennant x Bernardo (?)</title>
+  <programme start="20231123092500 -0300" stop="20231123093000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123040000 -0300" stop="20231123043000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+  <programme start="20231123093000 -0300" stop="20231123133000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123043000 -0300" stop="20231123060000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+  <programme start="20231123133000 -0300" stop="20231123133500 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123060000 -0300" stop="20231123090000 -0300" channel="Combate HD">
-    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+  <programme start="20231123133500 -0300" stop="20231123153500 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123090000 -0300" stop="20231123120000 -0300" channel="Combate HD">
-    <title lang="pt">Attack Fight 28 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231123120000 -0300" stop="20231123150000 -0300" channel="Combate HD">
-    <title lang="pt">Invicta FC 51: Tennant x Bernardo (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231123150000 -0300" stop="20231123170000 -0300" channel="Combate HD">
-    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231123170000 -0300" stop="20231123190000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Shuichiro Yoshino (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231123190000 -0300" stop="20231123200000 -0300" channel="Combate HD">
+  <programme start="20231123153500 -0300" stop="20231123160000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123200000 -0300" stop="20231123211500 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 215: Mitrione x Kharitonov (?)</title>
+  <programme start="20231123160000 -0300" stop="20231123210000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231123211500 -0300" stop="20231123213000 -0300" channel="Combate HD">
-    <title lang="pt">Aquecimento UFC (?)</title>
+  <programme start="20231123210000 -0300" stop="20231123230000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231123230000 -0300" stop="20231124020000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124020000 -0300" stop="20231124050000 -0300" channel="Combate HD">
+    <title lang="pt">KSW 88: Rutkowski x Kaczmarczyk (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124050000 -0300" stop="20231124071500 -0300" channel="Combate HD">
+    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124071500 -0300" stop="20231124074500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124074500 -0300" stop="20231124081500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124081500 -0300" stop="20231124083500 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124083500 -0300" stop="20231124090000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124090000 -0300" stop="20231124093000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124093000 -0300" stop="20231124133000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 41 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124133000 -0300" stop="20231124153000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124153000 -0300" stop="20231124173000 -0300" channel="Combate HD">
+    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124173000 -0300" stop="20231124174000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124174000 -0300" stop="20231124175000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator: Patrick Pitbull (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124175000 -0300" stop="20231124180000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator: Tito Ortiz x Stephan Bonnar (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124180000 -0300" stop="20231124182000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores Do Pfl Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124182000 -0300" stop="20231124185000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124185000 -0300" stop="20231124190000 -0300" channel="Combate HD">
+    <title lang="pt">Aquecimento Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231124190000 -0300" stop="20231125013000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231125013000 -0300" stop="20231125043000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 41 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125043000 -0300" stop="20231125063000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125063000 -0300" stop="20231125092500 -0300" channel="Combate HD">
+    <title lang="pt">Attack Fight 28 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125092500 -0300" stop="20231125093000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125093000 -0300" stop="20231125133000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125133000 -0300" stop="20231125133500 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125133500 -0300" stop="20231125153500 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125153500 -0300" stop="20231125160000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125160000 -0300" stop="20231125210000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231125210000 -0300" stop="20231125230000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231125230000 -0300" stop="20231126030000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126030000 -0300" stop="20231126060000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 41 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126060000 -0300" stop="20231126080000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126080000 -0300" stop="20231126110000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126110000 -0300" stop="20231126130000 -0300" channel="Combate HD">
+    <title lang="pt">Abu Dhabi World Professional Jiu Jitsu Championship 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126130000 -0300" stop="20231126150000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126150000 -0300" stop="20231126190000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126190000 -0300" stop="20231126220000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 41 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231126220000 -0300" stop="20231127010000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127010000 -0300" stop="20231127050000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127050000 -0300" stop="20231127070000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127070000 -0300" stop="20231127100000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127100000 -0300" stop="20231127140000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127140000 -0300" stop="20231127160000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127160000 -0300" stop="20231127190000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127190000 -0300" stop="20231127193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127193000 -0300" stop="20231127200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127200000 -0300" stop="20231127215500 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127215500 -0300" stop="20231127220000 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231127220000 -0300" stop="20231128000000 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128000000 -0300" stop="20231128021500 -0300" channel="Combate HD">
+    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128021500 -0300" stop="20231128024500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128024500 -0300" stop="20231128030000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128030000 -0300" stop="20231128045500 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128045500 -0300" stop="20231128050000 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128050000 -0300" stop="20231128070000 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128070000 -0300" stop="20231128073000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128073000 -0300" stop="20231128080000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128080000 -0300" stop="20231128101500 -0300" channel="Combate HD">
+    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128101500 -0300" stop="20231128103500 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128103500 -0300" stop="20231128110000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128110000 -0300" stop="20231128113000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128113000 -0300" stop="20231128120000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128120000 -0300" stop="20231128135500 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128135500 -0300" stop="20231128140000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128140000 -0300" stop="20231128160000 -0300" channel="Combate HD">
+    <title lang="pt">Mundial De Judô (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128160000 -0300" stop="20231128181500 -0300" channel="Combate HD">
+    <title lang="pt">Gamebred Bareknuckle 6: Roy Nelson x Alan Belcher (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128181500 -0300" stop="20231128183500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores Do Pfl Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128183500 -0300" stop="20231128190000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128190000 -0300" stop="20231128200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128200000 -0300" stop="20231128220000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231128220000 -0300" stop="20231129010000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129010000 -0300" stop="20231129020000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Manny Pacquiao x Serikzhan Yeshmagambet (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231129020000 -0300" stop="20231129030000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129030000 -0300" stop="20231129050000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129050000 -0300" stop="20231129080000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129080000 -0300" stop="20231129090000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Manny Pacquiao x Serikzhan Yeshmagambet (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231129090000 -0300" stop="20231129100000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129100000 -0300" stop="20231129120000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129120000 -0300" stop="20231129150000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129150000 -0300" stop="20231129160000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Manny Pacquiao x Serikzhan Yeshmagambet (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231129160000 -0300" stop="20231129170000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129170000 -0300" stop="20231129190000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129190000 -0300" stop="20231129193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129193000 -0300" stop="20231129200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231129200000 -0300" stop="20231129220500 -0300" channel="Combate HD">
+    <title lang="pt">FMS FN 2 + WGP Studio 3: GP Meio-Médio (?)</title>
     <category lang="pt">Luta</category>
   </programme>
 </tv>
