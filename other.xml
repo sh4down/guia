@@ -30,18 +30,6 @@
     <icon src="https://i.meuguia.tv/logos/new/135.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="Adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
-  </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="Adulto">
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
@@ -70,17 +58,17 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="Power Couple">
-    <title lang="en">BBB23 24H</title>
-    <desc lang="en">BBB23 24H.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="Adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="Power Couple">
     <title lang="en">BBB23 24H</title>
@@ -110,17 +98,17 @@
     <title lang="en">BBB23 24H</title>
     <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="todos">
-    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
-    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="Power Couple">
+    <title lang="en">BBB23 24H</title>
+    <desc lang="en">BBB23 24H.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="todos">
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
@@ -150,17 +138,17 @@
     <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
     <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="todos">
+    <title lang="en">PROGRAMAÇÃO A DEFINIR</title>
+    <desc lang="en">PROGRAMAÇÃO A DEFINIR.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -190,17 +178,17 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -230,17 +218,17 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="afazenda15">
-    <title lang="en">A Fazenda 15 24HRS.</title>
-    <desc lang="en">A Fazenda 15 24HRS.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="afazenda15">
     <title lang="en">A Fazenda 15 24HRS.</title>
@@ -270,17 +258,17 @@
     <title lang="en">A Fazenda 15 24HRS.</title>
     <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="afazenda15">
+    <title lang="en">A Fazenda 15 24HRS.</title>
+    <desc lang="en">A Fazenda 15 24HRS.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -310,17 +298,17 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231128000000 -0300" stop="20231128235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231129000000 -0300" stop="20231129235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20231130000000 -0300" stop="20231130235900 -0300" channel="tntsports1">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20231201000000 -0300" stop="20231201235900 -0300" channel="tntsports1">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -350,420 +338,568 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231128070000 -0300" stop="20231128091000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator Fighting Championships 14 (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231208000000 -0300" stop="20231208235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231128091000 -0300" stop="20231128093000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231209000000 -0300" stop="20231209235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20231128093000 -0300" stop="20231128100000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20231128100000 -0300" stop="20231128135000 -0300" channel="Combate HD">
-    <title lang="pt">WNO 20: Night Of Champions (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128135000 -0300" stop="20231128140000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128140000 -0300" stop="20231128150000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128150000 -0300" stop="20231128190000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128190000 -0300" stop="20231128200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128200000 -0300" stop="20231128224000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128224000 -0300" stop="20231128230000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231128230000 -0300" stop="20231129000500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129000500 -0300" stop="20231129005500 -0300" channel="Combate HD">
-    <title lang="pt">Super Featherweight (?)</title>
-    <category lang="pt">Boxe</category>
-  </programme>
-  <programme start="20231129005500 -0300" stop="20231129010000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129010000 -0300" stop="20231129020000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129020000 -0300" stop="20231129044000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129044000 -0300" stop="20231129050000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129050000 -0300" stop="20231129060500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129060500 -0300" stop="20231129065500 -0300" channel="Combate HD">
-    <title lang="pt">Super Featherweight (?)</title>
-    <category lang="pt">Boxe</category>
-  </programme>
-  <programme start="20231129065500 -0300" stop="20231129070000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129070000 -0300" stop="20231129080000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129080000 -0300" stop="20231129110000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129110000 -0300" stop="20231129120500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129120500 -0300" stop="20231129125500 -0300" channel="Combate HD">
-    <title lang="pt">Super Featherweight (?)</title>
-    <category lang="pt">Boxe</category>
-  </programme>
-  <programme start="20231129125500 -0300" stop="20231129130000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129130000 -0300" stop="20231129140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129140000 -0300" stop="20231129180000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129180000 -0300" stop="20231129190000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129190000 -0300" stop="20231129193000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129193000 -0300" stop="20231129200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129200000 -0300" stop="20231129230000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Combate: WGP Studio 2 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231129230000 -0300" stop="20231130020000 -0300" channel="Combate HD">
-    <title lang="pt">WGP 68: All-Star GP Finals (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130020000 -0300" stop="20231130050000 -0300" channel="Combate HD">
-    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130050000 -0300" stop="20231130053000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130053000 -0300" stop="20231130060000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130060000 -0300" stop="20231130090000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Combate: WGP Studio 2 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130090000 -0300" stop="20231130093000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130093000 -0300" stop="20231130100000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130100000 -0300" stop="20231130130000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Combate: WGP Studio 2 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130130000 -0300" stop="20231130160000 -0300" channel="Combate HD">
-    <title lang="pt">WGP 68: All-Star GP Finals (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130160000 -0300" stop="20231130190000 -0300" channel="Combate HD">
-    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130190000 -0300" stop="20231130200000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130200000 -0300" stop="20231130220000 -0300" channel="Combate HD">
-    <title lang="pt">Wno 21: Gordon Ryan x Lucas Barbosa (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231130220000 -0300" stop="20231201004500 -0300" channel="Combate HD">
-    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231201004500 -0300" stop="20231201011500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231201011500 -0300" stop="20231201031500 -0300" channel="Combate HD">
-    <title lang="pt">MMA Reprise (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231201031500 -0300" stop="20231201041500 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231201041500 -0300" stop="20231201090000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator 301: Amosov x Jackson (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231210000000 -0300" stop="20231210235900 -0300" channel="tntsports1">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
   <programme start="20231201090000 -0300" stop="20231201093000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
+    <category lang="pt">Esportivo</category>
   </programme>
   <programme start="20231201093000 -0300" stop="20231201133000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231201133000 -0300" stop="20231201143000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <title lang="pt">One Friday Fights 43 (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201143000 -0300" stop="20231201150000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231201150000 -0300" stop="20231201152000 -0300" channel="Combate HD">
+  <programme start="20231201133000 -0300" stop="20231201160500 -0300" channel="Combate HD">
     <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201152000 -0300" stop="20231201184500 -0300" channel="Combate HD">
-    <title lang="pt">PFL 2023 (?)</title>
+  <programme start="20231201160500 -0300" stop="20231201163500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201184500 -0300" stop="20231201185500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231201163500 -0300" stop="20231201170500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201185500 -0300" stop="20231201190500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231201170500 -0300" stop="20231201172000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201190500 -0300" stop="20231201191500 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231201172000 -0300" stop="20231201183000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 258: Archuleta x Pettis (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231201191500 -0300" stop="20231201193000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231201193000 -0300" stop="20231202020000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231202020000 -0300" stop="20231202050000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202050000 -0300" stop="20231202071000 -0300" channel="Combate HD">
-    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202071000 -0300" stop="20231202111000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202111000 -0300" stop="20231202120000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 118 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202120000 -0300" stop="20231202123000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Esportivo</category>
-  </programme>
-  <programme start="20231202123000 -0300" stop="20231202130000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Vida de Guerreiro (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202130000 -0300" stop="20231202133000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Vida de Guerreiro (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202133000 -0300" stop="20231202140000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202140000 -0300" stop="20231202180000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202180000 -0300" stop="20231202183000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Vida de Guerreiro (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202183000 -0300" stop="20231202190000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate: Vida de Guerreiro (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231202190000 -0300" stop="20231202233000 -0300" channel="Combate HD">
-    <title lang="pt">Programação do Canal (?)</title>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20231202233000 -0300" stop="20231203033000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203033000 -0300" stop="20231203040000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203040000 -0300" stop="20231203080000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203080000 -0300" stop="20231203104000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203104000 -0300" stop="20231203110000 -0300" channel="Combate HD">
-    <title lang="pt">Arena Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203110000 -0300" stop="20231203140000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 122 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203140000 -0300" stop="20231203180000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203180000 -0300" stop="20231203210000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231203210000 -0300" stop="20231204000000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 122 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204000000 -0300" stop="20231204040000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204040000 -0300" stop="20231204064000 -0300" channel="Combate HD">
-    <title lang="pt">One Friday Fights 42 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204064000 -0300" stop="20231204070000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204070000 -0300" stop="20231204100000 -0300" channel="Combate HD">
-    <title lang="pt">Jungle Fight 122 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204100000 -0300" stop="20231204140000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231204140000 -0300" stop="20231204150000 -0300" channel="Combate HD">
+  <programme start="20231201183000 -0300" stop="20231201190000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231204150000 -0300" stop="20231204190000 -0300" channel="Combate HD">
+  <programme start="20231201190000 -0300" stop="20231201193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231201193000 -0300" stop="20231201194000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231201194000 -0300" stop="20231201195000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship + Jungle Fight 122 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231201195000 -0300" stop="20231201200000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Baú Do Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231201200000 -0300" stop="20231202001500 -0300" channel="Combate HD">
     <title lang="pt">2023 PFL World Championship (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231204190000 -0300" stop="20231204193000 -0300" channel="Combate HD">
+  <programme start="20231202001500 -0300" stop="20231202004500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202004500 -0300" stop="20231202025500 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202025500 -0300" stop="20231202031500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202031500 -0300" stop="20231202073000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202073000 -0300" stop="20231202103000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 43 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202103000 -0300" stop="20231202110000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231202110000 -0300" stop="20231202110500 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202110500 -0300" stop="20231202111500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202111500 -0300" stop="20231202112500 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship + Jungle Fight 122 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202112500 -0300" stop="20231202113500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Baú Do Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202113500 -0300" stop="20231202155000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202155000 -0300" stop="20231202180000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202180000 -0300" stop="20231202210000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 43 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231202210000 -0300" stop="20231203000000 -0300" channel="Combate HD">
+    <title lang="pt">Wno 21: Pedro Marinho x Rafael Lovato Jr. (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203000000 -0300" stop="20231203041500 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203041500 -0300" stop="20231203044500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231203044500 -0300" stop="20231203051500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203051500 -0300" stop="20231203072500 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203072500 -0300" stop="20231203114000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203114000 -0300" stop="20231203144000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 43 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203144000 -0300" stop="20231203151000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231203151000 -0300" stop="20231203154000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203154000 -0300" stop="20231203160000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203160000 -0300" stop="20231203190000 -0300" channel="Combate HD">
+    <title lang="pt">Wno 21: Pedro Marinho x Rafael Lovato Jr. (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203190000 -0300" stop="20231203220000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 43 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231203220000 -0300" stop="20231204021500 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204021500 -0300" stop="20231204051500 -0300" channel="Combate HD">
+    <title lang="pt">Wno 21: Pedro Marinho x Rafael Lovato Jr. (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204051500 -0300" stop="20231204054500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204054500 -0300" stop="20231204100000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204100000 -0300" stop="20231204121000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204121000 -0300" stop="20231204151000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 43 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204151000 -0300" stop="20231204192500 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231204192500 -0300" stop="20231204193000 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
     <category lang="pt">Luta</category>
   </programme>
   <programme start="20231204193000 -0300" stop="20231204200000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate (?)</title>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20231204200000 -0300" stop="20231204235000 -0300" channel="Combate HD">
-    <title lang="pt">WNO 20: Night Of Champions (?)</title>
-    <category lang="pt">Luta</category>
+  <programme start="20231204200000 -0300" stop="20231204211500 -0300" channel="Combate HD">
+    <title lang="pt">Grand Slam de Judô (?)</title>
+    <category lang="pt">Judô</category>
   </programme>
-  <programme start="20231204235000 -0300" stop="20231205020000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator Fighting Championships 14 (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231205020000 -0300" stop="20231205023000 -0300" channel="Combate HD">
-    <title lang="pt">Sessão Combate (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231205023000 -0300" stop="20231205030000 -0300" channel="Combate HD">
+  <programme start="20231204211500 -0300" stop="20231204214500 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate (?)</title>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20231205030000 -0300" stop="20231205065000 -0300" channel="Combate HD">
-    <title lang="pt">WNO 20: Night Of Champions (?)</title>
+  <programme start="20231204214500 -0300" stop="20231204220000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205065000 -0300" stop="20231205070000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231204220000 -0300" stop="20231204233500 -0300" channel="Combate HD">
+    <title lang="pt">Grand Slam de Judô (?)</title>
+    <category lang="pt">Judô</category>
+  </programme>
+  <programme start="20231204233500 -0300" stop="20231205011500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205070000 -0300" stop="20231205091000 -0300" channel="Combate HD">
-    <title lang="pt">Bellator Fighting Championships 14 (?)</title>
+  <programme start="20231205011500 -0300" stop="20231205013000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205091000 -0300" stop="20231205093000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231205013000 -0300" stop="20231205020000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231205020000 -0300" stop="20231205041500 -0300" channel="Combate HD">
+    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205041500 -0300" stop="20231205044500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205044500 -0300" stop="20231205050000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Dias de Luta (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205050000 -0300" stop="20231205053000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205053000 -0300" stop="20231205060000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205060000 -0300" stop="20231205084000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205084000 -0300" stop="20231205090000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205090000 -0300" stop="20231205093000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
     <category lang="pt">Luta</category>
   </programme>
   <programme start="20231205093000 -0300" stop="20231205100000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate (?)</title>
     <category lang="pt">Esportivo</category>
   </programme>
-  <programme start="20231205100000 -0300" stop="20231205135000 -0300" channel="Combate HD">
-    <title lang="pt">WNO 20: Night Of Champions (?)</title>
+  <programme start="20231205100000 -0300" stop="20231205124000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205135000 -0300" stop="20231205140000 -0300" channel="Combate HD">
-    <title lang="pt">Faixa Digital (?)</title>
+  <programme start="20231205124000 -0300" stop="20231205130000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205140000 -0300" stop="20231205150000 -0300" channel="Combate HD">
+  <programme start="20231205130000 -0300" stop="20231205151500 -0300" channel="Combate HD">
+    <title lang="pt">WGP 68: All-Star GP Finals (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205151500 -0300" stop="20231205154500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205154500 -0300" stop="20231205155000 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205155000 -0300" stop="20231205180500 -0300" channel="Combate HD">
+    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205180500 -0300" stop="20231205190000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205150000 -0300" stop="20231205190000 -0300" channel="Combate HD">
-    <title lang="pt">2023 PFL World Championship (?)</title>
-    <category lang="pt">Luta</category>
-  </programme>
-  <programme start="20231205190000 -0300" stop="20231205200000 -0300" channel="Combate HD">
+  <programme start="20231205190000 -0300" stop="20231205193000 -0300" channel="Combate HD">
     <title lang="pt">Sessão Combate: One Vault (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205200000 -0300" stop="20231205224000 -0300" channel="Combate HD">
+  <programme start="20231205193000 -0300" stop="20231205195000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205195000 -0300" stop="20231205220000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231205220000 -0300" stop="20231206000500 -0300" channel="Combate HD">
+    <title lang="pt">Wno 21: Pedro Marinho x Rafael Lovato Jr. (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206000500 -0300" stop="20231206005500 -0300" channel="Combate HD">
+    <title lang="pt">Super Featherweight (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231206005500 -0300" stop="20231206010000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206010000 -0300" stop="20231206020000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206020000 -0300" stop="20231206044000 -0300" channel="Combate HD">
     <title lang="pt">One Friday Fights 42 (?)</title>
     <category lang="pt">Luta</category>
   </programme>
-  <programme start="20231205224000 -0300" stop="20231205230000 -0300" channel="Combate HD">
+  <programme start="20231206044000 -0300" stop="20231206050000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206050000 -0300" stop="20231206060500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206060500 -0300" stop="20231206065500 -0300" channel="Combate HD">
+    <title lang="pt">Super Featherweight (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231206065500 -0300" stop="20231206070000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top Nocautes John Lineker (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206070000 -0300" stop="20231206080000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206080000 -0300" stop="20231206104000 -0300" channel="Combate HD">
+    <title lang="pt">One Friday Fights 42 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206104000 -0300" stop="20231206110000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206110000 -0300" stop="20231206120500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Heavyweight (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206120500 -0300" stop="20231206125500 -0300" channel="Combate HD">
+    <title lang="pt">Super Featherweight (?)</title>
+    <category lang="pt">Boxe</category>
+  </programme>
+  <programme start="20231206125500 -0300" stop="20231206135000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206135000 -0300" stop="20231206180500 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206180500 -0300" stop="20231206190000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206190000 -0300" stop="20231206193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206193000 -0300" stop="20231206200000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206200000 -0300" stop="20231206224000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Combate: WGP Studio 2 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206224000 -0300" stop="20231206230000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231206230000 -0300" stop="20231207011500 -0300" channel="Combate HD">
+    <title lang="pt">WGP 68: All-Star GP Finals (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207011500 -0300" stop="20231207013000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207013000 -0300" stop="20231207020000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231207020000 -0300" stop="20231207041500 -0300" channel="Combate HD">
+    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207041500 -0300" stop="20231207044500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207044500 -0300" stop="20231207050000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Dias de Luta (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207050000 -0300" stop="20231207053000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207053000 -0300" stop="20231207060000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207060000 -0300" stop="20231207084000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207084000 -0300" stop="20231207090000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207090000 -0300" stop="20231207093000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207093000 -0300" stop="20231207100000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207100000 -0300" stop="20231207124000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207124000 -0300" stop="20231207130000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207130000 -0300" stop="20231207151500 -0300" channel="Combate HD">
+    <title lang="pt">WGP 68: All-Star GP Finals (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207151500 -0300" stop="20231207154500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207154500 -0300" stop="20231207155000 -0300" channel="Combate HD">
+    <title lang="pt">Perfil Do Yaroslav Amosov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207155000 -0300" stop="20231207180500 -0300" channel="Combate HD">
+    <title lang="pt">Karate Combat 40: Quayhagen x Aghayev (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207180500 -0300" stop="20231207190000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207190000 -0300" stop="20231207193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207193000 -0300" stop="20231207195000 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207195000 -0300" stop="20231207220000 -0300" channel="Combate HD">
+    <title lang="pt">Boxe: Shakur Stevenson x Edwin De Los Santos (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231207220000 -0300" stop="20231208000000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231208000000 -0300" stop="20231208024000 -0300" channel="Combate HD">
+    <title lang="pt">WGP Studio 2: Nicolas Vega x Facu Soarez (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208024000 -0300" stop="20231208030000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Vencedores do PFL Challenger Series 2023 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208030000 -0300" stop="20231208053500 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208053500 -0300" stop="20231208060500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208060500 -0300" stop="20231208063500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208063500 -0300" stop="20231208070000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Top 5 Celebridades na Luta (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208070000 -0300" stop="20231208073000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208073000 -0300" stop="20231208074500 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208074500 -0300" stop="20231208090000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 215: Mitrione x Kharitonov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208090000 -0300" stop="20231208093000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231208093000 -0300" stop="20231208133000 -0300" channel="Combate HD">
+    <title lang="pt">Programação do Canal (?)</title>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20231208133000 -0300" stop="20231208160500 -0300" channel="Combate HD">
+    <title lang="pt">One Fight Night 6: Superbon x Allazov (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208160500 -0300" stop="20231208163500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Nocautes Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208163500 -0300" stop="20231208170500 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: Finalizações Jungle (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208170500 -0300" stop="20231208172000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Caminho do Milhão (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208172000 -0300" stop="20231208183000 -0300" channel="Combate HD">
+    <title lang="pt">Bellator 258: Archuleta x Pettis (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208183000 -0300" stop="20231208190000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate: One Vault (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208190000 -0300" stop="20231208193000 -0300" channel="Combate HD">
+    <title lang="pt">Sessão Combate (?)</title>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20231208193000 -0300" stop="20231208194000 -0300" channel="Combate HD">
     <title lang="pt">Faixa Digital (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208194000 -0300" stop="20231208195000 -0300" channel="Combate HD">
+    <title lang="pt">2023 PFL World Championship + Jungle Fight 122 (?)</title>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20231208195000 -0300" stop="20231208200000 -0300" channel="Combate HD">
+    <title lang="pt">Faixa Digital: Baú Do Combate (?)</title>
     <category lang="pt">Luta</category>
   </programme>
 </tv>
