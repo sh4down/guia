@@ -92,191 +92,199 @@
     <icon src="https://tvmap.com.br/images/ch/389.jpg" />
     <url>http://www.tvmap.com.br</url>
   </channel>
-  <programme start="20240913035000 -0300" stop="20240913070000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913070000 -0300" stop="20240913073000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913073000 -0300" stop="20240913073500 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913073500 -0300" stop="20240913093000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913093000 -0300" stop="20240913133000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913133000 -0300" stop="20240913163000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913163000 -0300" stop="20240913170000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913170000 -0300" stop="20240913193000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913193000 -0300" stop="20240913194000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913194000 -0300" stop="20240913195000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913195000 -0300" stop="20240913200000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913200000 -0300" stop="20240913230000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913230000 -0300" stop="20240914030000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240914220000 -0300" stop="20240915010000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915010000 -0300" stop="20240915040000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915040000 -0300" stop="20240915080000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915080000 -0300" stop="20240915090000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915090000 -0300" stop="20240915110000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915110000 -0300" stop="20240915130000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915130000 -0300" stop="20240915160000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915160000 -0300" stop="20240915163000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915163000 -0300" stop="20240915170000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240915170000 -0300" stop="20240915200000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
   <programme start="20240915200000 -0300" stop="20240916013500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916013500 -0300" stop="20240916020000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916020000 -0300" stop="20240916060000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916060000 -0300" stop="20240916070000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916070000 -0300" stop="20240916100000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916100000 -0300" stop="20240916135500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916135500 -0300" stop="20240916144500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916144500 -0300" stop="20240916151000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916151000 -0300" stop="20240916152000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916152000 -0300" stop="20240916155000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916155000 -0300" stop="20240916190000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916190000 -0300" stop="20240916193000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916193000 -0300" stop="20240916200000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916200000 -0300" stop="20240916230000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240916230000 -0300" stop="20240917030000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917030000 -0300" stop="20240917060500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917060500 -0300" stop="20240917063500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917063500 -0300" stop="20240917070000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917070000 -0300" stop="20240917100000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917100000 -0300" stop="20240917140000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917140000 -0300" stop="20240917180000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917180000 -0300" stop="20240917190000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917190000 -0300" stop="20240917193000 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917193000 -0300" stop="20240917194500 -0300" channel="Belo Horizonte/MG  Combate">
+    <title lang="pt">Programação Combate</title>
+    <desc lang="pt">Programação não informada pelo canal.</desc>
+    <category lang="pt">Diversos</category>
+    <rating system="BR">
+      <value>5</value>
+    </rating>
+  </programme>
+  <programme start="20240917194500 -0300" stop="20240917210000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -292,7 +300,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918000000 -0300" stop="20240918015500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240919235000 -0300" stop="20240920035000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -300,7 +308,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918015500 -0300" stop="20240918022500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920035000 -0300" stop="20240920070000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -308,7 +316,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918022500 -0300" stop="20240918024500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920070000 -0300" stop="20240920073000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -316,7 +324,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918024500 -0300" stop="20240918040000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920073000 -0300" stop="20240920073500 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -324,7 +332,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918040000 -0300" stop="20240918070000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920073500 -0300" stop="20240920093000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -332,7 +340,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918070000 -0300" stop="20240918085500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920093000 -0300" stop="20240920133000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -340,7 +348,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918085500 -0300" stop="20240918090000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920133000 -0300" stop="20240920163000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -348,7 +356,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918090000 -0300" stop="20240918093000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920163000 -0300" stop="20240920170000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -356,7 +364,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918093000 -0300" stop="20240918094500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920170000 -0300" stop="20240920193000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -364,7 +372,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918094500 -0300" stop="20240918110000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920193000 -0300" stop="20240920194000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -372,7 +380,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918110000 -0300" stop="20240918140000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920194000 -0300" stop="20240920195000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -380,7 +388,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918140000 -0300" stop="20240918155500 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920195000 -0300" stop="20240920200000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -388,7 +396,7 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918155500 -0300" stop="20240918160000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920200000 -0300" stop="20240920230000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
@@ -396,80 +404,13 @@
       <value>5</value>
     </rating>
   </programme>
-  <programme start="20240918160000 -0300" stop="20240918200000 -0300" channel="Belo Horizonte/MG  Combate">
+  <programme start="20240920230000 -0300" stop="20240921030000 -0300" channel="Belo Horizonte/MG  Combate">
     <title lang="pt">Programação Combate</title>
     <desc lang="pt">Programação não informada pelo canal.</desc>
     <category lang="pt">Diversos</category>
     <rating system="BR">
       <value>5</value>
     </rating>
-  </programme>
-  <programme start="20240918200000 -0300" stop="20240918203000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240918203000 -0300" stop="20240919003000 -0300" channel="Belo Horizonte/MG  Combate">
-    <title lang="pt">Programação Combate</title>
-    <desc lang="pt">Programação não informada pelo canal.</desc>
-    <category lang="pt">Diversos</category>
-    <rating system="BR">
-      <value>5</value>
-    </rating>
-  </programme>
-  <programme start="20240913060000 -0300" stop="20240913074600 -0300" channel="HBO Family">
-    <title lang="pt">LEGO Batman - O Filme</title>
-    <desc lang="pt">Batman descobre que acidentalmente adotou um garoto órfão, que se torna ninguém menos que Robin. A dupla formada pelo arrogante Homem-Morcego e o empolgado ajudante deve combater o crime e prender o Coringa.</desc>
-  </programme>
-  <programme start="20240913074600 -0300" stop="20240913094300 -0300" channel="HBO Family">
-    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
-    <desc lang="pt">Um menino pobre e quatro crianças mimadas ganham um passeio por uma encantada fábrica de chocolates e são guiados pelo esquisito proprietário.</desc>
-  </programme>
-  <programme start="20240913094300 -0300" stop="20240913114200 -0300" channel="HBO Family">
-    <title lang="pt">Wonka</title>
-  </programme>
-  <programme start="20240913114200 -0300" stop="20240913131400 -0300" channel="HBO Family">
-    <title lang="pt">A Casa Monstro</title>
-    <desc lang="pt">Nenhum adulto acredita quando três adolescentes falam que existe uma casa no bairro que é uma criatura perigosa. Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destruir a casa antes que ela faça mal a crianças inocentes.</desc>
-  </programme>
-  <programme start="20240913131400 -0300" stop="20240913150500 -0300" channel="HBO Family">
-    <title lang="pt">Happy Feet - O Pinguim</title>
-    <desc lang="pt">Os pinguins-imperadores cantam para cortejar as fêmeas. Mano é um péssimo cantor e tem de achar a canção do coração para encontrar seu verdadeiro amor. No entanto, ele impressiona todos ao mostrar que é muito bom no sapateado.</desc>
-  </programme>
-  <programme start="20240913150500 -0300" stop="20240913164400 -0300" channel="HBO Family">
-    <title lang="pt">Pé Pequeno</title>
-    <desc lang="pt">Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese.</desc>
-  </programme>
-  <programme start="20240913164400 -0300" stop="20240913181200 -0300" channel="HBO Family">
-    <title lang="pt">Tá Dando Onda</title>
-    <desc lang="pt">Surfar é a atividade do pinguim adolescente Cody Maverick. Acompanhado por uma equipe de filmagem, ele deixa sua casa na Antártida para ir à Ilha de Pen Gu participar do Big Z Memorial Surf Off.</desc>
-  </programme>
-  <programme start="20240913181200 -0300" stop="20240913200000 -0300" channel="HBO Family">
-    <title lang="pt">Os Smurfs 2</title>
-    <desc lang="pt">Os Smurfs se unem a seus amigos humanos para resgatar Smurfette, que foi raptada por Gargamel. Ela conhece um feitiço secreto que pode transformar a mais nova criação do malvado feiticeiro em reais Smurfs.</desc>
-  </programme>
-  <programme start="20240913200000 -0300" stop="20240913013000 -0300" channel="HBO Family">
-    <title lang="pt">LEGO Batman - O Filme</title>
-    <desc lang="pt">Batman descobre que acidentalmente adotou um garoto órfão, que se torna ninguém menos que Robin. A dupla formada pelo arrogante Homem-Morcego e o empolgado ajudante deve combater o crime e prender o Coringa.</desc>
-  </programme>
-  <programme start="20240913013000 -0300" stop="20240914030900 -0300" channel="HBO Family">
-    <title lang="pt">MIB - Homens de Preto</title>
-    <desc lang="pt">Os agentes K e J são policiais futuristas que trabalham em um projeto supersecreto do governo. Ele envolve a captura e deportação de seres espaciais não autorizados a ficarem na Terra.</desc>
-  </programme>
-  <programme start="20240914030900 -0300" stop="20240914042200 -0300" channel="HBO Family">
-    <title lang="pt">Irmãos Urso - A Viagem de Volta para Casa</title>
-    <desc lang="pt">Sem dinheiro para visitar a família no Natal, o lenhador Vick começa a derrubar freneticamente as árvores da floresta. Briar e Bramble convocam todos os seus amigos animais para defender seu lar contra a destruição de Vick.</desc>
-  </programme>
-  <programme start="20240914042200 -0300" stop="20240914060000 -0300" channel="HBO Family">
-    <title lang="pt">Pé Pequeno</title>
-    <desc lang="pt">Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese.</desc>
-  </programme>
-  <programme start="20240914060000 -0300" stop="20240914075800 -0300" channel="HBO Family">
-    <title lang="pt">Space Jam - Um Novo Legado</title>
-    <desc lang="pt">O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.</desc>
   </programme>
   <programme start="20240914075800 -0300" stop="20240914091700 -0300" channel="HBO Family">
     <title lang="pt">A Noiva Cadáver</title>
@@ -515,62 +456,62 @@
     <title lang="pt">As Múmias e o Anel Perdido</title>
     <desc lang="pt">Três antigas múmias acabam na Londres atual e embarcam em uma jornada em busca de um velho anel pertencente à Família Real, roubado pelo ambicioso arqueólogo Lord Carnaby.</desc>
   </programme>
-  <programme start="20240915060000 -0300" stop="20240915063000 -0300" channel="HBO Family">
+  <programme start="20240915060000 -0300" stop="20240915062900 -0300" channel="HBO Family">
     <title lang="pt">Bebês Clássicos - Canção de Ninar 2</title>
     <desc lang="pt">Canções de ninar de todo o mundo misturadas com gravações originais de artistas contemporâneos e alguns dos melhores compositores clássicos de todos os tempos.</desc>
   </programme>
-  <programme start="20240915063000 -0300" stop="20240915080800 -0300" channel="HBO Family">
+  <programme start="20240915062900 -0300" stop="20240915080700 -0300" channel="HBO Family">
     <title lang="pt">Tá Chovendo Hambúrguer 2</title>
     <desc lang="pt">Flint e seus amigos precisam deixar a cidade de Boca Grande. Ele se junta a uma empresa que reúne os melhores inventores do mundo, mas, quando descobre que sua máquina está criando comidas mutantes, decide retornar para tentar salvar o mundo.</desc>
   </programme>
-  <programme start="20240915080800 -0300" stop="20240915100300 -0300" channel="HBO Family">
+  <programme start="20240915080700 -0300" stop="20240915100400 -0300" channel="HBO Family">
     <title lang="pt">Godzilla vs. Kong</title>
     <desc lang="pt">Kong e seus protetores saem em busca de seu verdadeiro lar. No entanto, eles logo se encontram no caminho de Godzilla, completamente enfurecido. O confronto entre os dois titãs é apenas o começo do enigma que reside nas profundezas do planeta.</desc>
   </programme>
-  <programme start="20240915100300 -0300" stop="20240915114200 -0300" channel="HBO Family">
+  <programme start="20240915100400 -0300" stop="20240915114200 -0300" channel="HBO Family">
     <title lang="pt">Pé Pequeno</title>
     <desc lang="pt">Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese.</desc>
   </programme>
-  <programme start="20240915114200 -0300" stop="20240915132500 -0300" channel="HBO Family">
+  <programme start="20240915114200 -0300" stop="20240915132400 -0300" channel="HBO Family">
     <title lang="pt">Uma Aventura LEGO</title>
     <desc lang="pt">Emmet é uma minifigura LEGO, que é erroneamente identificado como uma pessoa essencial para salvar o mundo. Ele é recrutado por uma irmandade de estranhos para uma jornada épica com a finalidade de deter um tirano.</desc>
   </programme>
-  <programme start="20240915132500 -0300" stop="20240915144200 -0300" channel="HBO Family">
+  <programme start="20240915132400 -0300" stop="20240915144300 -0300" channel="HBO Family">
     <title lang="pt">Stuart Little 2</title>
     <desc lang="pt">Um belo dia, Stuart salva o passarinho fêmea Margalo das garras de um falcão, levando-a para morar em sua casa. Quando sua nova amiga desaparece repentinamente com um item de valor da família, o ratinho precisa unir suas forças para encontrá-los.</desc>
   </programme>
-  <programme start="20240915144200 -0300" stop="20240915164100 -0300" channel="HBO Family">
+  <programme start="20240915144300 -0300" stop="20240915164200 -0300" channel="HBO Family">
     <title lang="pt">Wonka</title>
   </programme>
-  <programme start="20240915164100 -0300" stop="20240915181900 -0300" channel="HBO Family">
+  <programme start="20240915164200 -0300" stop="20240915181800 -0300" channel="HBO Family">
     <title lang="pt">Tá Chovendo Hambúrguer 2</title>
     <desc lang="pt">Flint e seus amigos precisam deixar a cidade de Boca Grande. Ele se junta a uma empresa que reúne os melhores inventores do mundo, mas, quando descobre que sua máquina está criando comidas mutantes, decide retornar para tentar salvar o mundo.</desc>
   </programme>
-  <programme start="20240915181900 -0300" stop="20240915200000 -0300" channel="HBO Family">
+  <programme start="20240915181800 -0300" stop="20240915200200 -0300" channel="HBO Family">
     <title lang="pt">Goosebumps - Monstros e Arrepios</title>
     <desc lang="pt">Um adolescente liberta acidentalmente os monstros dos livros de um famoso autor de histórias de terror. Agora, ele precisa ajudar a capturar as criaturas e enviá-las de volta ao mundo da imaginação antes que seja tarde demais.</desc>
   </programme>
-  <programme start="20240915200000 -0300" stop="20240915013100 -0300" channel="HBO Family">
+  <programme start="20240915200200 -0300" stop="20240915013100 -0300" channel="HBO Family">
     <title lang="pt">Godzilla vs. Kong</title>
     <desc lang="pt">Kong e seus protetores saem em busca de seu verdadeiro lar. No entanto, eles logo se encontram no caminho de Godzilla, completamente enfurecido. O confronto entre os dois titãs é apenas o começo do enigma que reside nas profundezas do planeta.</desc>
   </programme>
-  <programme start="20240915013100 -0300" stop="20240916031100 -0300" channel="HBO Family">
-    <title lang="pt">Homens de Preto</title>
+  <programme start="20240915013100 -0300" stop="20240916030900 -0300" channel="HBO Family">
+    <title lang="pt">MIB - Homens de Preto</title>
     <desc lang="pt">Os agentes K e J são policiais futuristas que trabalham em um projeto supersecreto do governo. Ele envolve a captura e deportação de seres espaciais não autorizados a ficarem na Terra.</desc>
   </programme>
-  <programme start="20240916031100 -0300" stop="20240916044400 -0300" channel="HBO Family">
+  <programme start="20240916030900 -0300" stop="20240916044100 -0300" channel="HBO Family">
     <title lang="pt">Looney Tunes - De Volta à Ação</title>
     <desc lang="pt">Para ajudar um dublê de filmes, os Looney Tunes saem à procura de seu pai desaparecido e do místico diamante Macaco Azul.</desc>
   </programme>
-  <programme start="20240916044400 -0300" stop="20240916060000 -0300" channel="HBO Family">
+  <programme start="20240916044100 -0300" stop="20240916060000 -0300" channel="HBO Family">
     <title lang="pt">Stuart Little 2</title>
     <desc lang="pt">Um belo dia, Stuart salva o passarinho fêmea Margalo das garras de um falcão, levando-a para morar em sua casa. Quando sua nova amiga desaparece repentinamente com um item de valor da família, o ratinho precisa unir suas forças para encontrá-los.</desc>
   </programme>
-  <programme start="20240916060000 -0300" stop="20240916074300 -0300" channel="HBO Family">
+  <programme start="20240916060000 -0300" stop="20240916074200 -0300" channel="HBO Family">
     <title lang="pt">Tom &amp; Jerry - O Filme</title>
     <desc lang="pt">Uma das rivalidades mais amadas da história ressurge quando Jerry se muda para o hotel mais rico de Nova Iorque, na véspera do casamento do século, forçando a desesperada organizadora do evento a contratar Tom para se livrar do rato.</desc>
   </programme>
-  <programme start="20240916074300 -0300" stop="20240916094100 -0300" channel="HBO Family">
+  <programme start="20240916074200 -0300" stop="20240916094100 -0300" channel="HBO Family">
     <title lang="pt">Wonka</title>
   </programme>
   <programme start="20240916094100 -0300" stop="20240916111500 -0300" channel="HBO Family">
@@ -581,15 +522,15 @@
     <title lang="pt">Looney Tunes - De Volta à Ação</title>
     <desc lang="pt">Para ajudar um dublê de filmes, os Looney Tunes saem à procura de seu pai desaparecido e do místico diamante Macaco Azul.</desc>
   </programme>
-  <programme start="20240916124800 -0300" stop="20240916143400 -0300" channel="HBO Family">
+  <programme start="20240916124800 -0300" stop="20240916143500 -0300" channel="HBO Family">
     <title lang="pt">LEGO Batman - O Filme</title>
     <desc lang="pt">Batman descobre que acidentalmente adotou um garoto órfão, que se torna ninguém menos que Robin. A dupla formada pelo arrogante Homem-Morcego e o empolgado ajudante deve combater o crime e prender o Coringa.</desc>
   </programme>
-  <programme start="20240916143400 -0300" stop="20240916165700 -0300" channel="HBO Family">
+  <programme start="20240916143500 -0300" stop="20240916165800 -0300" channel="HBO Family">
     <title lang="pt">Homem-Aranha - Através do Aranhaverso</title>
     <desc lang="pt">Depois de se reunir com Gwen Stacy, Homem-Aranha é jogado no multiverso, onde ele encontra uma equipe encarregada de proteger sua própria existência.</desc>
   </programme>
-  <programme start="20240916165700 -0300" stop="20240916181700 -0300" channel="HBO Family">
+  <programme start="20240916165800 -0300" stop="20240916181700 -0300" channel="HBO Family">
     <title lang="pt">Scooby-Doo e Krypto, o Supercão</title>
     <desc lang="pt">A Liga da Justiça desaparece e os vilões invadem Metrópolis. Existe apenas uma equipe que pode desvendar esse mistério: Scooby-Doo e sua turma. Mas tem um cachorro novo na cidade: Krypto, o Supercão do Superman que também tem superpoderes.</desc>
   </programme>
@@ -597,38 +538,64 @@
     <title lang="pt">Tom &amp; Jerry - O Filme</title>
     <desc lang="pt">Uma das rivalidades mais amadas da história ressurge quando Jerry se muda para o hotel mais rico de Nova Iorque, na véspera do casamento do século, forçando a desesperada organizadora do evento a contratar Tom para se livrar do rato.</desc>
   </programme>
-  <programme start="20240916200000 -0300" stop="20240916215900 -0300" channel="HBO Family">
+  <programme start="20240916200000 -0300" stop="20240916013800 -0300" channel="HBO Family">
     <title lang="pt">Wonka</title>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913081500 -0300" channel="HBO HD">
-    <title lang="pt">Shazam!</title>
-    <desc lang="pt">Aos 14 anos, Billy Batson recebe de um antigo mago o dom de se transformar em um super-herói adulto chamado Shazam. Ao gritar a palavra "Shazam!", ele se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades.</desc>
+  <programme start="20240916013800 -0300" stop="20240917030000 -0300" channel="HBO Family">
+    <title lang="pt">Noite de Sustos</title>
+    <desc lang="pt">Três amigos decidem passar a noite de Halloween dentro de uma loja de fantasias de terror, mas descobrem que o lugar é assombrado por um espírito do mal.</desc>
   </programme>
-  <programme start="20240913081500 -0300" stop="20240913103000 -0300" channel="HBO HD">
-    <title lang="pt">O Esquadrão Suicida</title>
-    <desc lang="pt">O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag.</desc>
+  <programme start="20240917030000 -0300" stop="20240917042500 -0300" channel="HBO Family">
+    <title lang="pt">Natal Entre Amigos</title>
+    <desc lang="pt">Julie vive um período conturbado em sua vida ao passar seu primeiro natal em luto sem seu marido. Além disso, ela luta para dar conta de seu novo emprego como dona de uma empresa com o cuidado que tem por seu filho.</desc>
   </programme>
-  <programme start="20240913103000 -0300" stop="20240913130500 -0300" channel="HBO HD">
-    <title lang="pt">Furiosa - Uma Saga Mad Max</title>
-    <desc lang="pt">A jovem Furiosa cai nas mãos dos motoqueiros liderados por Dementus. Varrendo Wasteland, eles encontram Immortan Joe. Enquanto os dois tiranos lutam pelo domínio, Furiosa logo se vê em uma batalha ininterrupta para voltar para casa.</desc>
+  <programme start="20240917042500 -0300" stop="20240917060000 -0300" channel="HBO Family">
+    <title lang="pt">Looney Tunes - De Volta à Ação</title>
+    <desc lang="pt">Para ajudar um dublê de filmes, os Looney Tunes saem à procura de seu pai desaparecido e do místico diamante Macaco Azul.</desc>
   </programme>
-  <programme start="20240913130500 -0300" stop="20240913151000 -0300" channel="HBO HD">
-    <title lang="pt">Mad Max - Estrada da Fúria</title>
-    <desc lang="pt">Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra iniciada pela Imperatriz Furiosa.</desc>
+  <programme start="20240917060000 -0300" stop="20240917072500 -0300" channel="HBO Family">
+    <title lang="pt">Como Cães e Gatos 2 - A Vingança de Kitty Galore</title>
+    <desc lang="pt">Gatos e cães unem forças em uma aliança que pode salvar suas vidas e as de seus donos, lutando contra os planos diabólicos de Kitty Galore.</desc>
   </programme>
-  <programme start="20240913151000 -0300" stop="20240913170000 -0300" channel="HBO HD">
-    <title lang="pt">O Exorcista do Papa</title>
-    <desc lang="pt">O padre Gabriele Amorth, exorcista do Vaticano, luta contra Satanás e demônios possuidores de inocentes. Um retrato detalhado de um padre que realizou mais de 100 mil exorcismos em sua vida.</desc>
+  <programme start="20240917072500 -0300" stop="20240917092300 -0300" channel="HBO Family">
+    <title lang="pt">Space Jam - Um Novo Legado</title>
+    <desc lang="pt">O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.</desc>
   </programme>
-  <programme start="20240913170000 -0300" stop="20240913200000 -0300" channel="HBO HD">
-    <title lang="pt">Batman</title>
-    <desc lang="pt">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como a personificação da vingança para a população.</desc>
+  <programme start="20240917092300 -0300" stop="20240917110100 -0300" channel="HBO Family">
+    <title lang="pt">Boonie Bears ao Resgate</title>
+    <desc lang="pt">Duas caixas são trocadas após um acidente de carro. Quando a caixa errada é levada à floresta, as vidas dos irmãos ursos mudam consideravelmente, pois eles precisam lutar contra bandidos para proteger uma adorável garotinha.</desc>
   </programme>
-  <programme start="20240913200000 -0300" stop="20240913003500 -0300" channel="HBO HD">
-    <title lang="pt">Ghostbusters - Apocalipse de Gelo</title>
-    <desc lang="pt">Novos e antigos Caça-Fantasmas precisam se unir para proteger seu lar e salvar o mundo de uma segunda era glacial quando a descoberta de um artefato antigo desencadeia uma força maligna.</desc>
+  <programme start="20240917110100 -0300" stop="20240917125000 -0300" channel="HBO Family">
+    <title lang="pt">Águia e Jaguar - Os Guerreiros Lendários</title>
+    <desc lang="pt">Em um futuro sedento por água, dois sobreviventes viajam no tempo em busca do poder da água, mas descobrem que um empresário já o controla. A irmandade Aztaya, herdeiros modernos dos guerreiros astecas e maias, une forças para frustrar o plano dele.</desc>
   </programme>
-  <programme start="20240913003500 -0300" stop="20240914023000 -0300" channel="HBO HD">
+  <programme start="20240917125000 -0300" stop="20240917141000 -0300" channel="HBO Family">
+    <title lang="pt">A Noiva Cadáver</title>
+    <desc lang="pt">Nervoso com a cerimônia de seu casamento, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o cadáver da falecida Emily acredita que Victor acabara de pedi-la em casamento e o puxa para o mundo dos mortos.</desc>
+  </programme>
+  <programme start="20240917141000 -0300" stop="20240917160700 -0300" channel="HBO Family">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Um menino pobre e quatro crianças mimadas ganham um passeio por uma encantada fábrica de chocolates e são guiados pelo esquisito proprietário.</desc>
+  </programme>
+  <programme start="20240917160700 -0300" stop="20240917174200 -0300" channel="HBO Family">
+    <title lang="pt">Beetlejuice - Os Fantasmas se Divertem</title>
+    <desc lang="pt">Barbara e Adam Maitland morrem, porém permanecem assombrando sua antiga casa. Quando uma nova família muda para a residência, o casal de fantasmas tenta assustar os novos moradores com a ajuda de um espírito espalhafatoso.</desc>
+  </programme>
+  <programme start="20240917174200 -0300" stop="20240917183800 -0300" channel="HBO Family">
+    <title lang="pt">Línguas da Nossa Língua</title>
+    <sub-title lang="pt">Línguas de Resistência</sub-title>
+    <desc lang="pt">O encontro da língua portuguesa com as línguas indígenas e africanas envolveu conflito e morte. Descubra como sobreviveram essas línguas durante centenas de anos de dominação portuguesa.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20240917183800 -0300" stop="20240917200000 -0300" channel="HBO Family">
+    <title lang="pt">Chef Jack - O Cozinheiro Aventureiro</title>
+    <desc lang="pt">Jack é um cozinheiro destemido que roda o mundo em busca das maiores especiarias para seus pratos. Para se tornar o número um do ramo, ele entra para a Convergência de Sabores, a maior competição gastronômica do mundo.</desc>
+  </programme>
+  <programme start="20240917200000 -0300" stop="20240917215800 -0300" channel="HBO Family">
+    <title lang="pt">Space Jam - Um Novo Legado</title>
+    <desc lang="pt">O superastro do basquete LeBron James se junta à gangue Looney Tunes para derrotar o Goon Squad e salvar seu filho.</desc>
+  </programme>
+  <programme start="20240914003500 -0300" stop="20240914023000 -0300" channel="HBO HD">
     <title lang="pt">Sobrenatural - A Porta Vermelha</title>
     <desc lang="pt">Josh Lambert segue para o leste para deixar seu filho, Dalton, na faculdade. Mas demônios reprimidos do passado voltam repentinamente para assombrar os dois.</desc>
   </programme>
@@ -764,62 +731,57 @@
     <desc lang="pt">A vitória no campeonato de 1995 catapulta Bob à fama e ele constrói as rampas Dreamland, que marcam o seu legado. Recusando uma oferta da Nike, Bob insiste em que o skate vai além do dinheiro, é uma questão de essência e autenticidade.</desc>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240916200000 -0300" stop="20240916220000 -0300" channel="HBO HD">
+  <programme start="20240916200000 -0300" stop="20240916010000 -0300" channel="HBO HD">
     <title lang="pt">Barbie</title>
     <desc lang="pt">Depois de ser expulsa da Barbieland por ser uma boneca de aparência menos do que perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913081500 -0300" channel="HBO Mundi">
-    <title lang="pt">Uma Equipe Muito Especial</title>
-    <desc lang="pt">As irmãs Dottie e Mae entram para o time da liga feminina de beisebol, fundada durante a Segunda Guerra Mundial, para manter a moral da torcida, já que os homens estavam servindo no combate.</desc>
+  <programme start="20240916010000 -0300" stop="20240917014000 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor no qual, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e os fatos da atualidade.</desc>
   </programme>
-  <programme start="20240913081500 -0300" stop="20240913095500 -0300" channel="HBO Mundi">
-    <title lang="pt">Vidas à Deriva</title>
-    <desc lang="pt">Tami Oldham e Richard Sharp velejam pelo Taiti quando são atingidos por uma terrível tempestade. Passada a tormenta, ela se vê sozinha na embarcação em ruínas e tenta encontrar uma maneira de salvar a própria vida e a do parceiro.</desc>
+  <programme start="20240917014000 -0300" stop="20240917040500 -0300" channel="HBO HD">
+    <title lang="pt">Matrix Reloaded</title>
+    <desc lang="pt">As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada e Neo, Morpheus, Trinity e Link lutam para salvar a humanidade da extinção.</desc>
   </programme>
-  <programme start="20240913095500 -0300" stop="20240913114500 -0300" channel="HBO Mundi">
-    <title lang="pt">A Última Sessão de Freud</title>
-    <desc lang="pt">Sigmund Freud e Don C.S. Lewis, duas das mentes mais brilhantes do século 20, participam intimamente em uma sessão monumental sobre a crença no futuro da humanidade e na existência de Deus.</desc>
+  <programme start="20240917040500 -0300" stop="20240917060000 -0300" channel="HBO HD">
+    <title lang="pt">Mortal Kombat</title>
+    <desc lang="pt">O lutador de MMA Cole Young não conhece sua herança, nem sabe o motivo do Imperador da Exoterra ter enviado seu melhor guerreiro, Sub-Zero, para ir atrás dele. Temendo pela segurança de sua família, ele se une a outros heróis para proteger a Terra.</desc>
   </programme>
-  <programme start="20240913114500 -0300" stop="20240913150000 -0300" channel="HBO Mundi">
-    <title lang="pt">Magnolia</title>
-    <desc lang="pt">Um dia em San Fernando Valley, na Califórnia, nos arredores da rua Magnólia, as histórias de nove personagens se cruzam por coincidências do destino, através de um programa de televisão onde um grupo de três crianças desafia três adultos.</desc>
+  <programme start="20240917060000 -0300" stop="20240917080000 -0300" channel="HBO HD">
+    <title lang="pt">Livrai-nos do Mal</title>
+    <desc lang="pt">O policial Ralph Sarchie se depara com dois casos perturbadores em uma semana. Intrigado, ele começa a investigar as pessoas responsáveis e descobre uma verdade assustadora com a ajuda de um padre especializado em demonologia.</desc>
   </programme>
-  <programme start="20240913150000 -0300" stop="20240913155900 -0300" channel="HBO Mundi">
-    <title lang="pt">My Brilliant Friend</title>
-    <sub-title lang="pt">The Separation</sub-title>
-    <desc lang="pt">Elena e Lila se envolvem na turbulência da Itália no final dos anos 1980, perto do fim de décadas de violência política e agitação social.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
+  <programme start="20240917080000 -0300" stop="20240917084000 -0300" channel="HBO HD">
+    <title lang="pt">Last Week Tonight With John Oliver</title>
+    <desc lang="pt">John Oliver é o responsável por conduzir este programa de humor no qual, durante trinta minutos, ele mostra um olhar satírico sobre as notícias, a política e os fatos da atualidade.</desc>
   </programme>
-  <programme start="20240913155900 -0300" stop="20240913164500 -0300" channel="HBO Mundi">
-    <title lang="pt">Os 43 de Ayotzinapa: Crime de Estado</title>
+  <programme start="20240917084000 -0300" stop="20240917103000 -0300" channel="HBO HD">
+    <title lang="pt">Amigos Sem Compromisso</title>
+    <desc lang="pt">Uma caça-talentos paulistana recruta um diretor de arte de Salvador para um emprego em São Paulo. O que começa como amizade rapidamente se torna um acordo de sexo sem compromisso e uma batalha para não se envolver emocionalmente.</desc>
   </programme>
-  <programme start="20240913164500 -0300" stop="20240913185000 -0300" channel="HBO Mundi">
-    <title lang="pt">Carmen</title>
-    <desc lang="pt">Mulher jovem e independente que é forçada a fugir de sua casa no deserto mexicano após o brutal assassinato de sua mãe. Carmen sobrevive a uma aterrorizante e perigosa travessia ilegal da fronteira para os EUA, mas acaba confrontada por um guarda.</desc>
+  <programme start="20240917103000 -0300" stop="20240917132000 -0300" channel="HBO HD">
+    <title lang="pt">Tróia</title>
+    <desc lang="pt">Durante uma visita ao rei de Esparta, Menelau, o príncipe troiano Paris se apaixona pela esposa do rei, Helena, e a leva de volta para Troia. Era o pretexto que faltava ao rei Agamenon, irmão de Menelau, para declarar guerra contra Troia.</desc>
   </programme>
-  <programme start="20240913185000 -0300" stop="20240913194500 -0300" channel="HBO Mundi">
-    <title lang="pt">30 Segundos</title>
-    <desc lang="pt">Veja como as transformações políticas, sociais e econômicas do Brasil do final dos anos 1950 ao final da década de 1970 foram captadas pela nascente indústria de propaganda do país.</desc>
+  <programme start="20240917132000 -0300" stop="20240917151000 -0300" channel="HBO HD">
+    <title lang="pt">Feriado Sangrento</title>
+    <desc lang="pt">Um assassino em série chega em Massachusetts para criar uma escultura de Ação de Graças com os corpos dos moradores da cidade.</desc>
   </programme>
-  <programme start="20240913194500 -0300" stop="20240913013200 -0300" channel="HBO Mundi">
-    <title lang="pt">Vestígios do Dia</title>
-    <desc lang="pt">Nos anos 30, James Stevens trabalha como mordomo para o Lorde Darlington. Stevens é um empregado tão dedicado que não interrompe seu trabalho nem mesmo quando seu pai está morrendo e ignora a simpatia do chefe pelo nazismo.</desc>
+  <programme start="20240917151000 -0300" stop="20240917161000 -0300" channel="HBO HD">
+    <title lang="pt">Cidade de Deus: A Luta Não Para</title>
+    <desc lang="pt">Ao assumir o controle, Bradock procura criar confiança na comunidade, apesar de seu comportamento errático; Wilson e Lígia descobrem uma conexão entre um político, as milícias locais e um membro do círculo de Bradock.</desc>
   </programme>
-  <programme start="20240913013200 -0300" stop="20240914030400 -0300" channel="HBO Mundi">
-    <title lang="pt">A Hora do Pesadelo</title>
-    <desc lang="pt">Freddy Krueger foi queimado vivo e agora está de volta com desejo de vingança. O homem deformado com garras de aço ataca um grupo de adolescentes em seus pesadelos e, para escapar, suas vítimas precisam acordar.</desc>
+  <programme start="20240917161000 -0300" stop="20240917180500 -0300" channel="HBO HD">
+    <title lang="pt">O Protetor 3 - Capítulo Final</title>
+    <desc lang="pt">Sentindo-se em casa no sul da Itália, o ex-agente Robert McCall logo descobre que seus novos amigos estão sob o controle dos chefes do crime local.</desc>
   </programme>
-  <programme start="20240914030400 -0300" stop="20240914043100 -0300" channel="HBO Mundi">
-    <title lang="pt">A Hora do Pesadelo 2 - A Vingança de Freddy</title>
-    <desc lang="pt">Uma nova família se muda para a casa em Elm Street, e logo os garotos estão tendo pesadelos com Freddy Krueger, o falecido assassino de crianças. Desta vez, ele tenta tomar o corpo de um adolescente para continuar matando no mundo real.</desc>
+  <programme start="20240917180500 -0300" stop="20240917201000 -0300" channel="HBO HD">
+    <title lang="pt">Liga da Justiça</title>
+    <desc lang="pt">Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado.</desc>
   </programme>
-  <programme start="20240914043100 -0300" stop="20240914060000 -0300" channel="HBO Mundi">
-    <title lang="pt">A Noite dos Arrepios</title>
-    <desc lang="pt">Em um campus universitário, parasitas cerebrais alienígenas infectam os humanos pela boca e transformam seus hospedeiros em criaturas assassinas parecidas com zumbis.</desc>
-  </programme>
-  <programme start="20240914060000 -0300" stop="20240914082000 -0300" channel="HBO Mundi">
-    <title lang="pt">J. Edgar</title>
-    <desc lang="pt">O filme conta a história real de John Edgar Hoover, que participou da criação do FBI e comandou a agência com braço de ferro por quase 50 anos, mas guardava, na vida pessoal, segredos que poderiam comprometer sua carreira.</desc>
+  <programme start="20240917201000 -0300" stop="20240917220000 -0300" channel="HBO HD">
+    <title lang="pt">Amigos Sem Compromisso</title>
+    <desc lang="pt">Uma caça-talentos paulistana recruta um diretor de arte de Salvador para um emprego em São Paulo. O que começa como amizade rapidamente se torna um acordo de sexo sem compromisso e uma batalha para não se envolver emocionalmente.</desc>
   </programme>
   <programme start="20240914082000 -0300" stop="20240914100600 -0300" channel="HBO Mundi">
     <title lang="pt">Os Caça-Fantasmas</title>
@@ -934,53 +896,56 @@
     <title lang="pt">30 Segundos</title>
     <desc lang="pt">Vinte anos depois do golpe militar, o país tem novamente um presidente civil. As propagandas mostram um Brasil jovem e alegre, em uma década inesquecível para a sociedade e para a indústria da publicidade no País.</desc>
   </programme>
-  <programme start="20240916193500 -0300" stop="20240916220000 -0300" channel="HBO Mundi">
+  <programme start="20240916193500 -0300" stop="20240916000000 -0300" channel="HBO Mundi">
     <title lang="pt">A Cor Púrpura</title>
     <desc lang="pt">Separada da irmã e filhos, Celie enfrenta muitas dificuldades na vida, incluindo um marido abusivo. Com o apoio da cantora Shug Avery e sua enteada, Celie encontra uma força extraordinária nos laços inquebráveis de um novo tipo de sororidade.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913075500 -0300" channel="HBO Plus">
-    <title lang="pt">Cães de Guerra</title>
-    <desc lang="pt">Em 2005, Efraim Diveroli e David Packouz, dois traficantes internacionais de armas, conseguem um contrato de 300 milhões de dólares para fornecer armamentos aos militares afegãos.</desc>
+  <programme start="20240916000000 -0300" stop="20240917020500 -0300" channel="HBO Mundi">
+    <title lang="pt">A Prometida</title>
+    <desc lang="pt">O dr. Frankenstein dedica anos de pesquisa para construir o par perfeito para sua primeira criação monstruosa. Ele cria uma mulher, Eva, para casá-la com seu primeiro monstro. Contudo, Eva decide abandonar seu noivo, que não desiste de tê-la para si.</desc>
   </programme>
-  <programme start="20240913075500 -0300" stop="20240913101500 -0300" channel="HBO Plus">
-    <title lang="pt">O Apanhador de Sonhos</title>
-    <desc lang="pt">Enquanto se hospedam em um chalé no meio da floresta, quatro amigos telepáticos enfrentam alienígenas que estão sendo perseguidos pelos militares.</desc>
+  <programme start="20240917020500 -0300" stop="20240917042500 -0300" channel="HBO Mundi">
+    <title lang="pt">Elas me Odeiam, mas me Querem</title>
+    <desc lang="pt">Executivo é demitido por denunciar negócios escusos de sua empresa. Sua ex-namorada o contrata para ser o pai do bebê que ela pretende ter com sua atual companheira, e ele vê aí uma oportunidade fácil de ganhar dinheiro.</desc>
   </programme>
-  <programme start="20240913101500 -0300" stop="20240913115000 -0300" channel="HBO Plus">
-    <title lang="pt">O Massacre da Serra Elétrica - O Início</title>
-    <desc lang="pt">Após um acidente lançá-la para fora do carro e seus amigos serem levados para a propriedade de Hewitt, Chrissie tenta salvar seus amigos das garras de Leatherface e de seus amigos assassinos.</desc>
+  <programme start="20240917042500 -0300" stop="20240917060000 -0300" channel="HBO Mundi">
+    <title lang="pt">A Hora do Pesadelo</title>
+    <desc lang="pt">Freddy Krueger foi queimado vivo e agora está de volta com desejo de vingança. O homem deformado com garras de aço ataca um grupo de adolescentes em seus pesadelos e, para escapar, suas vítimas precisam acordar.</desc>
   </programme>
-  <programme start="20240913115000 -0300" stop="20240913135500 -0300" channel="HBO Plus">
-    <title lang="pt">Stealth - Ameaça Invisível</title>
-    <desc lang="pt">Três pilotos da Marinha são encarregados de um treinamento em um avião não tripulado para acertar alvos estrangeiros. Ben não acredita na tecnologia da inteligência artificial e quer impedir que ela cause uma nova guerra mundial.</desc>
+  <programme start="20240917060000 -0300" stop="20240917082000 -0300" channel="HBO Mundi">
+    <title lang="pt">J. Edgar</title>
+    <desc lang="pt">O filme conta a história real de John Edgar Hoover, que participou da criação do FBI e comandou a agência com braço de ferro por quase 50 anos, mas guardava, na vida pessoal, segredos que poderiam comprometer sua carreira.</desc>
   </programme>
-  <programme start="20240913135500 -0300" stop="20240913180400 -0300" channel="HBO Plus">
-    <title lang="pt">Liga da Justiça de Zack Snyder</title>
-    <desc lang="pt">Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos.</desc>
+  <programme start="20240917082000 -0300" stop="20240917100500 -0300" channel="HBO Mundi">
+    <title lang="pt">A Fantástica Fábrica de Chocolate</title>
+    <desc lang="pt">Um garoto pobre ganha o direito de visitar a fábrica de chocolates do excêntrico Willy Wonka. Acompanhado por seu avô e quatro crianças mimadas, ele vive aventuras inesquecíveis e aprende uma importante lição.</desc>
   </programme>
-  <programme start="20240913180400 -0300" stop="20240913201500 -0300" channel="HBO Plus">
-    <title lang="pt">Aquaman 2 - O Reino Perdido</title>
-    <desc lang="pt">Um antigo poder é libertado e o herói Aquaman precisa fazer um perigoso acordo com um aliado improvável para proteger Atlântida e o mundo de uma devastação irreversível.</desc>
+  <programme start="20240917100500 -0300" stop="20240917120000 -0300" channel="HBO Mundi">
+    <title lang="pt">Sempre em Frente</title>
+    <desc lang="pt">Johnny e o sobrinho estabelecem uma relação tardia, mas transformadora, quando, inesperadamente, passam a conviver um com o outro.</desc>
   </programme>
-  <programme start="20240913201500 -0300" stop="20240913005000 -0300" channel="HBO Plus">
-    <title lang="pt">A Menina do Mar</title>
-    <desc lang="pt">O prefeito de uma vila em uma pequena ilha descobre uma criança com poderes. A pacífica comunidade da ilha se vê dividida e atormentada pela ideia de que a criança pode vir a ser o Salvador.</desc>
+  <programme start="20240917120000 -0300" stop="20240917130000 -0300" channel="HBO Mundi">
+    <title lang="pt">Os 43 de Ayotzinapa: Crime de Estado</title>
   </programme>
-  <programme start="20240913005000 -0300" stop="20240914022500 -0300" channel="HBO Plus">
-    <title lang="pt">Navio Fantasma</title>
-    <desc lang="pt">No Mar de Bering, uma equipe de resgate descobre um navio de passageiros perdido desde a década de 60. A tripulação descobre que a embarcação é o lugar de algo muito mais mortal e terrível do que qualquer coisa que eles pudessem ter imaginado.</desc>
+  <programme start="20240917130000 -0300" stop="20240917151500 -0300" channel="HBO Mundi">
+    <title lang="pt">Stalingrado - A Batalha Final</title>
+    <desc lang="pt">Seis soldados amigos lutam na sangrenta Batalha de Stalingrado, durante a Segunda Guerra Mundial, com o objetivo de proteger o território das forças armadas alemãs.</desc>
   </programme>
-  <programme start="20240914022500 -0300" stop="20240914032500 -0300" channel="HBO Plus">
-    <title lang="pt">Industry</title>
-    <desc lang="pt">Robert é chamado por um comitê seleto do governo e percebe que algumas entidades poderosas querem usá-lo como um peão em uma batalha muito maior entre elas.</desc>
+  <programme start="20240917151500 -0300" stop="20240917170500 -0300" channel="HBO Mundi">
+    <title lang="pt">Nem Tudo É o que Parece</title>
+    <desc lang="pt">Um traficante de drogas é forçado a cumprir duas últimas tarefas para seu chefe antes de deixar definitivamente seu posto.</desc>
   </programme>
-  <programme start="20240914032500 -0300" stop="20240914060000 -0300" channel="HBO Plus">
-    <title lang="pt">Doutor Sono</title>
-    <desc lang="pt">Depois de sobreviver a uma tentativa de assassinato por parte do pai, atormentado pelos espíritos do Hotel Overlook, Danny cria um vínculo telepático com Abra, uma menina com poderes tão fortes quanto aqueles que ele bloqueia dentro de si.</desc>
+  <programme start="20240917170500 -0300" stop="20240917192500 -0300" channel="HBO Mundi">
+    <title lang="pt">Laranja Mecânica</title>
+    <desc lang="pt">O jovem Alex passa as noites com uma gangue de amigos briguentos. Depois que é preso, se submete a uma técnica de modificação de comportamento para poder ganhar sua liberdade.</desc>
   </programme>
-  <programme start="20240914060000 -0300" stop="20240914080000 -0300" channel="HBO Plus">
-    <title lang="pt">Madame Web</title>
-    <desc lang="pt">Cassandra Webb, uma paramédica em Manhattan, tem habilidades de clarividência. Forçada a confrontar revelações sobre seu passado, ela forja uma relação com três jovens destinadas a futuros poderosos.</desc>
+  <programme start="20240917192500 -0300" stop="20240917202000 -0300" channel="HBO Mundi">
+    <title lang="pt">30 Segundos</title>
+    <desc lang="pt">Mesmo vivendo em uma constante "montanha-russa" econômica e social, o Brasil produz algumas das melhores campanhas publicitárias de sua história, com bordões que entraram para o cotidiano do povo.</desc>
+  </programme>
+  <programme start="20240917202000 -0300" stop="20240917220000 -0300" channel="HBO Mundi">
+    <title lang="pt">A Novata</title>
+    <desc lang="pt">Uma caloura se junta à equipe de remo de sua universidade e entra em uma jornada física, psicológica e obsessiva para chegar ao melhor barco do time, não importa o custo.</desc>
   </programme>
   <programme start="20240914080000 -0300" stop="20240914103500 -0300" channel="HBO Plus">
     <title lang="pt">Mulher-Maravilha 1984</title>
@@ -1095,59 +1060,58 @@
     <desc lang="pt">A vida e a intimidade de 5 jogadores e figuras influentes do e-sports brasileiro.</desc>
     <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240916195000 -0300" stop="20240916220000 -0300" channel="HBO Plus">
+  <programme start="20240916195000 -0300" stop="20240916003400 -0300" channel="HBO Plus">
     <title lang="pt">Adão Negro</title>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913080500 -0300" channel="HBO Pop">
-    <title lang="pt">Os Fazendeiros</title>
+  <programme start="20240916003400 -0300" stop="20240917021100 -0300" channel="HBO Plus">
+    <title lang="pt">Substitutos</title>
+    <desc lang="pt">Após a morte de seu marido, Faye decide transferir a consciência de seu amado para um androide. Mas ela logo percebe que a inteligência artificial não é capaz de substituir seu verdadeiro amor e acaba entrando em uma inesperada trama de perseguição.</desc>
   </programme>
-  <programme start="20240913080500 -0300" stop="20240913095500 -0300" channel="HBO Pop">
-    <title lang="pt">Uma Festa de Arromba</title>
-    <desc lang="pt">Estudante do ensino médio decide entrar em uma festa exclusiva na casa de seu amigo, que se transforma em uma noite selvagem de hip-hop, dança e diversão.</desc>
+  <programme start="20240917021100 -0300" stop="20240917041900 -0300" channel="HBO Plus">
+    <title lang="pt">Batman - O Retorno</title>
+    <desc lang="pt">Com o objetivo de manipular Gotham City, Pinguim se torna prefeito da cidade. Como se isto não bastasse, surge a Mulher-Gato que, apesar de ser linda e sedutora, também tem dupla personalidade. Ambos se tornam verdadeiros pesadelos para Batman.</desc>
   </programme>
-  <programme start="20240913095500 -0300" stop="20240913114000 -0300" channel="HBO Pop">
-    <title lang="pt">Dreamland: Sonhos e Ilusões</title>
+  <programme start="20240917041900 -0300" stop="20240917060000 -0300" channel="HBO Plus">
+    <title lang="pt">Mamãe - Operação Balada</title>
+    <desc lang="pt">Allyson e suas amigas sonham com uma noite de folga para conversar e jantar. Para isso, os maridos têm de cuidar dos filhos e da casa por três horas. Naturalmente, tudo o que pode acontecer de errado, acontece, resultando em uma noite inesquecível.</desc>
   </programme>
-  <programme start="20240913114000 -0300" stop="20240913133000 -0300" channel="HBO Pop">
-    <title lang="pt">Crescendo Juntas</title>
-    <desc lang="pt">Margaret, de 11 anos, muda-se para uma nova cidade e começa a contemplar tudo sobre a vida, a amizade e a adolescência. Ela conta com a mãe, Bárbara, que oferece apoio amoroso, e com a avó, Sylvia, que está tentando reencontrar a felicidade.</desc>
+  <programme start="20240917060000 -0300" stop="20240917073700 -0300" channel="HBO Plus">
+    <title lang="pt">A Máfia Volta ao Divã</title>
+    <desc lang="pt">Ameaçado na cadeia em que cumpre pena, o mafioso Paul Vitti finge ser louco. Isso chama a atenção de Ben Sobel, que se compromete a tratá-lo novamente e o ajuda a encontrar um emprego legítimo.</desc>
   </programme>
-  <programme start="20240913133000 -0300" stop="20240913152000 -0300" channel="HBO Pop">
-    <title lang="pt">Letra e Música</title>
-    <desc lang="pt">Decadente astro da música pop, que fez muito sucesso na década de 1980, agora apenas se apresenta no circuito nostálgico de feiras e parques de diversão. Tudo muda quando ele conhece uma talentosa compositora e tenta ressuscitar sua carreira.</desc>
+  <programme start="20240917073700 -0300" stop="20240917091700 -0300" channel="HBO Plus">
+    <title lang="pt">Ninja Assassino</title>
+    <desc lang="pt">Raizo dá as costas ao clã Ozunu, que o treinou desde criança para ser um assassino, e une forças com a agente da Europol Mika para acabar de vez com seus ex-protetores.</desc>
   </programme>
-  <programme start="20240913152000 -0300" stop="20240913170500 -0300" channel="HBO Pop">
-    <title lang="pt">Amor à Distância</title>
-    <desc lang="pt">Erin e Garrett estão muito apaixonados. Erin, porém, terá que mudar-se para a Califórnia e Garrett ficará em Nova York para trabalhar. Apesar da distância, o casal tentará de tudo para manter o romance aceso.</desc>
+  <programme start="20240917091700 -0300" stop="20240917110700 -0300" channel="HBO Plus">
+    <title lang="pt">Coração de Tinta</title>
+    <desc lang="pt">Um homem com habilidade de dar vida a personagens de livros acidentalmente convoca um dos vilões mais perversos da literatura. Agora, ele tem que enviar o vilão de volta para o seu mundo, antes que seja tarde demais!</desc>
   </programme>
-  <programme start="20240913170500 -0300" stop="20240913181000 -0300" channel="HBO Pop">
-    <title lang="pt">Chimp Crazy</title>
-    <sub-title lang="pt">Ilha da Fantasia</sub-title>
-    <desc lang="pt">O destino de Tonka se torna mais claro e Tonia luta para deixá-lo ir. Ela sonha em abrir sua própria ilha santuário, onde poderá viver entre os chimpanzés.</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
+  <programme start="20240917110700 -0300" stop="20240917132700 -0300" channel="HBO Plus">
+    <title lang="pt">Speed Racer</title>
+    <desc lang="pt">Ao negar uma oferta lucrativa de um empresário, Speed Racer o deixa furioso e acaba descobrindo a corrupção dos patrocinadores em corridas. Para salvar os negócios da família, Speed participa de um rally para desafiar um magnata corrupto.</desc>
   </programme>
-  <programme start="20240913181000 -0300" stop="20240913201000 -0300" channel="HBO Pop">
-    <title lang="pt">O Pai da Noiva</title>
+  <programme start="20240917132700 -0300" stop="20240917162200 -0300" channel="HBO Plus">
+    <title lang="pt">It - Capítulo 2</title>
+    <desc lang="pt">Vinte e sete anos depois dos eventos que chocaram os adolescentes que faziam parte do Clube dos Perdedores, os amigos realizam uma reunião. No entanto, o reencontro se torna uma verdadeira e sangrenta batalha quando Pennywise, o palhaço, retorna.</desc>
   </programme>
-  <programme start="20240913201000 -0300" stop="20240913012000 -0300" channel="HBO Pop">
-    <title lang="pt">Crescendo Juntas</title>
-    <desc lang="pt">Margaret, de 11 anos, muda-se para uma nova cidade e começa a contemplar tudo sobre a vida, a amizade e a adolescência. Ela conta com a mãe, Bárbara, que oferece apoio amoroso, e com a avó, Sylvia, que está tentando reencontrar a felicidade.</desc>
+  <programme start="20240917162200 -0300" stop="20240917180000 -0300" channel="HBO Plus">
+    <title lang="pt">Liga da Justiça - Crise nas Infinitas Terras - Parte um</title>
+    <desc lang="pt">O Antimonitor é solto no multiverso da DC e começa a destruir as diferentes Terras que o compõe. Agora, o Monitor recruta heróis de vários universos para contra-atacar.</desc>
   </programme>
-  <programme start="20240913012000 -0300" stop="20240914030500 -0300" channel="HBO Pop">
-    <title lang="pt">Uma Festa de Arromba</title>
-    <desc lang="pt">Estudante do ensino médio decide entrar em uma festa exclusiva na casa de seu amigo, que se transforma em uma noite selvagem de hip-hop, dança e diversão.</desc>
+  <programme start="20240917180000 -0300" stop="20240917185000 -0300" channel="HBO Plus">
+    <title lang="pt">Mundo Invisível dos Gamers</title>
+    <sub-title lang="pt">Origens</sub-title>
+    <desc lang="pt">Os gamers compartilham sobre a relação com a família, o início da carreira e o momento em que se viram que suas vidas não seriam mais as mesmas sem os jogos.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240914030500 -0300" stop="20240914043200 -0300" channel="HBO Pop">
-    <title lang="pt">Clube dos Anjos Caídos - Heróis e Vilões</title>
-    <desc lang="pt">A detetive amadora e aspirante a advogada Hollis Morgan e seu clube de leitura unem forças novamente após a misteriosa morte de um deles. Logo, Hollis acaba no centro da investigação quando um jornalista que acompanhava o caso também morre.</desc>
+  <programme start="20240917185000 -0300" stop="20240917202000 -0300" channel="HBO Plus">
+    <title lang="pt">Confisco</title>
+    <desc lang="pt">A história das pessoas que foram atingidas pelo confisco do plano Collor, o maior já realizado por um governo democrático contra seus cidadãos. O principal fio condutor é uma ação penal movida por brasileiros contra os bancos que efetivaram o plano.</desc>
   </programme>
-  <programme start="20240914043200 -0300" stop="20240914060000 -0300" channel="HBO Pop">
-    <title lang="pt">Assassinato do Bolo de Cenoura - Um Mistério de Hannah Swensen</title>
-    <desc lang="pt">Para desespero de seu noivo, Hannah investiga a descoberta de um esqueleto encontrado entre os escombros de um prédio que está em reforma.</desc>
-  </programme>
-  <programme start="20240914060000 -0300" stop="20240914072500 -0300" channel="HBO Pop">
-    <title lang="pt">Tempero Fatal - Um Mistério de Hannah Swensen</title>
-    <desc lang="pt">Hannah Swensen fica determinada a desvendar um mistério após sua mãe encontrar o cadáver de um proprietário de um imóvel, e frequentador frequente do The Cookie Jar, enquanto procurava uma casa para sua irmã Michelle.</desc>
+  <programme start="20240917202000 -0300" stop="20240917220000 -0300" channel="HBO Plus">
+    <title lang="pt">Liga da Justiça: Crise nas Infinitas Terras - Parte Dois</title>
+    <desc lang="pt">Um exército interminável de demônios das sombras ameaça destruir todas as Terras paralelas. A única coisa que se opõe a eles é o poder combinado de Superman, Batman, Mulher Maravilha, Lanterna Verde e todos os seus companheiros super-heróis.</desc>
   </programme>
   <programme start="20240914072500 -0300" stop="20240914080400 -0300" channel="HBO Pop">
     <title lang="pt">Last Week Tonight With John Oliver</title>
@@ -1294,72 +1258,53 @@
     <desc lang="pt">Eles decidiram correr atrás de seus sonhos e montaram seus próprios negócios. Mas o primeiro dia à frente de um novo empreendimento poder ser o maior de todos os desafios.</desc>
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240916201000 -0300" stop="20240916220000 -0300" channel="HBO Pop">
+  <programme start="20240916201000 -0300" stop="20240916014500 -0300" channel="HBO Pop">
     <title lang="pt">Alma da Festa</title>
     <desc lang="pt">Abandonada pelo marido, Deanna decide mudar de vida para entrar na universidade. Matriculada na mesma turma da filha, que odeia a ideia, ela se diverte como nunca, conhece o mundo das fraternidades e, finalmente, sente-se livre.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913073500 -0300" channel="HBO Signature">
-    <title lang="pt">Na Corrida com Beto</title>
+  <programme start="20240916014500 -0300" stop="20240917034100 -0300" channel="HBO Pop">
+    <title lang="pt">A Versão Persa</title>
+    <desc lang="pt">Leila se esforça para encontrar o equilíbrio e aceitar suas culturas opostas enquanto desafia os rótulos da sociedade. Quando sua família se reúne para o transplante de coração do pai, ela tenta manter tudo em ordem, mas um segredo vem à tona..</desc>
   </programme>
-  <programme start="20240913073500 -0300" stop="20240913092000 -0300" channel="HBO Signature">
-    <title lang="pt">Tempos de Tormenta</title>
-    <desc lang="pt">De 1940 a 1945, o Primeiro Ministro britânico Winston Churchill liderou seu país contra a Alemanha nazista de Hitler.</desc>
+  <programme start="20240917034100 -0300" stop="20240917060000 -0300" channel="HBO Pop">
+    <title lang="pt">Ele Não Está Tão a Fim de Você</title>
+    <desc lang="pt">Um grupo de homens e mulheres de Baltimore navega pela emoção dos primeiros encontros e pelos problemas da vida de casado enquanto tentam interpretar os sinais enviados pelo sexo oposto, com a esperança de ser a exceção à regra.</desc>
   </programme>
-  <programme start="20240913092000 -0300" stop="20240913110500 -0300" channel="HBO Signature">
-    <title lang="pt">Grande Demais para Quebrar</title>
-    <desc lang="pt">Líderes financeiros entram em ação quando a economia dos Estados Unidos ameaça entrar em colapso no ano de 2008.</desc>
+  <programme start="20240917060000 -0300" stop="20240917074500 -0300" channel="HBO Pop">
+    <title lang="pt">Escondido no Acampamento</title>
+    <desc lang="pt">Noah se mete em problemas com dois garotos e foge para o acampamento de verão, que é dirigido pelo excêntrico Falco. O diretor, junto com seu cachorro Lazarus, despreza a tecnologia e muito enérgico com as crianças.</desc>
   </programme>
-  <programme start="20240913110500 -0300" stop="20240913125000 -0300" channel="HBO Signature">
-    <title lang="pt">Apagar Histórico</title>
-    <desc lang="pt">Nathan briga com o chefe e vende suas ações na empresa, que logo depois passam a valer milhões de dólares. Ele tenta voltar atrás, mas é rejeitado. Frustrado, vai morar numa ilha até descobrir que chegou a hora de sua grande vingança.</desc>
+  <programme start="20240917074500 -0300" stop="20240917093000 -0300" channel="HBO Pop">
+    <title lang="pt">Procura-se um Amor que Goste de Cachorros</title>
+    <desc lang="pt">Sarah, uma professora divorciada de 40 anos, conhece um homem romântico e sem esperanças após sua irmã tê-la cadastrado em um site de relacionamentos.</desc>
   </programme>
-  <programme start="20240913125000 -0300" stop="20240913144500 -0300" channel="HBO Signature">
-    <title lang="pt">Bessie</title>
-    <desc lang="pt">Queen Latifah interpreta a lendária cantora Bessie Smith, apelidada de a Imperatriz do Blues. Um retrato brilhante de um espírito determinado tirado do anonimato pelo talento e amor à música.</desc>
+  <programme start="20240917093000 -0300" stop="20240917110500 -0300" channel="HBO Pop">
+    <title lang="pt">Em Pé de Guerra</title>
+    <desc lang="pt">Um jovem escritor descobre que sua mãe, Beverly, está prestes a se casar com seu ex-professor de educação física. Desesperado, John deixa sua filosofia de lado e passa a dedicar todo o seu tempo a provar que o seu futuro padrasto é um mau-caráter .</desc>
   </programme>
-  <programme start="20240913144500 -0300" stop="20240913170000 -0300" channel="HBO Signature">
-    <title lang="pt">O Mago das Mentiras</title>
-    <desc lang="pt">Em 2008, o corretor de ações e consultor financeiro Bernie Madoff é preso por cometer talvez a maior fraude financeira na história dos Estados Unidos.</desc>
+  <programme start="20240917110500 -0300" stop="20240917125000 -0300" channel="HBO Pop">
+    <title lang="pt">Sobre Ontem à Noite</title>
+    <desc lang="pt">Após uma aventura imprevisível de apenas uma noite, dois casais tentam transformar seu romance casual em amor verdadeiro, vivenciando as responsabilidades que compõem um relacionamento.</desc>
   </programme>
-  <programme start="20240913170000 -0300" stop="20240913180000 -0300" channel="HBO Signature">
-    <title lang="pt">O Simpatizante</title>
-    <sub-title lang="pt">Desejo de Morrer</sub-title>
-    <desc lang="pt">O capitão lida com o partido comunista, o exército sul-vietnamita e com seu supervisor da CIA.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20240917125000 -0300" stop="20240917143000 -0300" channel="HBO Pop">
+    <title lang="pt">Ano Um</title>
+    <desc lang="pt">Zed é um caçador e seu amigo Oh tem como tarefa colher frutas no tempo das cavernas. Um dia, Zed resolve comer um fruto da árvore da sabedoria e acaba banido de sua tribo. Oh decide acompanhá-lo e eles embarcam em uma jornada épica pela História.</desc>
   </programme>
-  <programme start="20240913180000 -0300" stop="20240913190000 -0300" channel="HBO Signature">
-    <title lang="pt">O Simpatizante</title>
-    <sub-title lang="pt">O Bom Asiático</sub-title>
-    <desc lang="pt">O capitão procura alguém para implicar quando o general começa a suspeitar de um espião.</desc>
-    <episode-num system="onscreen">S1 E2</episode-num>
+  <programme start="20240917143000 -0300" stop="20240917162000 -0300" channel="HBO Pop">
+    <title lang="pt">Amor à Distância</title>
+    <desc lang="pt">Erin e Garrett estão muito apaixonados. Erin, porém, terá que mudar-se para a Califórnia e Garrett ficará em Nova York para trabalhar. Apesar da distância, o casal tentará de tudo para manter o romance aceso.</desc>
   </programme>
-  <programme start="20240913190000 -0300" stop="20240913200100 -0300" channel="HBO Signature">
-    <title lang="pt">O Simpatizante</title>
-    <sub-title lang="pt">Ame-a ou Deixe-a</sub-title>
-    <desc lang="pt">Com a ordem do General para eliminar o espião, o Capitão busca a ajuda de Bon para elaborar e executar um plano programado para o Dia da Independência; em um almoço sofisticado, Claude apresenta o Capitão ao Autor.</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
+  <programme start="20240917162000 -0300" stop="20240917180000 -0300" channel="HBO Pop">
+    <title lang="pt">A Casa das Coelhinhas</title>
+    <desc lang="pt">A coelhinha Shelley leva uma vida perfeita até ser despejada da Mansão Playboy. Sem ter para onde ir, ela acaba em uma república de estudantes excluídas socialmente, a Zeta Alpha Zeta.</desc>
   </programme>
-  <programme start="20240913200100 -0300" stop="20240913000100 -0300" channel="HBO Signature">
-    <title lang="pt">O Simpatizante</title>
-    <sub-title lang="pt">Queremos Boas Falas</sub-title>
-    <desc lang="pt">O Capitão encontra um visitante indesejado em sua viagem ao norte para prestar consultoria sobre o filme de guerra do Autor; no set, as frustrações crescem à medida que lida com o ego volátil do Autor e os temperamentais atores de Hollywood..</desc>
-    <episode-num system="onscreen">S1 E4</episode-num>
+  <programme start="20240917180000 -0300" stop="20240917195000 -0300" channel="HBO Pop">
+    <title lang="pt">Evidências do Amor</title>
+    <desc lang="pt">Marco e Laura se apaixonaram ao cantarem "Evidências" no karaokê. Após o término, Marco é transportado de volta para brigas que teve com Laura sempre que ouve a música.</desc>
   </programme>
-  <programme start="20240913000100 -0300" stop="20240914022000 -0300" channel="HBO Signature">
-    <title lang="pt">The Normal Heart</title>
-    <desc lang="pt">A história do início da crise de Aids em Nova York na década de 1980. O esforço de vários ativistas gays e seus aliados na luta para expor a verdade sobre a epidemia para uma nação que se recusava a enxergar os fatos.</desc>
-  </programme>
-  <programme start="20240914022000 -0300" stop="20240914040000 -0300" channel="HBO Signature">
-    <title lang="pt">Frente Atômica</title>
-    <desc lang="pt">Veja o impacto médico e ambiental do permanente despejo de resíduo nuclear em duas comunidades de St. Louis, cada vez mais preocupantes.</desc>
-  </programme>
-  <programme start="20240914040000 -0300" stop="20240914060000 -0300" channel="HBO Signature">
-    <title lang="pt">Foster - Adotados pelo Sistema</title>
-    <desc lang="pt">Um olhar sem estereótipos e manchetes sensacionalistas sobre o sistema de Acolhimento Familiar temporário nos Estados Unidos, com o objetivo de acabar com alguns dos mitos mais recorrentes sobre o assunto.</desc>
-  </programme>
-  <programme start="20240914060000 -0300" stop="20240914073300 -0300" channel="HBO Signature">
-    <title lang="pt">Looking: The Movie</title>
-    <desc lang="pt">Depois de viver em Denver por quase um ano, Patrick Murray volta a São Francisco, para celebrar o casamento de velhos amigos.</desc>
+  <programme start="20240917195000 -0300" stop="20240917213000 -0300" channel="HBO Pop">
+    <title lang="pt">Sex Tape - Perdido na Nuvem</title>
+    <desc lang="pt">O romance intenso de um casal começa a esfriar depois de dez anos juntos. A dupla tenta esquentar o relacionamento e decide se gravar fazendo sexo. Para desespero deles, a fita desaparece.</desc>
   </programme>
   <programme start="20240914073300 -0300" stop="20240914090300 -0300" channel="HBO Signature">
     <title lang="pt">Arte Negra - Na Ausência da Luz</title>
@@ -1531,59 +1476,83 @@
     <desc lang="pt">O advogado de longa data e confidente de Bob, Stewart Altman, depõe e o promotor Lewin o acusa de ser evasivo. A esposa de Altman fica nervosa durante o interrogatório e revela novos detalhes cruciais. Bob decide que irá testemunhar.</desc>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20240916200100 -0300" stop="20240916210000 -0300" channel="HBO Signature">
+  <programme start="20240916200100 -0300" stop="20240916001400 -0300" channel="HBO Signature">
     <title lang="pt">The Jinx: A Vida e Mortes de Robert Durst</title>
     <sub-title lang="pt">Quase Toda a Verdade</sub-title>
     <desc lang="pt">A família de Kathie Durst espera que uma sentença condenatória traga um desfecho para o caso. Ao depor, Bob conta sua versão dos fatos, mas o promotor Lewin examina a história com mais atenção do que Bob esperava.</desc>
     <episode-num system="onscreen">S2 E5</episode-num>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913074700 -0300" channel="HBO Xtreme">
-    <title lang="pt">A Rainha dos Condenados</title>
-    <desc lang="pt">O lendário vampiro Lestat reinventou-se no século 21 como uma estrela do rock. Sua música faz com que Akasha, a rainha dos vampiros, desperte e deseje fazer dele seu rei. Mas, uma jovem e bela garota de Londres também está apaixonada por Lestat.</desc>
+  <programme start="20240916001400 -0300" stop="20240917013900 -0300" channel="HBO Signature">
+    <title lang="pt">Correr Riscos</title>
+    <desc lang="pt">Um militar que lutou na primeira Guerra do Iraque, no início da década de 1990, se torna voluntário para escoltar o corpo de um soldado de 19 anos de volta para casa.</desc>
   </programme>
-  <programme start="20240913074700 -0300" stop="20240913094500 -0300" channel="HBO Xtreme">
-    <title lang="pt">Blade: Trinity</title>
-    <desc lang="pt">A guerra entre humanos e vampiros continua, mas a melhor esperança dos humanos, o meio-vampiro Blade, foi acusado de vários assassinatos e, agora, a opinião pública está contra ele.</desc>
+  <programme start="20240917013900 -0300" stop="20240917034400 -0300" channel="HBO Signature">
+    <title lang="pt">Behind the Candelabra</title>
+    <desc lang="pt">O drama recria a vida particular do ícone do espetáculo e extravagante artista Liberace, assim como sua atormentada relação com seu jovem amante Scott Thorson em Las Vegas, de 1977 a 1982.</desc>
   </programme>
-  <programme start="20240913094500 -0300" stop="20240913113700 -0300" channel="HBO Xtreme">
-    <title lang="pt">Aves de Rapina - Arlequina e Sua Emancipação Fantabulosa</title>
-    <desc lang="pt">Depois de se aventurar com o Coringa, Arlequina se junta a Canário Negro, Caçadora e Renee Montoya para salvar a vida de uma garotinha do criminoso Máscara Negra em Gotham City.</desc>
+  <programme start="20240917034400 -0300" stop="20240917060000 -0300" channel="HBO Signature">
+    <title lang="pt">Jane Fonda em Cinco Atos</title>
+    <desc lang="pt">Jane Fonda fala francamente sobre sua vida, seus amores, suas causas políticas e seus erros. Ela explora a dor do suicídio de sua mãe, a indisponibilidade emocional de seu famoso pai e 30 anos de um transtorno alimentar.</desc>
   </programme>
-  <programme start="20240913113700 -0300" stop="20240913132500 -0300" channel="HBO Xtreme">
-    <title lang="pt">Golpe Duplo</title>
-    <desc lang="pt">Nicky é um trapaceiro que acaba sendo escolhido como vítima por uma iniciante na profissão, Jess. Ela insiste para que Nicky ensine seu método de trabalho e a aceite em sua equipe. Ele concorda e também acaba se envolvendo romanticamente com Jess.</desc>
+  <programme start="20240917060000 -0300" stop="20240917080000 -0300" channel="HBO Signature">
+    <title lang="pt">Robin Williams - Entre na Minha Mente</title>
+    <desc lang="pt">Um divertido, íntimo e comovedor retrato de um dos comediantes mais queridos e inventivos do mundo, Robin Williams. O filme explora sua extraordinária vida e carreira e revela o que o levou a dar voz a personagens em sua mente, até sua trágica morte.</desc>
   </programme>
-  <programme start="20240913132500 -0300" stop="20240913153100 -0300" channel="HBO Xtreme">
-    <title lang="pt">As Agentes 355</title>
-    <desc lang="pt">A agente da CIA Mace Brown se une a uma agente alemã rival, uma especialista em computadores e uma psicóloga colombiana para deter um grupo de mercenários e recuperar uma arma secreta.</desc>
+  <programme start="20240917080000 -0300" stop="20240917090500 -0300" channel="HBO Signature">
+    <title lang="pt">Sam Jay - Reverência ou Bala</title>
+    <desc lang="pt">O especial de stand-up de estreia da comediante Sam Jay aborda com humor a aceitação da diversidade, a navegação em relacionamentos duradouros e destaca a importância da empatia.</desc>
   </programme>
-  <programme start="20240913153100 -0300" stop="20240913172800 -0300" channel="HBO Xtreme">
-    <title lang="pt">Esquema de Risco - Operação Fortune</title>
-    <desc lang="pt">O espião Fortune deve impedir a venda de uma tecnologia mortal administrada por um grande negociador de armas. Para isso, ele se junta a um time de elite, incluindo a maior estrela de Hollywood.</desc>
+  <programme start="20240917090500 -0300" stop="20240917101000 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">Chapter I: Sea Monsters</sub-title>
+    <desc lang="pt">O surfista profissional Garrett McNamara sai da aposentadoria para perseguir seu sonho de vida de surfar uma onda de 100 pés. Em Nazaré, Portugal, as ondas monstruosas podem ajudar McNamara a alcançar o impossível.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
   </programme>
-  <programme start="20240913172800 -0300" stop="20240913191800 -0300" channel="HBO Xtreme">
-    <title lang="pt">Aves de Rapina - Arlequina e Sua Emancipação Fantabulosa</title>
-    <desc lang="pt">Depois de se aventurar com o Coringa, Arlequina se junta a Canário Negro, Caçadora e Renee Montoya para salvar a vida de uma garotinha do criminoso Máscara Negra em Gotham City.</desc>
+  <programme start="20240917101000 -0300" stop="20240917110600 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">We're Not Surfers</sub-title>
+    <desc lang="pt">Apesar dos contratempos inesperados durante sua segunda temporada em Nazaré, Garrett pega uma onda que muda tudo.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20240913191800 -0300" stop="20240913201800 -0300" channel="HBO Xtreme">
-    <title lang="pt">Cidade de Deus: A Luta Não Para</title>
-    <desc lang="pt">Em meio à guerra territorial, Leka e seu grupo de rap cortejam um produtor musical; Lígia e Wilson investigam as ações das milícias; PQD aproveita seu histórico militar para ajudar Curió; Jerusa orquestra uma emboscada.</desc>
+  <programme start="20240917110600 -0300" stop="20240917120100 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">Chapter III: Mavericks</sub-title>
+    <desc lang="pt">Os novos surfistas em Nazaré não seguem conselhos de segurança e a própria aparição de Garrett em uma competição toma um rumo devastador.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
-  <programme start="20240913201800 -0300" stop="20240913014000 -0300" channel="HBO Xtreme">
-    <title lang="pt">Salt</title>
-    <desc lang="pt">Evelyn Salt jurou servir e honrar seu país, os Estados Unidos. Trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã infiltrada do país europeu.</desc>
+  <programme start="20240917120100 -0300" stop="20240917125900 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">Dancing with God</sub-title>
+    <desc lang="pt">Em 2017, a maior ondulação de Nazaré até hoje abre o caminho para uma quebra de recorde.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20240913014000 -0300" stop="20240914034700 -0300" channel="HBO Xtreme">
-    <title lang="pt">As Agentes 355</title>
-    <desc lang="pt">A agente da CIA Mace Brown se une a uma agente alemã rival, uma especialista em computadores e uma psicóloga colombiana para deter um grupo de mercenários e recuperar uma arma secreta.</desc>
+  <programme start="20240917125900 -0300" stop="20240917135500 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">Chapter V: The Circus</sub-title>
+    <desc lang="pt">Os melhores surfistas do mundo chegam a Nazaré para um torneio e Garrett se preocupa com as medidas de segurança propostas.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
   </programme>
-  <programme start="20240914034700 -0300" stop="20240914060000 -0300" channel="HBO Xtreme">
-    <title lang="pt">U.S. Marshals - Os Federais</title>
-    <desc lang="pt">Escalado para escoltar um prisioneiro, um agente federal precisa recapturá-lo depois de um acidente aéreo que permitiu sua fuga.</desc>
+  <programme start="20240917135500 -0300" stop="20240917144900 -0300" channel="HBO Signature">
+    <title lang="pt">Onda de 100 Pés</title>
+    <sub-title lang="pt">Chapter VI: More Than Just a Wipeout</sub-title>
+    <desc lang="pt">Após o abrupto final do torneio, os atletas refletem sobre seu amado e imprevisível esporte. Garrett tenta surfar novamente.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
-  <programme start="20240914060000 -0300" stop="20240914074300 -0300" channel="HBO Xtreme">
-    <title lang="pt">Mais um Tiro Certo</title>
-    <desc lang="pt">Após um ataque a uma base clandestina na Polônia, o SEAL Jake Harris usa todas as suas habilidades militares para sobreviver a um cerco ao aeroporto por mercenários que tentam capturar o suspeito de terrorismo Amin Mansur.</desc>
+  <programme start="20240917144900 -0300" stop="20240917163400 -0300" channel="HBO Signature">
+    <title lang="pt">Say Hey, Willie Mays!</title>
+    <desc lang="pt">Iniciando a carreira nas segregadas ligas negras e chegando à Major League Baseball, o astro Willie Mays se torna uma das primeiras celebridades negras dos Estados Unidos a quebrar as barreiras raciais, fazendo o esporte evoluir.</desc>
+  </programme>
+  <programme start="20240917163400 -0300" stop="20240917172000 -0300" channel="HBO Signature">
+    <title lang="pt">The Last Cruise</title>
+    <desc lang="pt">Acompanhe o primeiro e maior surto de Covid-19 fora da China: o cruzeiro de luxo Diamond Princess.</desc>
+  </programme>
+  <programme start="20240917172000 -0300" stop="20240917184500 -0300" channel="HBO Signature">
+    <title lang="pt">Master of Light</title>
+    <desc lang="pt">George Anthony Morton, um pintor clássico que passou 10 anos em uma prisão federal, volta para sua cidade natal com o objetivo de retratar seus familiares. Determinado a reescrever o roteiro de sua vida, ele é obrigado a encarar seu passado.</desc>
+  </programme>
+  <programme start="20240917195000 -0300" stop="20240917205000 -0300" channel="HBO Signature">
+    <title lang="pt">Os Caras do Telemarketing</title>
+    <desc lang="pt">Os antigos colegas de trabalho se reúnem depois de anos para continuar sua investigação, mas descobrem que os esquemas ficaram ainda mais descarados com o advento das chamadas automáticas, dos comitês de ação política e da inteligência artificial.</desc>
   </programme>
   <programme start="20240914074300 -0300" stop="20240914093100 -0300" channel="HBO Xtreme">
     <title lang="pt">Dunkirk</title>
@@ -1699,69 +1668,53 @@
     <title lang="pt">Annabelle</title>
     <desc lang="pt">John acha que encontrou o presente ideal, uma boneca vintage, para sua esposa grávida. Porém membros de uma seita satânica invadem a casa e, ao tentarem invocar um demônio, eles mancham a boneca de sangue, tornando-a receptora de uma entidade do mal.</desc>
   </programme>
-  <programme start="20240916200900 -0300" stop="20240916220400 -0300" channel="HBO Xtreme">
+  <programme start="20240916200900 -0300" stop="20240916000000 -0300" channel="HBO Xtreme">
     <title lang="pt">Megatubarão</title>
     <desc lang="pt">Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa depois de ser atacada por um tubarão pré-histórico gigantesco, supostamente extinto. Para salvá-los, um oceanógrafo contrata um mergulhador especializado.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913073500 -0300" channel="HBO2">
-    <title lang="pt">Premonição 5</title>
-    <desc lang="pt">Um jovem tem uma premonição e salva um grupo de pessoas da morte quando uma ponte suspensa começa a desabar. Contudo, eles logo aprendem que não têm como fugir da morte.</desc>
+  <programme start="20240916000000 -0300" stop="20240917015500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Distrito 9</title>
+    <desc lang="pt">Alienígenas chegam à Terra e passam a viver segregados em área controlada por multinacional que não se importa com o bem-estar deles. Quando um agente contrai um vírus que altera seu DNA, o distrito se torna o único lugar seguro para ele se esconder.</desc>
   </programme>
-  <programme start="20240913073500 -0300" stop="20240913092500 -0300" channel="HBO2">
-    <title lang="pt">Contrato Perigoso</title>
-    <desc lang="pt">Ao ser dispensado dos fuzileiros navais, James Harper se junta a uma organização paramilitar para sustentar sua família da única maneira que sabe. Juntamente com sua equipe, ele viaja para a Europa para investigar uma ameaça misteriosa.</desc>
+  <programme start="20240917015500 -0300" stop="20240917033900 -0300" channel="HBO Xtreme">
+    <title lang="pt">Tusk - A Transformação</title>
+    <desc lang="pt">Wallace, produtor de podcasts sensacionalistas, vai atrás de uma entrevista com uma sensação viral, mas as coisas não saem como esperado. Ele acaba drogado e colocado em cativeiro por um sádico assassino que o submete a abusos inimagináveis.</desc>
   </programme>
-  <programme start="20240913092500 -0300" stop="20240913111500 -0300" channel="HBO2">
-    <title lang="pt">Feriado Sangrento</title>
-    <desc lang="pt">Um assassino em série chega em Massachusetts para criar uma escultura de Ação de Graças com os corpos dos moradores da cidade.</desc>
+  <programme start="20240917033900 -0300" stop="20240917060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Prova de Vida</title>
+    <desc lang="pt">Uma mulher recruta um negociador de reféns para liderar mercenários no resgate de seu marido das guerrilhas da América do Sul.</desc>
   </programme>
-  <programme start="20240913111500 -0300" stop="20240913121500 -0300" channel="HBO2">
-    <title lang="pt">My Brilliant Friend</title>
-    <sub-title lang="pt">The Separation</sub-title>
-    <desc lang="pt">Elena e Lila se envolvem na turbulência da Itália no final dos anos 1980, perto do fim de décadas de violência política e agitação social.</desc>
-    <episode-num system="onscreen">S4 E1</episode-num>
+  <programme start="20240917060000 -0300" stop="20240917080100 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Agente da U.N.C.L.E.</title>
+    <desc lang="pt">Durante a Guerra Fria, um agente da CIA e outro da KGB precisam unir forças para se infiltrar em uma organização criminosa que planeja usar armas nucleares para acabar com o equilíbrio de poder.</desc>
   </programme>
-  <programme start="20240913121500 -0300" stop="20240913140000 -0300" channel="HBO2">
-    <title lang="pt">Garfield Fora de Casa</title>
-    <desc lang="pt">Garfield tem um reencontro inesperado com seu pai, que estava há muito tempo desaparecido - um gato de rua todo desengonçado que atrai o filho para um assalto de alto risco.</desc>
+  <programme start="20240917080100 -0300" stop="20240917094500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Evelyn Salt jurou servir e honrar seu país, os Estados Unidos. Trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã infiltrada do país europeu.</desc>
   </programme>
-  <programme start="20240913140000 -0300" stop="20240913155000 -0300" channel="HBO2">
-    <title lang="pt">DC Liga dos Superpets</title>
-    <desc lang="pt">O Homem de Aço e o resto da Liga da Justiça são sequestrados. Para salvá-los, Krypto, o Supercão deve convencer um grupo desorganizado de animais a dominar seus próprios poderes recém-descobertos para uma missão de resgate.</desc>
+  <programme start="20240917094500 -0300" stop="20240917121500 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Código Da Vinci</title>
+    <desc lang="pt">Um assassinato no Museu do Louvre, em Paris, e pistas enigmáticas em alguns dos quadros mais famosos de Leonardo Da Vinci levam à descoberta de um mistério religioso protegido durante dois mil anos por uma sociedade secreta.</desc>
   </programme>
-  <programme start="20240913155000 -0300" stop="20240913175000 -0300" channel="HBO2">
-    <title lang="pt">Barbie</title>
-    <desc lang="pt">Depois de ser expulsa da Barbieland por ser uma boneca de aparência menos do que perfeita, Barbie parte para o mundo humano em busca da verdadeira felicidade.</desc>
+  <programme start="20240917121500 -0300" stop="20240917143800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Anjos e Demônios</title>
+    <desc lang="pt">O professor Robert Langdon descobre o ressurgimento de uma antiga irmandade conhecida como Illuminati e une forças com a bela cientista italiana Vittoria Vetra para impedir que um plano perverso contra o Vaticano se concretize.</desc>
   </programme>
-  <programme start="20240913175000 -0300" stop="20240913193000 -0300" channel="HBO2">
-    <title lang="pt">Apenas Meninas</title>
-    <desc lang="pt">Saiba mais sobre uma prática tão frequente quanto ignorada no Brasil: o casamento infantil. O país é o quarto do mundo com o maior número da incidência desse costume. São mais de 1,3 milhão de jovens de até 18 anos casadas.</desc>
+  <programme start="20240917143800 -0300" stop="20240917163600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Esquema de Risco - Operação Fortune</title>
+    <desc lang="pt">O espião Fortune deve impedir a venda de uma tecnologia mortal administrada por um grande negociador de armas. Para isso, ele se junta a um time de elite, incluindo a maior estrela de Hollywood.</desc>
   </programme>
-  <programme start="20240913193000 -0300" stop="20240913202000 -0300" channel="HBO2">
-    <title lang="pt">Bob Burnquist - A Lenda do Skate</title>
-    <sub-title lang="pt">Anteu, o Gigante do Skate</sub-title>
-    <desc lang="pt">Desde o início da carreira e até alcançar a fama nos X-Games, Bob demonstra uma resiliência inabalável. Inspirado pelo gigante Anteu, que fica mais forte a cada vez que toca o chão, o skatista se torna uma figura icônica do esporte.</desc>
-    <episode-num system="onscreen">S1 E1</episode-num>
+  <programme start="20240917163600 -0300" stop="20240917182400 -0300" channel="HBO Xtreme">
+    <title lang="pt">Golpe Duplo</title>
+    <desc lang="pt">Nicky é um trapaceiro que acaba sendo escolhido como vítima por uma iniciante na profissão, Jess. Ela insiste para que Nicky ensine seu método de trabalho e a aceite em sua equipe. Ele concorda e também acaba se envolvendo romanticamente com Jess.</desc>
   </programme>
-  <programme start="20240913202000 -0300" stop="20240913001000 -0300" channel="HBO2">
-    <title lang="pt">Feriado Sangrento</title>
-    <desc lang="pt">Um assassino em série chega em Massachusetts para criar uma escultura de Ação de Graças com os corpos dos moradores da cidade.</desc>
+  <programme start="20240917182400 -0300" stop="20240917200700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Evelyn Salt jurou servir e honrar seu país, os Estados Unidos. Trabalhando como agente da CIA, ela é colocada à prova ao ser acusada por um desertor russo de ser uma espiã infiltrada do país europeu.</desc>
   </programme>
-  <programme start="20240913001000 -0300" stop="20240914011000 -0300" channel="HBO2">
-    <title lang="pt">Cidade de Deus: A Luta Não Para</title>
-    <desc lang="pt">Em meio à guerra territorial, Leka e seu grupo de rap cortejam um produtor musical; Lígia e Wilson investigam as ações das milícias; PQD aproveita seu histórico militar para ajudar Curió; Jerusa orquestra uma emboscada.</desc>
-  </programme>
-  <programme start="20240914011000 -0300" stop="20240914034700 -0300" channel="HBO2">
-    <title lang="pt">Mulher-Maravilha 1984</title>
-    <desc lang="pt">A Mulher-Maravilha reúne toda a sua força, sabedoria e coragem e luta com Max Lord e a Mulher-Leopardo, uma vilã que possui força e agilidade sobre-humanas.</desc>
-  </programme>
-  <programme start="20240914034700 -0300" stop="20240914060000 -0300" channel="HBO2">
-    <title lang="pt">A Travessia</title>
-    <desc lang="pt">A história do acrobata francês Philippe Petit que, mesmo sem ter autorização legal, conseguiu atravessar sobre um cabo entre as torres gêmeas do World Trade Center em 7 de agosto de 1974.</desc>
-  </programme>
-  <programme start="20240914060000 -0300" stop="20240914080000 -0300" channel="HBO2">
-    <title lang="pt">O Espião Inglês</title>
-    <desc lang="pt">Um vendedor é recrutado para se tornar um espião e recebe a missão de se infiltrar na Rússia. Sua jornada vai se tornando mais arriscada e ele se vê cada vez mais envolvido em uma trama de paranoia e ameaças.</desc>
+  <programme start="20240917200700 -0300" stop="20240917220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Esquema de Risco - Operação Fortune</title>
+    <desc lang="pt">O espião Fortune deve impedir a venda de uma tecnologia mortal administrada por um grande negociador de armas. Para isso, ele se junta a um time de elite, incluindo a maior estrela de Hollywood.</desc>
   </programme>
   <programme start="20240914080000 -0300" stop="20240914094500 -0300" channel="HBO2">
     <title lang="pt">Dog - A Aventura de uma Vida</title>
@@ -1873,13 +1826,54 @@
     <title lang="pt">O Exorcismo de Emily Rose</title>
     <desc lang="pt">A jovem Emily Rose aceita ser submetida a um exorcismo após ter surtos cada vez mais frequentes. Porém, ela morre durante a sessão e o padre responsável é acusado de assassinato. A advogada independente Erin Bruner aceita defendê-lo.</desc>
   </programme>
-  <programme start="20240916190500 -0300" stop="20240916210000 -0300" channel="HBO2">
+  <programme start="20240916190500 -0300" stop="20240916015000 -0300" channel="HBO2">
     <title lang="pt">A Freira 2</title>
     <desc lang="pt">Em 1956, na França, um padre é assassinado e parece que um mal está se espalhando. Determinada a deter o maligno, irmã Irene mais uma vez fica cara a cara com uma força demoníaca.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="adulto">
-    <title lang="en">Canal Adulto</title>
-    <desc lang="en">Canal Adulto.</desc>
+  <programme start="20240916015000 -0300" stop="20240917040000 -0300" channel="HBO2">
+    <title lang="pt">Filadélfia</title>
+    <desc lang="pt">O advogado Andrew Beckett trabalha em um conceituado escritório de advocacia. Ao descobrir ser portador do vírus HIV, é despedido sumariamente. Ele, então, contrata os serviços de um outro advogado para processar a companhia.</desc>
+  </programme>
+  <programme start="20240917040000 -0300" stop="20240917060000 -0300" channel="HBO2">
+    <title lang="pt">No Ritmo do Coração</title>
+    <desc lang="pt">Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos. Quando o negócio de seus pais é ameaçado, ela fica dividida entre seu amor pela música e suas obrigações.</desc>
+  </programme>
+  <programme start="20240917060000 -0300" stop="20240917073500 -0300" channel="HBO2">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <desc lang="pt">Um jovem cientista sonha criar algo que o faça ser reconhecido na pequena ilha no Atlântico onde vive. Um dia, ele cria uma máquina capaz de transformar água em comida, mas precisa de bastante eletricidade e acaba dando início a altas confusões.</desc>
+  </programme>
+  <programme start="20240917073500 -0300" stop="20240917100000 -0300" channel="HBO2">
+    <title lang="pt">Animais Fantásticos - Os Segredos de Dumbledore</title>
+  </programme>
+  <programme start="20240917100000 -0300" stop="20240917114500 -0300" channel="HBO2">
+    <title lang="pt">Garfield Fora de Casa</title>
+    <desc lang="pt">Garfield tem um reencontro inesperado com seu pai, que estava há muito tempo desaparecido - um gato de rua todo desengonçado que atrai o filho para um assalto de alto risco.</desc>
+  </programme>
+  <programme start="20240917114500 -0300" stop="20240917132000 -0300" channel="HBO2">
+    <title lang="pt">Segurança de Shopping</title>
+    <desc lang="pt">Paul leva seu emprego de segurança de shopping muito a sério, embora a maioria de seus colegas não faça o mesmo. Quando o shopping é assaltado, o segurança precisa usar todas as suas habilidades para combater o crime.</desc>
+  </programme>
+  <programme start="20240917132000 -0300" stop="20240917151500 -0300" channel="HBO2">
+    <title lang="pt">No Ritmo do Coração</title>
+    <desc lang="pt">Ruby, de 17 anos, é a única pessoa que ouve em uma família de surdos. Quando o negócio de seus pais é ameaçado, ela fica dividida entre seu amor pela música e suas obrigações.</desc>
+  </programme>
+  <programme start="20240917151500 -0300" stop="20240917161500 -0300" channel="HBO2">
+    <title lang="pt">My Brilliant Friend</title>
+    <desc lang="pt">Elena e Lila se envolvem na turbulência da Itália no final dos anos 1980, perto do fim de décadas de violência política e agitação social.</desc>
+  </programme>
+  <programme start="20240917161500 -0300" stop="20240917182000 -0300" channel="HBO2">
+    <title lang="pt">Não se Preocupe Querida</title>
+    <desc lang="pt">Uma dona de casa que vive em uma comunidade experimental começa a suspeitar que a empresa de seu marido está escondendo segredos perturbadores.</desc>
+  </programme>
+  <programme start="20240917182000 -0300" stop="20240917191000 -0300" channel="HBO2">
+    <title lang="pt">Bob Burnquist - A Lenda do Skate</title>
+    <sub-title lang="pt">Não É por Dinheiro</sub-title>
+    <desc lang="pt">A vitória no campeonato de 1995 catapulta Bob à fama e ele constrói as rampas Dreamland, que marcam o seu legado. Recusando uma oferta da Nike, Bob insiste em que o skate vai além do dinheiro, é uma questão de essência e autenticidade.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20240917191000 -0300" stop="20240917210000 -0300" channel="HBO2">
+    <title lang="pt">Os Observadores</title>
+    <desc lang="pt">Uma artista de 28 anos fica presa em uma floresta extensa e intocada no oeste da Irlanda. Procurando abrigo, ela fica presa ao lado de três estranhos que são perseguidos por criaturas misteriosas todas as noites.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="adulto">
     <title lang="en">Canal Adulto</title>
@@ -1905,9 +1899,9 @@
     <title lang="en">Canal Adulto</title>
     <desc lang="en">Canal Adulto.</desc>
   </programme>
-  <programme start="20240913000000 +0100" stop="20240913235900 +0100" channel="brasileirao">
-    <title lang="en">Brasileirão 24Hrs.</title>
-    <desc lang="en">Brasileirão 24Hrs.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="adulto">
+    <title lang="en">Canal Adulto</title>
+    <desc lang="en">Canal Adulto.</desc>
   </programme>
   <programme start="20240914000000 +0100" stop="20240914235900 +0100" channel="brasileirao">
     <title lang="en">Brasileirão 24Hrs.</title>
@@ -1933,9 +1927,9 @@
     <title lang="en">Brasileirão 24Hrs.</title>
     <desc lang="en">Brasileirão 24Hrs.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="dazn">
-    <title lang="en">PROGRAMAÇÃO DAZN</title>
-    <desc lang="en">PROGRAMAÇÃO DAZN.</desc>
+  <programme start="20240920000000 +0100" stop="20240920235900 +0100" channel="brasileirao">
+    <title lang="en">Brasileirão 24Hrs.</title>
+    <desc lang="en">Brasileirão 24Hrs.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="dazn">
     <title lang="en">PROGRAMAÇÃO DAZN</title>
@@ -1961,9 +1955,9 @@
     <title lang="en">PROGRAMAÇÃO DAZN</title>
     <desc lang="en">PROGRAMAÇÃO DAZN.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="hbomax">
-    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
-    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="dazn">
+    <title lang="en">PROGRAMAÇÃO DAZN</title>
+    <desc lang="en">PROGRAMAÇÃO DAZN.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="hbomax">
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
@@ -1989,9 +1983,9 @@
     <title lang="en">PROGRAMAÇÃO HBOMAX</title>
     <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="nosso">
-    <title lang="en">PROGRAMAÇÃO NOSSOFUTEBOL</title>
-    <desc lang="en">PROGRAMAÇÃO NOSSOFUTEBOL.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="hbomax">
+    <title lang="en">PROGRAMAÇÃO HBOMAX</title>
+    <desc lang="en">PROGRAMAÇÃO HBOMAX.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="nosso">
     <title lang="en">PROGRAMAÇÃO NOSSOFUTEBOL</title>
@@ -2017,9 +2011,9 @@
     <title lang="en">PROGRAMAÇÃO NOSSOFUTEBOL</title>
     <desc lang="en">PROGRAMAÇÃO NOSSOFUTEBOL.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="sabor">
-    <title lang="en">Programação Sabor e Arte.</title>
-    <desc lang="en">Programação Sabor e Arte.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="nosso">
+    <title lang="en">PROGRAMAÇÃO NOSSOFUTEBOL</title>
+    <desc lang="en">PROGRAMAÇÃO NOSSOFUTEBOL.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="sabor">
     <title lang="en">Programação Sabor e Arte.</title>
@@ -2045,9 +2039,9 @@
     <title lang="en">Programação Sabor e Arte.</title>
     <desc lang="en">Programação Sabor e Arte.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="jp">
-    <title lang="en">Programação JP NEWS</title>
-    <desc lang="en">Programação JP NEWS.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="sabor">
+    <title lang="en">Programação Sabor e Arte.</title>
+    <desc lang="en">Programação Sabor e Arte.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="jp">
     <title lang="en">Programação JP NEWS</title>
@@ -2073,9 +2067,9 @@
     <title lang="en">Programação JP NEWS</title>
     <desc lang="en">Programação JP NEWS.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="paramount">
-    <title lang="en">PROGRAMAÇÃO PARAMOUNT</title>
-    <desc lang="en">PROGRAMAÇÃO PARAMOUNT.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="jp">
+    <title lang="en">Programação JP NEWS</title>
+    <desc lang="en">Programação JP NEWS.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="paramount">
     <title lang="en">PROGRAMAÇÃO PARAMOUNT</title>
@@ -2101,9 +2095,9 @@
     <title lang="en">PROGRAMAÇÃO PARAMOUNT</title>
     <desc lang="en">PROGRAMAÇÃO PARAMOUNT.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="primevideo">
-    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
-    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="paramount">
+    <title lang="en">PROGRAMAÇÃO PARAMOUNT</title>
+    <desc lang="en">PROGRAMAÇÃO PARAMOUNT.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="primevideo">
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
@@ -2129,9 +2123,9 @@
     <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
     <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="star">
-    <title lang="en">PROGRAMAÇÃO STAR</title>
-    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="primevideo">
+    <title lang="en">PROGRAMAÇÃO PRIMEVIDEO</title>
+    <desc lang="en">PROGRAMAÇÃO PRIMEVIDEO.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="star">
     <title lang="en">PROGRAMAÇÃO STAR</title>
@@ -2157,9 +2151,9 @@
     <title lang="en">PROGRAMAÇÃO STAR</title>
     <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
-  <programme start="20240913000000 -0300" stop="20240913235900 -0300" channel="1tntsports">
-    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
-    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="star">
+    <title lang="en">PROGRAMAÇÃO STAR</title>
+    <desc lang="en">PROGRAMAÇÃO STAR.</desc>
   </programme>
   <programme start="20240914000000 -0300" stop="20240914235900 -0300" channel="1tntsports">
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
@@ -2185,135 +2179,11 @@
     <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
     <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20240913053000 -0300" stop="20240913060000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enlaces: Ventana abierta al mundo digital</title>
-    <desc lang="pt">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
+  <programme start="20240920000000 -0300" stop="20240920235900 -0300" channel="1tntsports">
+    <title lang="en">PROGRAMAÇÃO TNTSPORTS</title>
+    <desc lang="en">PROGRAMAÇÃO TNTSPORTS.</desc>
   </programme>
-  <programme start="20240913060300 -0300" stop="20240913063000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Global es</title>
-    <desc lang="pt">Un tercio de la superficie terrestre es terreno de cultivo. Con frecuencia, las prácticas agrícolas destruyen el suelo, sin embargo, hay muchas alternativas que permiten alimentar al mundo sin acabar con el planeta.</desc>
-  </programme>
-  <programme start="20240913063000 -0300" stop="20240913070000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Fuerza latina, mujeres inspiradoras de América Latina</title>
-    <desc lang="pt">Encuentros inspiradores con mujeres que transforman el mundo. Conversaciones con mujeres de América Latina, protagonistas de historias excepcionales.</desc>
-  </programme>
-  <programme start="20240913070000 -0300" stop="20240913070300 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DW Noticias</title>
-    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
-  </programme>
-  <programme start="20240913070300 -0300" stop="20240913071500 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Patrimonio mundial : Serengueti: Un Paraíso Terrenal Tanzania</title>
-    <desc lang="pt">El Serengueti con extensas llanuras, sabanas, lagos de sal y bosques de acacias recibe a inicios de la época de lluvias, enormes rebaños de ñus acompañados de cientos de miles de cebras, gacelas y antílopes, seguidos por leones, guepardos y hienas.</desc>
-  </programme>
-  <programme start="20240913071500 -0300" stop="20240913080000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">A fondo</title>
-    <desc lang="pt">Investigaciones que siguen los más diversos fenómenos sociales y abordan cuestiones de actualidad. Una muestra de los problemas y soluciones para la vida de hoy y del mañana.</desc>
-  </programme>
-  <programme start="20240913080300 -0300" stop="20240913083000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enfoque Europa: países, gentes, destinos</title>
-    <desc lang="pt">Se explora la diversidad cultural y étnica de Europa y se investigan los conflictos de los residentes europeos.</desc>
-  </programme>
-  <programme start="20240913083000 -0300" stop="20240913090000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Cultura.21</title>
-    <desc lang="pt">Un programa sobre la cultura de un país que tiene algo más que ofrecer que los consabidos clásicos Beethoven o el Festival de Bayreuth.</desc>
-  </programme>
-  <programme start="20240913090300 -0300" stop="20240913093000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Aquí estoy</title>
-    <desc lang="pt">Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.</desc>
-  </programme>
-  <programme start="20240913093000 -0300" stop="20240913100000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Global es</title>
-    <desc lang="pt">Un tercio de la superficie terrestre es terreno de cultivo. Con frecuencia, las prácticas agrícolas destruyen el suelo, sin embargo, hay muchas alternativas que permiten alimentar al mundo sin acabar con el planeta.</desc>
-  </programme>
-  <programme start="20240913100000 -0300" stop="20240913100300 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DW Noticias</title>
-    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
-  </programme>
-  <programme start="20240913100300 -0300" stop="20240913101500 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Patrimonio mundial : Gwynedd: Los castillos galeses de Eduardo I, Gran Bretaña</title>
-    <desc lang="pt">El rey Eduardo I conquista Gwynedd en el año 1277 y en un periodo de nueve años, construye nueve castillos en el norte de Gales, y manda fortificar los muchos que ya había para garantizar su dominio.</desc>
-  </programme>
-  <programme start="20240913101500 -0300" stop="20240913110000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">A fondo</title>
-    <desc lang="pt">Investigaciones que siguen los más diversos fenómenos sociales y abordan cuestiones de actualidad. Una muestra de los problemas y soluciones para la vida de hoy y del mañana.</desc>
-  </programme>
-  <programme start="20240913110300 -0300" stop="20240913113000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Fuerza latina, mujeres inspiradoras de América Latina</title>
-    <desc lang="pt">Encuentros inspiradores con mujeres que transforman el mundo. Conversaciones con mujeres de América Latina, protagonistas de historias excepcionales.</desc>
-  </programme>
-  <programme start="20240913113000 -0300" stop="20240913120000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Hecho en Alemania</title>
-    <desc lang="pt">Un espacio sobre las últimas noticias de negocios.</desc>
-  </programme>
-  <programme start="20240913120300 -0300" stop="20240913123000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Aquí estoy</title>
-    <desc lang="pt">Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.</desc>
-  </programme>
-  <programme start="20240913123000 -0300" stop="20240913130000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">En forma</title>
-    <desc lang="pt">Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.</desc>
-  </programme>
-  <programme start="20240913130000 -0300" stop="20240913130300 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DW Noticias</title>
-    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
-  </programme>
-  <programme start="20240913130300 -0300" stop="20240913133000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enfoque Europa: países, gentes, destinos</title>
-    <desc lang="pt">Se explora la diversidad cultural y étnica de Europa y se investigan los conflictos de los residentes europeos.</desc>
-  </programme>
-  <programme start="20240913133000 -0300" stop="20240913140000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enlaces: Ventana abierta al mundo digital</title>
-    <desc lang="pt">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
-  </programme>
-  <programme start="20240913140300 -0300" stop="20240913141500 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Patrimonio mundial : Serengueti: Un Paraíso Terrenal Tanzania</title>
-    <desc lang="pt">El Serengueti con extensas llanuras, sabanas, lagos de sal y bosques de acacias recibe a inicios de la época de lluvias, enormes rebaños de ñus acompañados de cientos de miles de cebras, gacelas y antílopes, seguidos por leones, guepardos y hienas.</desc>
-  </programme>
-  <programme start="20240913141500 -0300" stop="20240913150000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">A fondo</title>
-    <desc lang="pt">Investigaciones que siguen los más diversos fenómenos sociales y abordan cuestiones de actualidad. Una muestra de los problemas y soluciones para la vida de hoy y del mañana.</desc>
-  </programme>
-  <programme start="20240913153000 -0300" stop="20240913160000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Eco Latinoamérica</title>
-    <desc lang="pt">Un magacín con todas las noticias sobre el medio ambiente.</desc>
-  </programme>
-  <programme start="20240913160000 -0300" stop="20240913160300 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DW Noticias</title>
-    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
-  </programme>
-  <programme start="20240913160300 -0300" stop="20240913170000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DocFilm : El enigmático ser humano</title>
-    <desc lang="pt">¿Qué hicieron que los antepasados evolucionaran de una forma tan extraordinaria? Las últimas teorías científicas son presentadas que apuntan a una capacidad humana fascinante, pero ambivalente.</desc>
-  </programme>
-  <programme start="20240913173000 -0300" stop="20240913180000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">¡Escápate!</title>
-    <desc lang="pt">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
-  </programme>
-  <programme start="20240913180300 -0300" stop="20240913181500 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Patrimonio mundial : Machu Picchu - Las Ruinas de la Ciudad de los Incas, Perú</title>
-    <desc lang="pt">Machu Picchu, la misteriosa ciudad de los incas construida en el siglo XV en lo alto de los Andes peruanos, a 400 metros sobre el río Urubamba, estaba dividida en tres barrios: al sur el Intihuanata, al centro el Torreón, y al oriente las viviendas.</desc>
-  </programme>
-  <programme start="20240913181500 -0300" stop="20240913190000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DocFilm : La muerte traicionera: La difícil lucha contra las minas terrestres</title>
-    <desc lang="pt">Más de 160 países firmaron el Tratado de Ottawa, el cual prohíbe el uso, almacenamiento, fabricación y transferencia de minas antipersonales. Sin embargo, el número de víctimas civiles de minas terrestres sigue aumentando.</desc>
-  </programme>
-  <programme start="20240913190000 -0300" stop="20240913193000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">DW Noticias</title>
-    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
-  </programme>
-  <programme start="20240913193000 -0300" stop="20240913200000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">¿Cómo te afecta?</title>
-    <desc lang="pt">Un programa para los jóvenes de América Latina.</desc>
-  </programme>
-  <programme start="20240913201500 -0300" stop="20240913203000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Economía</title>
-    <desc lang="pt">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
-  </programme>
-  <programme start="20240913203000 -0300" stop="20240913000000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Euromaxx</title>
-    <desc lang="pt">Programa que presenta una Europa moderna con las innovaciones en su arquitectura y el avance social y tecnológico.</desc>
-  </programme>
-  <programme start="20240913000000 -0300" stop="20240914003000 -0300" channel="Deutsche Welle (DW-TV)">
+  <programme start="20240914000000 -0300" stop="20240914003000 -0300" channel="Deutsche Welle (DW-TV)">
     <title lang="pt">¿Cómo te afecta?</title>
     <desc lang="pt">Un programa para los jóvenes de América Latina.</desc>
   </programme>
@@ -2498,7 +2368,7 @@
     <desc lang="pt">Análisis de la actualidad.</desc>
   </programme>
   <programme start="20240914193000 -0300" stop="20240914200000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enlaces: Ventana abierta al mundo digital</title>
+    <title lang="pt">Enlaces</title>
     <desc lang="pt">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
   </programme>
   <programme start="20240914201500 -0300" stop="20240914203000 -0300" channel="Deutsche Welle (DW-TV)">
@@ -2674,7 +2544,7 @@
     <desc lang="pt">Desde el corazón financiero de la eurozona, expertos analizan temas de actualidad con un estilo fresco que busca hacer comprensible el difícil lenguaje de los mercados.</desc>
   </programme>
   <programme start="20240915153000 -0300" stop="20240915160000 -0300" channel="Deutsche Welle (DW-TV)">
-    <title lang="pt">Enlaces: Ventana abierta al mundo digital</title>
+    <title lang="pt">Enlaces</title>
     <desc lang="pt">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
   </programme>
   <programme start="20240915160000 -0300" stop="20240915160300 -0300" channel="Deutsche Welle (DW-TV)">
@@ -2905,37 +2775,201 @@
     <title lang="pt">Economía</title>
     <desc lang="pt">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
   </programme>
-  <programme start="20240916203000 -0300" stop="20240916210000 -0300" channel="Deutsche Welle (DW-TV)">
+  <programme start="20240916203000 -0300" stop="20240916000000 -0300" channel="Deutsche Welle (DW-TV)">
     <title lang="pt">Primer plano</title>
     <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
   </programme>
-  <programme start="20240913020000 -0300" stop="20240913060000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240916000000 -0300" stop="20240917003000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Euromaxx</title>
+    <desc lang="pt">Programa que presenta una Europa moderna con las innovaciones en su arquitectura y el avance social y tecnológico.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913100000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917003000 -0300" stop="20240917010000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Fuerza latina, mujeres inspiradoras de América Latina</title>
+    <desc lang="pt">Encuentros inspiradores con mujeres que transforman el mundo. Conversaciones con mujeres de América Latina, protagonistas de historias excepcionales.</desc>
   </programme>
-  <programme start="20240913100000 -0300" stop="20240913140000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917010000 -0300" stop="20240917013000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">¡Escápate!</title>
+    <desc lang="pt">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
   </programme>
-  <programme start="20240913140000 -0300" stop="20240913180000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917013000 -0300" stop="20240917020000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Visión futuro</title>
+    <desc lang="pt">Información dirigida a todos aquellos que se interesan por el avance de la ciencia en Europa y, específicamente, en Alemania.</desc>
   </programme>
-  <programme start="20240913180000 -0300" stop="20240913020000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917020000 -0300" stop="20240917021500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Economía</title>
+    <desc lang="pt">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
   </programme>
-  <programme start="20240913020000 -0300" stop="20240914060000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917021500 -0300" stop="20240917024500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Primer plano</title>
+    <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
   </programme>
-  <programme start="20240914060000 -0300" stop="20240914100000 -0300" channel="Polishop">
-    <title lang="pt">Programa Pago</title>
-    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  <programme start="20240917024500 -0300" stop="20240917030000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Todo deporte</title>
+    <desc lang="pt">Grandes y pequeñas historias en torno al deporte en todo el mundo. Cómo es capaz de cambiar la vida y ser un espejo de la existencia de cada uno.</desc>
+  </programme>
+  <programme start="20240917030300 -0300" stop="20240917033000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Eco Latinoamérica</title>
+    <desc lang="pt">Un magacín con todas las noticias sobre el medio ambiente.</desc>
+  </programme>
+  <programme start="20240917033000 -0300" stop="20240917040000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">¡Escápate!</title>
+    <desc lang="pt">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
+  </programme>
+  <programme start="20240917040000 -0300" stop="20240917040300 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917040300 -0300" stop="20240917041500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Economía</title>
+    <desc lang="pt">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
+  </programme>
+  <programme start="20240917041500 -0300" stop="20240917050000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Zona docu</title>
+    <desc lang="pt">Este programa presenta una amplia variedad de películas con temas inusuales.</desc>
+  </programme>
+  <programme start="20240917050300 -0300" stop="20240917053000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Global es</title>
+    <desc lang="pt">Un tercio de la superficie terrestre es terreno de cultivo. Con frecuencia, las prácticas agrícolas destruyen el suelo, sin embargo, hay muchas alternativas que permiten alimentar al mundo sin acabar con el planeta.</desc>
+  </programme>
+  <programme start="20240917060300 -0300" stop="20240917063000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">¿Cómo te afecta?</title>
+    <desc lang="pt">Un programa para los jóvenes de América Latina.</desc>
+  </programme>
+  <programme start="20240917063000 -0300" stop="20240917070000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Aquí estoy</title>
+    <desc lang="pt">Conversaciones con hispanohablantes que construyen puentes entre Europa y Latinoamérica. Historias de migración, de integración y de éxito; de arte o de política; pero sobre todo historias personales.</desc>
+  </programme>
+  <programme start="20240917070000 -0300" stop="20240917070300 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917070300 -0300" stop="20240917071500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Patrimonio mundial : La Ciudad Vieja de la Habana, Cuba</title>
+    <desc lang="pt">La Habana es una de las ciudades más antiguas del Nuevo Mundo. Fundada en 1515 por Diego Velázquez, está situada en un puerto natural y desde mediados del siglo XVII se convirtió en el principal centro de comunicaciones para España.</desc>
+  </programme>
+  <programme start="20240917071500 -0300" stop="20240917074500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Primer plano</title>
+    <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
+  </programme>
+  <programme start="20240917074500 -0300" stop="20240917080000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">El reportero</title>
+    <desc lang="pt">Análisis de la actualidad.</desc>
+  </programme>
+  <programme start="20240917080300 -0300" stop="20240917083000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DocFilm : Nosotros y ellos. Un mundo polarizado: Ricos y pobres</title>
+    <desc lang="pt">Los ricos son cada vez más ricos y los pobres son cada vez más y más pobres. En Sudáfrica y el Reino Unido, Sakhumzi Maqubela y Liz Brewer creen en el capitalismo, mientras que Princess Majola y Jamie Burnham deben luchar para llegar a fin de mes.</desc>
+  </programme>
+  <programme start="20240917083000 -0300" stop="20240917090000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Con sabor y saber</title>
+    <desc lang="pt">Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.</desc>
+  </programme>
+  <programme start="20240917090300 -0300" stop="20240917093000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Eco Latinoamérica</title>
+    <desc lang="pt">Un magacín con todas las noticias sobre el medio ambiente.</desc>
+  </programme>
+  <programme start="20240917093000 -0300" stop="20240917100000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">¡Escápate!</title>
+    <desc lang="pt">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
+  </programme>
+  <programme start="20240917100000 -0300" stop="20240917100300 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917100300 -0300" stop="20240917101500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Todo deporte</title>
+    <desc lang="pt">Grandes y pequeñas historias en torno al deporte en todo el mundo. Cómo es capaz de cambiar la vida y ser un espejo de la existencia de cada uno.</desc>
+  </programme>
+  <programme start="20240917101500 -0300" stop="20240917104500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Primer plano</title>
+    <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
+  </programme>
+  <programme start="20240917104500 -0300" stop="20240917110000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Patrimonio mundial : El Monte St. Michel - Maravilla de Occidente, Francia</title>
+    <desc lang="pt">El obispo de Avranches inició la construcción de una basílica en honor de San Miguel y en el siglo X se ampliaron las instalaciones y se concluyó hasta 800 años después. Así surgió la iglesia, la abadía, el monasterio, la fortaleza y un pueblo.</desc>
+  </programme>
+  <programme start="20240917110300 -0300" stop="20240917113000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">En forma</title>
+    <desc lang="pt">Un programa dedicado a la vida sana y la prevención tanto desde el punto de vista de la medicina tradicional como de las terapias alternativas.</desc>
+  </programme>
+  <programme start="20240917113000 -0300" stop="20240917120000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Enlaces</title>
+    <desc lang="pt">Un magacín sobre tecnología digital donde se analizan los temas del momento, se habla con expertos y se proporcionan los principales datos y hechos en la materia.</desc>
+  </programme>
+  <programme start="20240917120300 -0300" stop="20240917123000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Euromaxx</title>
+    <desc lang="pt">Programa que presenta una Europa moderna con las innovaciones en su arquitectura y el avance social y tecnológico.</desc>
+  </programme>
+  <programme start="20240917123000 -0300" stop="20240917130000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Con sabor y saber</title>
+    <desc lang="pt">Un programa que combina la gastronomía con temas relacionados con los alimentos, como la sobrepesca, el impacto ecológico de la producción agraria y ganadera o las tradiciones culinarias.</desc>
+  </programme>
+  <programme start="20240917130000 -0300" stop="20240917130300 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917130300 -0300" stop="20240917133000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Visión futuro</title>
+    <desc lang="pt">Información dirigida a todos aquellos que se interesan por el avance de la ciencia en Europa y, específicamente, en Alemania.</desc>
+  </programme>
+  <programme start="20240917133000 -0300" stop="20240917140000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Eco Latinoamérica</title>
+    <desc lang="pt">Un magacín con todas las noticias sobre el medio ambiente.</desc>
+  </programme>
+  <programme start="20240917140300 -0300" stop="20240917141500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Patrimonio mundial : La Ciudad Vieja de la Habana, Cuba</title>
+    <desc lang="pt">La Habana es una de las ciudades más antiguas del Nuevo Mundo. Fundada en 1515 por Diego Velázquez, está situada en un puerto natural y desde mediados del siglo XVII se convirtió en el principal centro de comunicaciones para España.</desc>
+  </programme>
+  <programme start="20240917141500 -0300" stop="20240917143000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">El reportero</title>
+    <desc lang="pt">Análisis de la actualidad.</desc>
+  </programme>
+  <programme start="20240917143000 -0300" stop="20240917150000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Primer plano</title>
+    <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
+  </programme>
+  <programme start="20240917153000 -0300" stop="20240917160000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">¡Escápate!</title>
+    <desc lang="pt">Una revista de viaje que muestra Alemania cada semana en toda su diversidad y belleza. Volar con la mente a parajes insospechados y también, para dar la palabra a quienes descubren Alemania recorriendo sus ciudades y paisajes naturales.</desc>
+  </programme>
+  <programme start="20240917160000 -0300" stop="20240917160300 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917160300 -0300" stop="20240917161500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Todo deporte</title>
+    <desc lang="pt">Grandes y pequeñas historias en torno al deporte en todo el mundo. Cómo es capaz de cambiar la vida y ser un espejo de la existencia de cada uno.</desc>
+  </programme>
+  <programme start="20240917161500 -0300" stop="20240917170000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DocFilm : La muerte traicionera: La difícil lucha contra las minas terrestres</title>
+    <desc lang="pt">Más de 160 países firmaron el Tratado de Ottawa, el cual prohíbe el uso, almacenamiento, fabricación y transferencia de minas antipersonales. Sin embargo, el número de víctimas civiles de minas terrestres sigue aumentando.</desc>
+  </programme>
+  <programme start="20240917173000 -0300" stop="20240917180000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Primer plano</title>
+    <desc lang="pt">La noticia de cerca y con todos sus aspectos. Media hora de información de trasfondo sobre temas de política y actualidad, ahondando en las causas y la evolución de los acontecimientos.</desc>
+  </programme>
+  <programme start="20240917180300 -0300" stop="20240917181500 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW analiza</title>
+    <desc lang="pt">Un espacio que informa sobre las noticias internacionales más relevantes y analiza el trasfondo de los hechos.</desc>
+  </programme>
+  <programme start="20240917181500 -0300" stop="20240917190000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Zona docu</title>
+    <desc lang="pt">Este programa presenta una amplia variedad de películas con temas inusuales.</desc>
+  </programme>
+  <programme start="20240917190000 -0300" stop="20240917193000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">DW Noticias</title>
+    <desc lang="pt">Explicaciones detalladas, análisis competentes, cobertura de la actualidad mundial: política, negocios, deporte y cultura. Perspectivas fascinantes más allá de los titulares. Atando cabos para espectadores de todo el mundo.</desc>
+  </programme>
+  <programme start="20240917193000 -0300" stop="20240917200000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">RPM</title>
+    <desc lang="pt">Programa sobre el automóvil y la movilidad.</desc>
+  </programme>
+  <programme start="20240917201500 -0300" stop="20240917203000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Economía</title>
+    <desc lang="pt">Información económica detallada y de última hora de Alemania, Europa y América Latina.</desc>
+  </programme>
+  <programme start="20240917203000 -0300" stop="20240917210000 -0300" channel="Deutsche Welle (DW-TV)">
+    <title lang="pt">Fuerza latina, mujeres inspiradoras de América Latina</title>
+    <desc lang="pt">Encuentros inspiradores con mujeres que transforman el mundo. Conversaciones con mujeres de América Latina, protagonistas de historias excepcionales.</desc>
   </programme>
   <programme start="20240914100000 -0300" stop="20240914140000 -0300" channel="Polishop">
     <title lang="pt">Programa Pago</title>
@@ -2985,141 +3019,61 @@
     <title lang="pt">Programa Pago</title>
     <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240916180000 -0300" stop="20240916220000 -0300" channel="Polishop">
+  <programme start="20240916180000 -0300" stop="20240916020000 -0300" channel="Polishop">
     <title lang="pt">Programa Pago</title>
     <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240913060000 -0300" stop="20240913063000 -0300" channel="TV Justiça">
-    <title lang="pt">Direito sem Fronteiras</title>
-    <desc lang="pt">Em debate, temas de grande repercussão analisados por especialistas em direito, cientistas sociais, e até mesmo representantes da sociedade civil organizada.</desc>
+  <programme start="20240916020000 -0300" stop="20240917060000 -0300" channel="Polishop">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240913063000 -0300" stop="20240913070000 -0300" channel="TV Justiça">
-    <title lang="pt">OAB Nacional</title>
-    <desc lang="pt">O programa aborda assuntos nacionais jurídicos e é voltado para estudantes universitários, advogados e para a sociedade em geral.</desc>
+  <programme start="20240917060000 -0300" stop="20240917100000 -0300" channel="Polishop">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240913070000 -0300" stop="20240913073000 -0300" channel="TV Justiça">
-    <title lang="pt">Link CNJ</title>
-    <desc lang="pt">Descubra o que é e o que faz o Conselho Nacional de Justiça.</desc>
+  <programme start="20240917100000 -0300" stop="20240917140000 -0300" channel="Polishop">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240913073000 -0300" stop="20240913080000 -0300" channel="TV Justiça">
-    <title lang="pt">Tá na Web</title>
-    <desc lang="pt">Fique por dentro de tudo o que acontece na internet e dos temas mais buscados no Google.</desc>
+  <programme start="20240917140000 -0300" stop="20240917180000 -0300" channel="Polishop">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
   </programme>
-  <programme start="20240913080000 -0300" stop="20240913090000 -0300" channel="TV Justiça">
+  <programme start="20240917180000 -0300" stop="20240917220000 -0300" channel="Polishop">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Espaço publicitário destinado à comercialização de produtos e serviços.</desc>
+  </programme>
+  <programme start="20240914000000 -0300" stop="20240914003400 -0300" channel="TV Justiça">
+    <title lang="pt">Constituição de 1824 Completa 200 Anos</title>
+    <desc lang="pt">No dia 25 de março de 1824, há 200 anos, o imperador Dom Pedro I outorgou a Constituição Política do Império do Brasil, a primeira Carta Magna do país. O documento pós-Independência formalizou o surgimento de um novo Estado.</desc>
+  </programme>
+  <programme start="20240914003400 -0300" stop="20240914010200 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+  </programme>
+  <programme start="20240914010200 -0300" stop="20240914020000 -0300" channel="TV Justiça">
     <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, Justiça e conteúdos jurídicos pouco difundidos.</desc>
   </programme>
-  <programme start="20240913090000 -0300" stop="20240913090200 -0300" channel="TV Justiça">
-    <title lang="pt">Boletim Justiça Agora</title>
-    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
-  </programme>
-  <programme start="20240913090200 -0300" stop="20240913093000 -0300" channel="TV Justiça">
-    <title lang="pt">Como Funciona Aí</title>
-    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
-  </programme>
-  <programme start="20240913093000 -0300" stop="20240913095600 -0300" channel="TV Justiça">
-    <title lang="pt">Hora Extra</title>
-    <desc lang="pt">Acompanhe reportagens sobre fatos e acontecimentos relacionados à justiça do trabalho. Profissionais e especialistas das mais diversas áreas do conhecimento compartilham suas experiências sobre o mundo do trabalho.</desc>
-  </programme>
-  <programme start="20240913100600 -0300" stop="20240913103000 -0300" channel="TV Justiça">
-    <title lang="pt">Justiça em Questão</title>
-    <desc lang="pt">Programa produzido pela Assessoria de Comunicação do Tribunal de Justiça de Minas Gerais, proporcionando a comunicação entre o Poder Judiciário e a sociedade.</desc>
-  </programme>
-  <programme start="20240913103000 -0300" stop="20240913110000 -0300" channel="TV Justiça">
-    <title lang="pt">OAB Entrevistas</title>
-    <desc lang="pt">O OAB Entrevistas apresenta ao público um debate com temas atuais de interesse da sociedade, com opinião de juristas, especialistas e mestres do direito.</desc>
-  </programme>
-  <programme start="20240913110000 -0300" stop="20240913113000 -0300" channel="TV Justiça">
+  <programme start="20240914020000 -0300" stop="20240914023000 -0300" channel="TV Justiça">
     <title lang="pt">Artigo 5º</title>
     <desc lang="pt">Assuntos do cotidiano brasileiro examinados a partir de trechos do Artigo 5º da Constituição.</desc>
   </programme>
-  <programme start="20240913113000 -0300" stop="20240913120000 -0300" channel="TV Justiça">
-    <title lang="pt">MP Cidadão</title>
-    <desc lang="pt">O programa surgiu com o objetivo de aproximar o cidadão comum do Ministério Público e do universo jurídico. A extensa pauta apresentada pelo programa é debatida por uma equipe formada por jornalistas, advogados e promotores.</desc>
-  </programme>
-  <programme start="20240913120000 -0300" stop="20240913121500 -0300" channel="TV Justiça">
-    <title lang="pt">Inteiro Teor</title>
-    <desc lang="pt">Revista eletrônica produzida pelo Tribunal Regional Federal da 1ª Região e voltada para a divulgação de ações e decisões judiciais que repercutem no dia a dia de toda a sociedade brasileira.</desc>
-  </programme>
-  <programme start="20240913121500 -0300" stop="20240913123000 -0300" channel="TV Justiça">
-    <title lang="pt">Cinematógrafo</title>
-    <desc lang="pt">Saiba mais sobre cinema e acompanhe a história, personalidades, críticas e os movimentos da sétima arte, de forma leve e descontraída.</desc>
-  </programme>
-  <programme start="20240913123000 -0300" stop="20240913130000 -0300" channel="TV Justiça">
-    <title lang="pt">Jornal da Justiça - 1ª Edição</title>
-    <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
-  </programme>
-  <programme start="20240913130000 -0300" stop="20240913133000 -0300" channel="TV Justiça">
-    <title lang="pt">Descomplicando</title>
-    <desc lang="pt">O professor e escritor Júlio Hidalgo interage com crianças e incentiva-as a conhecerem seus direitos e deveres, chamando a atenção para discussões de interesse público.</desc>
-  </programme>
-  <programme start="20240913133000 -0300" stop="20240913140000 -0300" channel="TV Justiça">
-    <title lang="pt">Documentário</title>
-    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
-  </programme>
-  <programme start="20240913140000 -0300" stop="20240913154900 -0300" channel="TV Justiça">
-    <title lang="pt">Sessão STF</title>
-    <desc lang="pt">Neste programa, você vai rever as principais decisões tomadas nos maiores tribunais brasileiros, julgamentos que ficaram na história e modificaram a vida do país.</desc>
-  </programme>
-  <programme start="20240913154900 -0300" stop="20240913155700 -0300" channel="TV Justiça">
-    <title lang="pt">Boletim Justiça Agora</title>
-    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
-  </programme>
-  <programme start="20240913173000 -0300" stop="20240913180000 -0300" channel="TV Justiça">
-    <title lang="pt">Link CNJ</title>
-    <desc lang="pt">Descubra o que é e o que faz o Conselho Nacional de Justiça.</desc>
-  </programme>
-  <programme start="20240913180000 -0300" stop="20240913183000 -0300" channel="TV Justiça">
-    <title lang="pt">Tá na Web</title>
-    <desc lang="pt">Fique por dentro de tudo o que acontece na internet e dos temas mais buscados no Google.</desc>
-  </programme>
-  <programme start="20240913183000 -0300" stop="20240913190000 -0300" channel="TV Justiça">
-    <title lang="pt">Jornal da Justiça - 2ª Edição</title>
-    <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
-  </programme>
-  <programme start="20240913190000 -0300" stop="20240913193000 -0300" channel="TV Justiça">
-    <title lang="pt">Como Funciona Aí</title>
-    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
-  </programme>
-  <programme start="20240913193000 -0300" stop="20240913200000 -0300" channel="TV Justiça">
-    <title lang="pt">Revista TST</title>
-    <desc lang="pt">Acompanhe as principais notícias da Justiça do Trabalho de forma interativa, com quadros e entrevistas especiais.</desc>
-  </programme>
-  <programme start="20240913200000 -0300" stop="20240913203000 -0300" channel="TV Justiça">
+  <programme start="20240914023000 -0300" stop="20240914030000 -0300" channel="TV Justiça">
     <title lang="pt">Interesse Público</title>
     <desc lang="pt">O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade.</desc>
-  </programme>
-  <programme start="20240913203000 -0300" stop="20240913000000 -0300" channel="TV Justiça">
-    <title lang="pt">Ministro Gilmar Mendes - 20 Anos no STF</title>
-    <desc lang="pt">Conheça a história de vida de Gilmar Ferreira Mendes, desde a infância na pequena cidade de Diamantino, em Mato Grosso, até os dias atuais, como ministro do Supremo Tribunal Federal, com vídeos e depoimentos de ministros do STF e outras autoridades.</desc>
-  </programme>
-  <programme start="20240913000000 -0300" stop="20240914003000 -0300" channel="TV Justiça">
-    <title lang="pt">Saber Direito - Aula</title>
-    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, Justiça e conteúdos jurídicos pouco difundidos.</desc>
-  </programme>
-  <programme start="20240914003000 -0300" stop="20240914030000 -0300" channel="TV Justiça">
-    <title lang="pt">Pleno TSE</title>
-    <desc lang="pt">Acompanhe temas do Tribunal Superior Eleitoral.</desc>
   </programme>
   <programme start="20240914030000 -0300" stop="20240914040000 -0300" channel="TV Justiça">
-    <title lang="pt">Documentário</title>
-    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
-  </programme>
-  <programme start="20240914040000 -0300" stop="20240914043000 -0300" channel="TV Justiça">
-    <title lang="pt">Hora Extra</title>
-    <desc lang="pt">Acompanhe reportagens sobre fatos e acontecimentos relacionados à justiça do trabalho. Profissionais e especialistas das mais diversas áreas do conhecimento compartilham suas experiências sobre o mundo do trabalho.</desc>
-  </programme>
-  <programme start="20240914043000 -0300" stop="20240914050000 -0300" channel="TV Justiça">
     <title lang="pt">Jornal da Justiça - 2ª Edição</title>
     <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
   </programme>
-  <programme start="20240914050000 -0300" stop="20240914053000 -0300" channel="TV Justiça">
-    <title lang="pt">Direito sem Fronteiras</title>
-    <desc lang="pt">Em debate, temas de grande repercussão analisados por especialistas em direito, cientistas sociais, e até mesmo representantes da sociedade civil organizada.</desc>
+  <programme start="20240914040000 -0300" stop="20240914050000 -0300" channel="TV Justiça">
+    <title lang="pt">STJ Entrevista</title>
+    <desc lang="pt">Ministros do Superior Tribunal de Justiça são os âncoras do programa produzido pela Coordenadoria de Rádio e TV do Superior Tribunal de Justiça. Durante 25 minutos, os ministros conversam e entrevistam especialistas convidados sobre temas do Direito.</desc>
   </programme>
-  <programme start="20240914053000 -0300" stop="20240914060000 -0300" channel="TV Justiça">
-    <title lang="pt">Interesse Público</title>
-    <desc lang="pt">O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade.</desc>
+  <programme start="20240914050000 -0300" stop="20240914060000 -0300" channel="TV Justiça">
+    <title lang="pt">Cartório Contemporâneo</title>
+    <desc lang="pt">Acompanhe as informações e educação sobre a atividade notarial para a população brasileira.</desc>
   </programme>
   <programme start="20240914060000 -0300" stop="20240914063000 -0300" channel="TV Justiça">
     <title lang="pt">Cinematógrafo</title>
@@ -3509,8 +3463,140 @@
     <title lang="pt">Direito sem Fronteiras</title>
     <desc lang="pt">Em debate, temas de grande repercussão analisados por especialistas em direito, cientistas sociais, e até mesmo representantes da sociedade civil organizada.</desc>
   </programme>
-  <programme start="20240916203000 -0300" stop="20240916210000 -0300" channel="TV Justiça">
+  <programme start="20240916203000 -0300" stop="20240916000000 -0300" channel="TV Justiça">
     <title lang="pt">Grandes Julgamentos do STF</title>
     <desc lang="pt">Veja os julgamentos que marcaram a história e transformaram a vida do país. O programa mostra as principais decisões tomadas na maior corte brasileira, o Supremo Tribunal Federal.</desc>
+  </programme>
+  <programme start="20240916000000 -0300" stop="20240917003000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, Justiça e conteúdos jurídicos pouco difundidos.</desc>
+  </programme>
+  <programme start="20240917003000 -0300" stop="20240917033000 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão STF</title>
+    <desc lang="pt">Neste programa, você vai rever as principais decisões tomadas nos maiores tribunais brasileiros, julgamentos que ficaram na história e modificaram a vida do país.</desc>
+  </programme>
+  <programme start="20240917040000 -0300" stop="20240917043000 -0300" channel="TV Justiça">
+    <title lang="pt">Via Justiça</title>
+    <desc lang="pt">O programa feito pela Associação dos Magistrados Mineiros seleciona um tema para ser discutido entre os magistrados.</desc>
+  </programme>
+  <programme start="20240917043000 -0300" stop="20240917050000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça - 2ª Edição</title>
+    <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
+  </programme>
+  <programme start="20240917050000 -0300" stop="20240917053000 -0300" channel="TV Justiça">
+    <title lang="pt">Direito sem Fronteiras</title>
+    <desc lang="pt">Em debate, temas de grande repercussão analisados por especialistas em direito, cientistas sociais, e até mesmo representantes da sociedade civil organizada.</desc>
+  </programme>
+  <programme start="20240917053000 -0300" stop="20240917060000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+  </programme>
+  <programme start="20240917060000 -0300" stop="20240917063000 -0300" channel="TV Justiça">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt">Assuntos do cotidiano brasileiro examinados a partir de trechos do Artigo 5º da Constituição.</desc>
+  </programme>
+  <programme start="20240917063000 -0300" stop="20240917070000 -0300" channel="TV Justiça">
+    <title lang="pt">Repórter Justiça</title>
+    <desc lang="pt">Reportagens especiais sobre assuntos de interesse da população brasileira, buscando aproximar o cidadão dos seus direitos.</desc>
+  </programme>
+  <programme start="20240917070000 -0300" stop="20240917073000 -0300" channel="TV Justiça">
+    <title lang="pt">Plenárias</title>
+    <desc lang="pt">Um resumo do que aconteceu nas sessões do Supremo Tribunal Federal e como essas decisões vão repercutir no cotidiano dos cidadãos brasileiros.</desc>
+  </programme>
+  <programme start="20240917073000 -0300" stop="20240917080000 -0300" channel="TV Justiça">
+    <title lang="pt">Link CNJ</title>
+    <desc lang="pt">Descubra o que é e o que faz o Conselho Nacional de Justiça.</desc>
+  </programme>
+  <programme start="20240917080000 -0300" stop="20240917085700 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">O programa tem o objetivo de aprofundar o conhecimento jurídico de estudantes e profissionais da área, promover discussões de forma didática, além de esclarecer os cidadãos sobre seus direitos, leis, Justiça e conteúdos jurídicos pouco difundidos.</desc>
+  </programme>
+  <programme start="20240917085700 -0300" stop="20240917090000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
+  </programme>
+  <programme start="20240917090000 -0300" stop="20240917100000 -0300" channel="TV Justiça">
+    <title lang="pt">Viver Melhor</title>
+    <desc lang="pt">Um programa que defende que, para viver melhor, não é preciso cruzar a cidade à procura do que você precisa, nas questões de saúde, lazer, finanças ou educação.</desc>
+  </programme>
+  <programme start="20240917100000 -0300" stop="20240917103000 -0300" channel="TV Justiça">
+    <title lang="pt">OAB Nacional</title>
+    <desc lang="pt">O programa aborda assuntos nacionais jurídicos e é voltado para estudantes universitários, advogados e para a sociedade em geral.</desc>
+  </programme>
+  <programme start="20240917103000 -0300" stop="20240917105800 -0300" channel="TV Justiça">
+    <title lang="pt">Direito sem Fronteiras</title>
+    <desc lang="pt">Em debate, temas de grande repercussão analisados por especialistas em direito, cientistas sociais, e até mesmo representantes da sociedade civil organizada.</desc>
+  </programme>
+  <programme start="20240917105800 -0300" stop="20240917110000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
+  </programme>
+  <programme start="20240917110000 -0300" stop="20240917111500 -0300" channel="TV Justiça">
+    <title lang="pt">STJ Notícias</title>
+    <desc lang="pt">O programa traz as principais decisões do Superior Tribunal de Justiça e a repercussão que elas tiveram ao longo da semana na web. Com uma linguagem simples e moderna, a atração também tira dúvidas dos internautas.</desc>
+  </programme>
+  <programme start="20240917111500 -0300" stop="20240917113000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornada TST</title>
+    <desc lang="pt">Uma revista eletrônica com reportagens especiais e quadros que enfatizam projetos nacionais, as principais decisões e projetos dos Tribunais e Varas do Trabalho, além de atividades artísticas e culturais.</desc>
+  </programme>
+  <programme start="20240917113000 -0300" stop="20240917120000 -0300" channel="TV Justiça">
+    <title lang="pt">Interesse Público</title>
+    <desc lang="pt">O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade.</desc>
+  </programme>
+  <programme start="20240917120000 -0300" stop="20240917123000 -0300" channel="TV Justiça">
+    <title lang="pt">Como Funciona Aí</title>
+    <desc lang="pt">Brasileiros que moram no exterior explicam como funcionam as leis em outros países.</desc>
+  </programme>
+  <programme start="20240917123000 -0300" stop="20240917130000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça - 1ª Edição</title>
+    <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
+  </programme>
+  <programme start="20240917130000 -0300" stop="20240917133000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+  </programme>
+  <programme start="20240917133000 -0300" stop="20240917140000 -0300" channel="TV Justiça">
+    <title lang="pt">Artigo 5º</title>
+    <desc lang="pt">Assuntos do cotidiano brasileiro examinados a partir de trechos do Artigo 5º da Constituição.</desc>
+  </programme>
+  <programme start="20240917140000 -0300" stop="20240917150400 -0300" channel="TV Justiça">
+    <title lang="pt">Sessão STF</title>
+    <desc lang="pt">Neste programa, você vai rever as principais decisões tomadas nos maiores tribunais brasileiros, julgamentos que ficaram na história e modificaram a vida do país.</desc>
+  </programme>
+  <programme start="20240917150400 -0300" stop="20240917160000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
+  </programme>
+  <programme start="20240917172000 -0300" stop="20240917173000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornada TST</title>
+    <desc lang="pt">Uma revista eletrônica com reportagens especiais e quadros que enfatizam projetos nacionais, as principais decisões e projetos dos Tribunais e Varas do Trabalho, além de atividades artísticas e culturais.</desc>
+  </programme>
+  <programme start="20240917173000 -0300" stop="20240917180000 -0300" channel="TV Justiça">
+    <title lang="pt">Link CNJ</title>
+    <desc lang="pt">Descubra o que é e o que faz o Conselho Nacional de Justiça.</desc>
+  </programme>
+  <programme start="20240917180000 -0300" stop="20240917183000 -0300" channel="TV Justiça">
+    <title lang="pt">OAB Entrevistas</title>
+    <desc lang="pt">O OAB Entrevistas apresenta ao público um debate com temas atuais de interesse da sociedade, com opinião de juristas, especialistas e mestres do direito.</desc>
+  </programme>
+  <programme start="20240917183000 -0300" stop="20240917190000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça - 2ª Edição</title>
+    <desc lang="pt">Acompanhe entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.</desc>
+  </programme>
+  <programme start="20240917190000 -0300" stop="20240917200800 -0300" channel="TV Justiça">
+    <title lang="pt">Pleno TSE</title>
+    <desc lang="pt">Acompanhe temas do Tribunal Superior Eleitoral.</desc>
+  </programme>
+  <programme start="20240917200800 -0300" stop="20240917201000 -0300" channel="TV Justiça">
+    <title lang="pt">Boletim Justiça Agora</title>
+    <desc lang="pt">Acompanhe as últimas notícias do Judiciário.</desc>
+  </programme>
+  <programme start="20240917201000 -0300" stop="20240917203000 -0300" channel="TV Justiça">
+    <title lang="pt">Documentário</title>
+    <desc lang="pt">Acompanhe documentários que abordam temas como cultura, sociedade, história, política, biografias, tecnologia, geografia e arte.</desc>
+  </programme>
+  <programme start="20240917203000 -0300" stop="20240917210000 -0300" channel="TV Justiça">
+    <title lang="pt">Revista TST</title>
+    <desc lang="pt">Acompanhe as principais notícias da Justiça do Trabalho de forma interativa, com quadros e entrevistas especiais.</desc>
   </programme>
 </tv>
